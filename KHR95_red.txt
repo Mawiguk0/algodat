@@ -1,0 +1,2261 @@
+Name	StrHausNr	PLZ	Ort	Betten
+Fachkrankenhaus Fur	-	02708	Großschweidnitz	352
+Sächsisches Krankenhaus	-	04720	Westewitz über Döbeln	145
+Krankenhaus Erlabrunn	-	08349	Erlabrunn	494
+Fachkrankenhaus Waldeck	-	18258	Schwaan	131
+Krankenhaus Stift Betlehem	-	19288	Ludwigslust	328
+Nordwest-Krankenhaus	-	26452	Sande	430
+Landeswohlfahrtsverb Hessen	-	34308	Bad Emstal	430
+Landeswohlfahrtsverb Hessen	-	34308	Bad Emstal	0
+Hess Bruederhaus Ev	-	34613	Schwalmstadt	90
+Niedersächsisches	-	37124	Rosdorf	176
+Heilstaette Am Meissner	-	37235	Hessisch Lichtenau	92
+St Antoniuskrankenhaus	-	56588	Waldbreitbach	162
+Landeswohlfahrtsverb Hessen	-	64560	Riedstadt	421
+Klinik F Kinder U Jugend-	-	64560	Riedstadt	70
+Kliniken Der Stadt	-	66111	Saarbrücken	853
+Universitaetskliniken	-	66424	Homburg	1609
+Waldkrankenhaus Dalkingen	-	73492	Rainau	38
+Klinik Loewenstein	-	74245	Löwenstein	270
+Landesklinik	-	75365	Calw	473
+Kreiskrankenhaus	-	79822	Titisee-Neustadt	192
+Stiftung Liebenau	-	88074	Meckenbeuren	40
+Kneippsanatorium Jordanbad	-	88400	Biberach	44
+Bezirkskrankenhaus	-	91238	Engelthal	160
+St Hedwig-Klinik	A 2 5-7	68159	Mannheim	80
+Dreifaltigkeits-Krankenhaus	Aachenerstr 445-449	50931	Köln	145
+Fachklinik F Gemuets- U	Aarstr 17	56368	Katzenelnbogen	65
+Schlossklinik Abtsee Gmbh	Abtsee 31	83410	Laufen	20
+Kreiskrankenhaus	Achdorfer Weg 3	84036	Landshut	367
+Priv Klinik Dr Steib	Adelheidstr 18	61462	Königstein	34
+Drk-Krankenhaus Diez	Adelheidstrasse 2	65582	Diez	175
+St Josef-Krankenhaus	Adolfsstr 15	51373	Leverkusen	193
+Westfälische Landesklinik	Agathastr.1	33098	Paderborn	240
+Kreiskrankenhaus Elmshorn	Agnes-Karll-Allee	25337	Elmshorn	316
+Vitusstift Fachklinik	Ahlhorner Straße 22	49429	Visbek	20
+St Hedwig-Hospital	Ahornstr 33	45892	Gelsenkirchen	230
+St Joseph-Hospital Laar	Ahrstrasse 100	47139	Duisburg	245
+Fachklinik Fuer Neurologie	Akad Krkhs der Univers Ulm	88477	Schwendi	78
+St Antonius-Hospital	Albers Allee 5-7	47533	Kleve	437
+St Anna-Krankenhaus	Albert-Magnus-Str 33	47259	Duisburg	385
+Ev. Krankenhaus	Albert-Rohloff-Straße 2	37581	Bad Gandersheim	171
+Kreiskrankenhaus	Albert-Schweitzer-Str 10-20	64711	Erbach	285
+Kreiskrankenhaus Tauber-	Albert-Schweitzer-Str 37	97941	Tauberbischofsheim	265
+Kreiskrankenhaus	Albert-Schweitzer-Str 90	91710	Gunzenhausen	220
+Stadt-U Kreiskrankenhaus	Albert-Schweitzer-Str.10	95326	Kulmbach	420
+Kreiskrankenhaus	Albert-Schweitzer-Straße 10	48527	Nordhorn	392
+Klinikum Suhl	Albert-Schweitzer-Strasse 3	98527	Suhl	835
+Ev. Krh. Ludwigsfelde-Teltow	Albert-Schweitzer-Straße 42-44	14974	Ludwigsfelde	295
+Kreiskrankenhaus Nordenham	Albert-Schweitzer-Straße 43	26954	Nordenham	220
+Malteser-Krankenhaus	Albert-Struck-Str 1	59075	Hamm	280
+Paracelsusklinik Schoeneck	Albertplatz 1	08261	Schöneck	153
+Landesfachkrankenhaus	Alexander-Puschkin-Str 17	99734	Nordhausen	346
+Klinik Fuer Orthopaedie	Alexanderstr 5-7 A	70184	Stuttgart	93
+Zentrum Fuer Psychiatrie	Alexandrinenstr 1	44791	Bochum	145
+Alexianer-Krankenhaus	Alexianergraben 33	52064	Aachen	205
+St.- Alexius-Krankenhaus	Alexianerplatz 1	41464	Neuss	454
+Alexianer-Krankenhaus	Alexianerweg 9	48163	Münster	130
+Marienkrankenhaus	Alfredstraße 9	22087	Hamburg	568
+Alfried Krupp Von Bohlen	Alfried-Krupp-Str 21	45131	Essen	560
+St.- Josefs-Krankenhaus	Allee nach Sanssouci 7	14471	Potsdam	265
+Kreiskrankenhaus	Alleenstr 10	78532	Tuttlingen	321
+Kreiskrankenhaus	Alleenstraße 10	78532	Tuttlingen	139
+Duenkeloh-Klinik	Alleestr 105-107	42853	Remscheid	50
+St Elisabeth-Krankenhaus	Alois-Schneider-Str 37	54568	Gerolstein	152
+Allgemeines Krankenhaus	Alphonsstraße 14	22043	Hamburg	620
+Evangelisches Krankenhaus	Alsterdorfer Straße 440	22299	Hamburg	203
+Klinik Dr Roemer	Altburger Weg 2	75365	Calw	82
+St Josef-Krankenhaus	Alte-Koelner-Str 9	51688	Wipperfürth	258
+Kreiskrankenhaus Westerwald	Alte Frankfurter-Str 12	57627	Hachenburg	215
+Klinik Poppenbüttel	Alte Landstraße 284	22339	Hamburg	87
+Tagesklinik Kieler Fenster	Alte Lübecker Chaussee 1	24114	Kiel	0
+Krankenhaus Pfullendorf	Alte Postgasse 1	88630	Pfullendorf	148
+Franziskus-Hospital	Alte Rothenfelder Straße 23	49124	Georgsmarienhütte	320
+St Josefs-Krankenhaus	Alte Schulstr 21-23	40789	Monheim	115
+Kliniken Am Burggraben	Alte Vlothoer Str 47-49	32105	Bad Salzuflen	30
+Kreiskrankenhaus	Alte Waibstadter Str.2	74889	Sinsheim	302
+Tagesklinik	Alteburger Str 8-12	50678	Köln	24
+Orthopädische Klinik	Alten Eichen 28	28359	Bremen	34
+Städtisches Krankenhaus	Altenwalder Chaussee 10-12	27474	Cuxhaven	352
+Chirurgische Klinik	Alter Postplatz 2	71332	Waiblingen	44
+Frauenklinik Dr. Brachmann	Alter Weg 50	38302	Wolfenbüttel	40
+Städtisches Krankenhaus	Alter Weg 80	38302	Wolfenbüttel	353
+Privatklinik Dr.Amelung	Altkoenigstr.16	61462	Königstein	85
+St Marien-Hospital	Altstadtstr 23	44534	Lünen	593
+Kreiskrankenhaus	Alvesloher Straße 27	24568	Kaltenkirchen	208
+Auguste-Viktoria-Klinik	Am-Kokturkanal 2 Pst 100161	32545	Bad Oeynhausen	156
+Krankenhaus Maria Stern	Am Anger 1	53424	Remagen	183
+Kreiskrankenhaus Plochingen	Am Aussichtsturm 5	73207	Plochingen	170
+Kreiskrankenhaus	Am Bahnberg 5	31199	Diekholzen	150
+St Marien-Hospital	Am Boltenhof 7	46325	Borken	368
+St.-Vincenz-Krankenhaus	Am Busdorf 2-4	33098	Paderborn	556
+Johanniter-Tagesklinik	Am Carmen-Sylva-Garten 6	56564	Neuwied	0
+Malteser-Krankenhaus Kamenz	Am Damm 7	01917	Kamenz	202
+Knappschafts Krankenhaus	Am Deimelsberg 34 A	45276	Essen	274
+Nervenklinik Krefeld-	Am Dreifaltigkeitskloster	47807	Krefeld	175
+Spezialklinik	Am Eichberg	07407	Etzelbach	50
+Krankenhaus Eichhof	Am Eichberg 41	36341	Lauterbach	283
+Klinik Oeschelbronn	Am Eichhof	75223	Niefern-Öschelbronn	70
+Kreiskrankenhs Bad Waldsee	Am Engelberg 29	88239	Wangen	145
+Kreiskrankenhs Leutkirch	Am Engelberg 29	88239	Wangen	130
+Kreiskrankenhs Wangen	Am Engelberg 29	88239	Wangen	273
+Kreiskrankenhs Isny	Am Engelberg 29	88239	Wangen	100
+Kreiskrankenhaus	Am Espach 20	87727	Babenhausen	62
+Bezirkskrankenhaus	Am Europakanal 71	91056	Erlangen	491
+Bezirkskrankenhaus	Am Fahlenberg 2-10	34385	Bad Karlshafen	134
+Städtische Kliniken	Am Finkenhügel 1	49076	Osnabrück	583
+Klinik Am Hellweg	Am Flugplatz 12	33813	Oerlinghausen	160
+Kreiskrankenhaus Bützow	Am Forsthof 11	18246	Bützow	135
+Städtisches Krankenhaus	Am Friedenshof 5	23966	Wismar	788
+Stadt Heilbronn	Am Gesundbrunnen 20	74078	Heilbronn	838
+Heinz Kalk-Klinik	Am Gradierbau 2	97688	Bad Kissingen	86
+Kreiskrankenhaus	Am Greinberg 25	97199	Ochsenfurt	170
+Kreiskrankenhaus	Am Griesberg 1	84347	Pfarrkirchen	207
+Arbeiter-Samariter-Bund	Am Grossen Wannsee 28-30	14109	Berlin	223
+Entzugsstation der Übergangs	Am Grünen Loch 2	35647	Waldsolms	8
+St Antonius-Krankenhaus	Am Haehnchen 36	53937	Schleiden	142
+Johanna-Etienne-Krankenhaus	Am Hasenberg 46	41462	Neuss	400
+Klinikum Aschaffenburg	Am Hasenko	63739	Aschaffenburg	668
+Klinik für ästhetisch-	Am Hauptbahnhof 12	60329	Frankfurt	0
+Dominikus-Krankenhaus	Am Heerdter Krankenhaus 2	40549	Düsseldorf	400
+Asklepios-Klinik	Am Hochkamp 21	23611	Bad Schwartau	80
+Klinik Am Hohen Berg	Am Hohen Berg 20	35315	Homberg	50
+Berglandklinik	Am Hundebrink 6	58511	Lüdenscheid	32
+Chirurg Klinik Dr Rinecker	Am Isarkanal 30	81379	München	264
+Kreiskrankenhaus	Am Kaelblesrain 1-10	73430	Aalen	437
+William Harvey Klinik	Am Kaiserberg 6	61231	Bad Nauheim	86
+Diabetes-Klinik	Am Klaubusch	29549	Bad Bevensen	125
+Kreiskrankenhaus	Am Kleinen Ofenberg 1	34466	Wolfhagen	121
+Krankenhaus Buxtehude	Am Krankenhaus 1	21614	Buxtehude	251
+St Elisabeth-Hospital	Am Krankenhaus 12	49497	Mettingen	79
+Kreiskrankenhaus Osterholz	Am Krankenhaus 4	27711	Osterholz-Scharmbeck	212
+Kreiskrankenhaus	Am Krankenhaus 5	24211	Preetz	198
+Augenklinik	Am Kurpark 13-15	49214	Bad Rothenfelde	65
+Städtisches Krankenhaus	Am Leineufer 70	30419	Hannover	200
+Huettenhospital	Am Marksbach 28	44269	Dortmund	144
+Brk Rheuma-Zentrum	Am Markt 2	93077	Bad Abbach	257
+Krankenhaus Neuhaus Elbe	Am Markt 5           18	19273	Neuhaus	65
+Lichtenau Orthopaedische	Am Muehlenberg	37235	Hessisch Lichtenau	30
+Lichtenau Ev	Am Mühlenberg	37235	Hessisch Lichtenau	150
+Paracelsus-Klinik	Am Natruper Holz 69	49076	Osnabrück	350
+Humboldt-Krankenhaus	Am Nordgraben 2	13509	Berlin	916
+Privatklinik Dr. Katalinic	Am Plärrer 35	90443	Nürnberg	10
+Kreiskrankenhaus	Am Plattenwald 1	74177	Bad Friedrichshall	447
+Klinik Roseneck Gmbh & Co	Am Roseneck 6	83209	Prien	150
+Johanniter-Krankenhaus	Am Runden Berge	21502	Geesthacht	252
+Kreis-U Stadtkrankenhaus	Am Schillerhain 1-8	95615	Marktredwitz	355
+Mathildenhospital	Am Schlag 9	63654	Büdingen	172
+Krankenhaus Maria-Hilf	Am Schoenschede 1	59929	Brilon	225
+Krankenhaus Wettin	Am Schweizerling	06198	Wettin	92
+Krankenhaus F Psychiatrie	Am Sommerberg	97816	Lohr	441
+Staedtisches Krankenhaus	Am Stadtgarten 10	78333	Stockach	70
+Kreiskrankenhaus Bautzen	Am Stadtwall 3	02625	Bautzen	568
+St-Vincenz-Krankenhaus	Am Stein 24	58706	Menden	286
+Neurologische Klinik	Am Tannenwald	79215	Elzach	5
+Stiftung Liebenau Kliniken	Am Vogelherd 4	88239	Wangen	125
+Nephrologisches Zentrum	Am Vogelsang 105	34346	Hannoversch Münden	120
+Kreiskrankenhaus	Am Vogelsang 4	79618	Rheinfelden	170
+Michaelis-Krankenhaus e.V.	Am Weiher 7	20255	Hamburg	103
+Krankenhaus St.Elisabeth	Am Weinberg 19	36251	Bad Hersfeld	79
+Vitalisklinik	Am Weinberg 3	36251	Bad Hersfeld	31
+Frauenklinik	Am Zuckerberg 89	71640	Ludwigsburg	14
+Krankenhaus Rohrbach	Amalienstr 5	69126	Heidelberg	206
+Krankenhaus Mörsenbroich-	Amalienstraße 9	40472	Düsseldorf	463
+Städt. Krankenhaus Riehl	Amsterdamer Str 59	50735	Köln	336
+Frauenklinik Dr Herrmann	Amstetter Str 54 A	70329	Stuttgart	44
+Marienkrankenhaus	Amtfeld 19	76316	Malsch	31
+Kreiskrankenhaus Crivitz	Amtsstraße 1	19089	Crivitz	128
+Klinik Oberwald Kg	An den Mühlwiesen 14-17	36355	Grebenhain	168
+Städtische Kliniken Olden-	An den Vossbergen 79-99	26133	Oldenburg	603
+St Johannes-Hospital	An der Abtei 7-11	47166	Duisburg	630
+Krankenhaus Radewitz	An der Autobahn 1	17328	Grünz	60
+St Vincenz- Und	An der Goldgrube 11	55131	Mainz	458
+Kreiskrankenhaus	An der Gontardslust 7	57319	Bad Berleburg	163
+Caritas-Krankenhaus	An der Heeresstr	66822	Lebach	241
+Evangelisches Krankenhaus	An der Lutter 24	37075	Göttingen	355
+Staedt Krankenanstalten	An der Rosenhoehe 27	33647	Bielefeld	356
+DRK-Manniske-Krankenhaus	An der Wipper 2	06567	Bad Frankenhausen	237
+Kreiskrankenhaus	An Fronte Karl 1	76726	Germersheim	171
+Krankenhaus Einbeck	Andershäuser Straße 8	37574	Einbeck	205
+Krankenanst Des Landkreises	Andreaestrasse 10	71665	Vaihingen	126
+Evang Krankenhaus	Andreasring 13-17	67547	Worms	208
+Kreiskrankenhaus Herzberg	Anhalter Strasse 1	04916	Herzberg	237
+St.-Anna-Stift	Annenstraße	49624	Löningen	150
+Krankenhaus	Annenstraße 15	27239	Twistringen	96
+Kreiskrankenhaus Leer	Annenstraße 9	26789	Leer	320
+Fachkrankenhaus Kloster	Annostr 1	57392	Schmallenberg	140
+Staedtisches Krankenhaus	Ansbacher Str 131	91541	Rothenburg	168
+St.-Willehad-Hospital	Ansgaristraße 12	26382	Wilhelmshaven	279
+St Marien-Hospital	An'T Lindeken 100	48691	Vreden	132
+Landesklinik Brandenburg	Anton-Saefkow-Allee 2	14772	Brandenburg/Havel	594
+Arabella-Privatklinik	Arabellastr 5/19	81925	München	38
+Augenklinik	Arabellastr 5/19	81925	München	36
+Marien-Hospital	Ardeystr.3	58452	Witten	414
+Krankenhaus Waldfriede	Argentinische Allee 40	14163	Berlin	230
+Priessnitz-Klinik Mahlow	Arnold-Böcklin-Strasse 7	15831	Mahlow	80
+Kreiskrankenhaus	Arnulfstr 1	93426	Roding	273
+Staedt Krankenhaus	Arthur-Gruber-Strasse 70	71065	Sindelfingen	467
+St Josefs-Krankenhaus	Asberger Strasse 4	47441	Moers	457
+Kreiskrankenhaus	Auenstr 6	82467	Garmisch-Partenkirchen	541
+Staedt Klinikum Dessau	Auenweg 38	06847	Dessau	830
+Robert-Bosch-Krankenhaus	Auerbachstr 110	70469	Stuttgart	479
+Krankenhaus	Auf dem hohen Ufer 19	26160	Bad Zwischenahn	105
+Krankenhaus Bethanien	Auf dem Muehlberg 30	60599	Frankfurt	236
+Kreiskrankenhaus Nuertingen	Auf dem Saeer 2	72622	Nürtingen	468
+St Vincenz-Krankenhaus	Auf dem Schafsberg	65549	Limburg	518
+Saarland-Heilstaetten Gmbh	Auf dem Sonnenberg	66111	Saarbrücken	364
+Vianney-Hospital	Auf dem Stein 17-21	88662	Überlingen	30
+St Antonius-Krankenhaus	Auf der Rahm 17	57537	Wissen	130
+Schmerz-Zentrum Mainz	Auf der Steig 14-16	55131	Mainz	80
+Deutsche Diabetes	Auf M Hennekamp 65	40225	Düsseldorf	58
+Lungen-Krankenhaus	Aufderhoeherstr 179-175	42699	Solingen	120
+Stadtkrankenhaus	August-Bebel-Str 59	65428	Rüsselsheim	511
+Rudolf Presl Gmbh & Co	August-Bebel-Strasse 12	01731	Kreischa	30
+Kreiskrankenhaus	August-Bebel-Strasse 15	09669	Frankenberg	252
+Kreiskrankenhaus	August-Bebel-Strasse 55 A	39288	Burg	350
+Marienhospital	August-Bendler-Str 10-14	58332	Schwelm	113
+Kreiskrankenhaus	August-Holz-Strasse 1	93413	Cham	200
+Marienkrankenhaus	August Antz Str 22	54293	Trier	190
+Augustahospital Anholt Gmbh	Augustastrasse 8 Pstf 20	46419	Isselburg	108
+Unfallklinik	Auguste-Victoria-Straße 18	24103	Kiel	38
+Auguste-Viktoria- und	Auguste-Viktoria-Allee 19-23	33175	Bad Lippspringe	350
+Marienkrankenhaus Gem Gmbh	Auguste-Viktoria-Allee 2	33175	Bad Lippspringe	115
+Marienkrankenhaus Gem Gmbh	Auguste-Viktoria-Allee 2	33175	Bad Lippspringe	40
+Universitätsklinikum	Augustenburger Platz 1	13353	Berlin	1797
+Deutsches Herzzentrum	Augustenburger Platz 1	13353	Berlin	142
+St Josef-Krankenhaus	Augustinusstr 23	41460	Neuss	300
+Klinikum Uckermark	Auguststrasse 23	16303	Schwedt	615
+Deutsche Klinik	Aukammallee 33	65191	Wiesbaden	80
+Kreiskrankenhaus	Aulendorfer Str 63	88427	Bad Schussenried	60
+Kreiskrankenhaus Schotten	Aussenliegend 13	63679	Schotten	155
+Klinik für Kinder-und Jugend	Austr 40	35745	Herborn	80
+Psychiatrisches Krankenhaus	Austrasse 40	35745	Herborn	339
+St Josefs-Hospital	Axstr 35	44879	Bochum	171
+St Hildegardis-Krankenhaus	Bachemerstr 29-33	50931	Köln	320
+Fr-Schiller-Universitaet	Bachstrasse 18	07743	Jena	1860
+Staedtisches Krankenhaus	Bachstrasse 57	88214	Ravensburg	100
+Hospital Zum Hl.Geist	Bachstraße 76	59590	Geseke	145
+Gynaekologisch-Onkologische	Bad-Trissl-Strasse 73	83080	Oberaudorf	290
+Krankenhaus Bad Soden-	Bad Sodener Str 18	63628	Bad Soden-Salmünster	33
+Kreiskrankenhaus	Bad Woerishofer Str 44	87719	Mindelheim	222
+Johanniter-Krankenhaus	Badergasse 2	14913	Jüterbog	113
+Evangelisches Krankenhaus	Badestrasse 23	99762	Neustadt	90
+Priv.Klinik U.Sanatorium	Badstr 43	85456	Wartenberg	117
+Privatklinik	Badstrasse 22	76835	Gleisweiler	100
+Krankenhaus Vom Roten Kreuz	Badstrasse 35-39	70372	Stuttgart	199
+Kreiskrankenhaus Arnstadt	Baerwinkelstrasse 33	99310	Arnstadt	384
+Rommel-Klinik Gmbh	Baetznerstr 96	75323	Bad Wildbad	100
+Krankenhaus d Missions-	Bahnhofstr 3-5	82327	Tutzing	150
+Sächsisches Krankenhaus für	Bahnhofstrasse	08228	Rodewisch	317
+Krankenhaus St.-Marien-Stift	Bahnhofstraße	26169	Friesoythe	140
+Landesfachklinik Im	Bahnhofstrasse 1 A	07646	Stadtroda	465
+Kreiskrankenhaus	Bahnhofstrasse 15	17087	Altentreptow	96
+St.-Elisabeth-Krankenhaus	Bahnhofstrasse 19	99976	Lengenfeld unterm Stein	75
+Elisabeth-Krankenhaus	Bahnhofstrasse 20-22	57548	Kirchen	374
+Tagesklinik Heide	Bahnhofstrasse 22 A	25746	Heide	0
+Frauenklinik Stendal	Bahnhofstrasse 24-26	39576	Stendal	147
+Kreiskrankenhaus Soemmerda	Bahnhofstrasse 36	99610	Sömmerda	460
+Krankenhaus Salzhausen	Bahnhofstraße 5	21376	Salzhausen	75
+Städtisches Krankenhaus	Bahnhofstraße 7	99885	Ohrdruf	80
+Katharinen-Hospital	Bahnstr 26	47877	Willich	160
+Kreiskrankenhaus Erding	Bajuwarenstr 5	85435	Erding	355
+Klinikum Der Philipps-	Baldingerstr	35043	Marburg	1310
+Stadtklinik	Balger-Str 50	76532	Baden-Baden	443
+Orthopaedisches Krankenhaus	Balthasar-Neumann-Platz 1	97440	Werneck	157
+Nervenkrankenhaus	Balthasar-Neumann-Platz 1	97440	Werneck	300
+Krankenhaus	Balthasar-Neumann-Platz 5	97440	Werneck	85
+St.-Barbara-Hospital	Barbarastrasse 1	45964	Gladbeck	453
+Asklepios Fachklinik für	Barbarastrasse 11	99750	Bleicherode	160
+St Barbara-Krankenhaus	Barbarastrasse 3-5	06110	Halle	250
+St Barbara-Hospital	Barbarastrasse 67	47167	Duisburg	325
+St-Josefs-Krankenhaus	Barlstrasse 40	56856	Zell	220
+Kreiskrankenhaus	Basedower Strasse 33	17139	Malchin	270
+Marienhospital	Basilikastrasse 55	47623	Kevelaer	254
+St.-Joseph-Krankenhaus	Bäumerplan 24	12101	Berlin	497
+Kreiskrankenhaus	Baumhofstr 93	97828	Marktheidenfeld	163
+Robert-Janker-Klinik	Baumschulallee 12-14	53115	Bonn	109
+Diakonissenanstalt Emmaus	Bautzener Str. 21	02906	Niesky	133
+Maria-Theresia-Klinik	Bavariaring 46	80336	München	64
+Atriumhaus	Bavariastr 11	80336	München	0
+Kreiskrankenhaus	Bayerwaldring 17	94405	Landau	209
+Gemeinnuetziges	Beckweg 4	58313	Herdecke	484
+Kreiskrankenhaus Zschopau	Beethovenstrasse 11	09405	Zschopau	249
+Krankenhaus Burgstädt	Beethovenstraße 14	09217	Burgstädt	165
+Marien-Hospital	Behringstr 36	44225	Dortmund	290
+Klinik St Barbara	Bei St Barbara 2	86150	Augsburg	95
+Krankenhaus Beim	Beim Andreasbrunnen 6	20249	Hamburg	54
+Kinderkrankenhaus Seehospiz	Benekestraße 27 Postfach 1563	26548	Norderney	160
+Kerckhoff-Klinik	Benekestrasse 6-8	61231	Bad Nauheim	169
+Lukas-Krankenhaus	Bentheimer Str 10	48599	Gronau	135
+Reha-Zentrum Fuer	Bergheimer Str 56 A	69115	Heidelberg	36
+Rheinische Landesklinik	Bergische Landstraße 2	40629	Düsseldorf	564
+Eggberklinik	Bergseestr 41-43	79713	Bad Säckingen	25
+Hochrheinklinik	Bergseestr 57	79713	Bad Säckingen	50
+Augusta-Kranken-Anstalt	Bergstr 26	44791	Bochum	602
+Priv.Nervenklinik	Bergstr 50	82131	Gauting	70
+Krankenhaus St Josef	Bergstr 6-12	42105	Wuppertal	291
+St.- Marien-Krankenhaus	Bergstrasse 1-3	14776	Brandenburg	105
+Kreiskrankenhaus Prignitz	Bergstrasse 11	19348	Perleberg	222
+Kreiskrankenhaus	Bergstraße 30	38518	Gifhorn	403
+Veramed-Klinik A Tannenberg	Beringhausen	59872	Meschede	80
+Privatklinik Hartmann	Berliner Platz 6A	25524	Itzehoe	30
+Goldenbuehl-Krankenhaus	Berliner Starsse 23	78048	Villingen-Schwenningen	92
+DRK-Krankenhaus	Berliner Str.11	14169	Berlin	250
+Kreiskrankenhaus Luckau	Berliner Strasse 27	15926	Luckau	181
+Orthopaedische Kinderklinik	Bernauer Str 18	83229	Aschau	80
+Bernhard-Nocht Institut für	Bernhard-Nocht-Straße 74	20359	Hamburg	53
+Bertaklinik Hannover	Bertastraße 10	30159	Hannover	45
+Sana Klinik	Bertelestrasse 75	81479	München	125
+Klinik des Westens	Bertha-von-Suttner-Str 7	39108	Magdeburg	25
+Kreiskrankenhaus Schleiz	Bertold-Schmidt-Straße 7-9	07901	Schleiz	167
+Krankenhaus Marienberger	Berufsbildungszentrum	72501	Gammertingen	26
+Privatklinik Dr. Pantke	Beselerallee 7	24105	Kiel	21
+Krankenhaus Bethanien	Bethanienstr 21	47441	Moers	571
+Staedt Kliniken Dortmund	Beurhausstr 40	44137	Dortmund	1864
+St.-Bernhard-Hospital	Bgm-Schmelzing-Str 90	47475	Kamp-Lintfort	430
+Kreiskrankenhaus	Bibersbacherstr 1	95632	Wunsiedel	60
+St.- Elisabeth-Krankenhaus	Biedermannstrasse 84	04277	Leipzig	384
+Städtisches Krankenhaus	Bierdener Mühle 2	28832	Achim	205
+St Johannes-Hospital	Billerbeckerstr 28	48341	Altenberge	60
+Privatklinik Dr. Steger	Bingstraße	90480	Nürnberg	35
+Klinik Und Rehabilitations-	Birkenallee 1	37194	Wahlsburg	136
+St Antonius-Krankenhaus	Birkenallee 18	41844	Wegberg	105
+Walter-Friedrich Kranken-	Birkenallee 34	39130	Magdeburg	403
+Gemeindekrankenhaus	Birkenstr 3	74585	Rot am See	22
+Kinderklinik Dritter Orden	Bischof-Altmann-Strasse 9	94032	Passau	90
+Klinikum Passau	Bischof-Piligrim-Strasse 1	94032	Passau	492
+Paracelsus-Klinik	Bismarckhoehe	56130	Bad Ems	158
+Staedt.Krankenhaus	Bismarckstr 19	79336	Herbolzheim	150
+Rheuma Klinik	Bismarckstr 7	32545	Bad Oeynhausen	39
+Olgahospital	Bismarckstr 8	70176	Stuttgart	402
+Stadtkrankenhaus	Bismarckstr.23	87700	Memmingen	667
+Krankenhaus St. Vinzenz	Bismarckstraße 10	38102	Braunschweig	120
+St Josef-Krankenhaus	Bitburger-Str 17	54673	Neuerburg	50
+Kreiskrankenhaus Uetersen	Bleekerstraße 3-5	25436	Uetersen	125
+St.-Johannes-Stift	Bleichenpfad 9	26316	Varel	150
+St Elisabeth-Krankenhaus	Bleichstrasse 15	44787	Bochum	347
+Altonaer Kinderkrankenhaus-	Bleickenallee 38	22763	Hamburg	226
+Klinik Prof Schweckendiek	Blitzweg 21	35039	Marburg	26
+Ev Bethesda-Krankenhaus	Bocholder Strasse 11-13	45355	Essen	399
+Kreiskrankenhaus	Bodelschwinghstr 11 A	68723	Schwetzingen	312
+Staedt Krankenhaus	Bodelschwinghstr.11	76829	Landau	231
+Fachkrankenhaus für	Bodelschwinghstrasse 4	16321	Lobetal	60
+Kreiskrankenhaus Stassfurt	Bodestrasse 11	39418	Staßfurt	342
+Marienhospital	Boeheimstr 37	70178	Stuttgart	629
+Städtisches Krankenhaus	Bögelstraße 1	21339	Lüneburg	580
+Krankenhaus St. Georg	Bombergallee 8	31812	Bad Pyrmont	188
+Brüderkrankenhaus	Bonner Talweg 4-6	53113	Bonn	288
+Dreifaltigkeitskrankenhaus	Bonnerstrasse 84	50389	Wesseling	200
+Krankenhaus Paulinenstift	Borngasse 14	56355	Nastätten	104
+Luisenhospital	Boxgraben 99	52064	Aachen	440
+Bezirkskrankenhaus	Braeuhausstr 5	84416	Taufkirchen	584
+Wilh-Griesinger-Krankenhaus	Brebacher Weg 15	12683	Berlin	701
+Krankenhaus Luenen-	Brechtener Strasse 59	44536	Lünen	171
+Paracelsus-Klinik Hemer	Breddestr 22	58675	Hemer	210
+St.-Johannes-Stift	Bredelaer Straße 33	34431	Marsberg	635
+Ev Krankenhaus	Bredenscheider Str 54	45525	Hattingen	348
+Klinik für Tumorbiologie	Breisacher Straße 117	79106	Freiburg im Breisgau	80
+Morlok Dr med	Breite Str 34	72116	Mössingen	15
+Caritas-Kliniken Pankow	Breite Strasse 46-47	13187	Berlin	298
+St.-Bernhard-Hospital	Breitestraße 84	26919	Brake	132
+Flüggenhofsee-Klinik	Breloher Straße 71	29633	Munster	10
+Krankenhaus St. Raphael	Bremer Straße 31	49179	Ostercappeln	175
+Städtisches Krankenhaus	Bremervörder Straße 111	21682	Stade	645
+Staedt Krankenanstalten	Bremserstr 79	67063	Ludwigshafen	1038
+St.- Ansgar-Krankenhaus	Brenkhaeuser Str 71	37671	Höxter	405
+Orthop Klinik	Brettreichstr 11	97074	Würzburg	160
+Krankenhaus Landsberg Lech	Brgmstr-Dr-Hartmann-Str 15	86899	Landsberg	294
+Christophorus-Kinder-	Briesingstr 6	12307	Berlin	135
+Privatklinik Dr. Winkler	Brinkmannstraße 6	25813	Husum	32
+Neuro-Psychiatr Krankenhaus	Bruch Str 6	52538	Gangelt	80
+Hospital Z.Heiligen Geist	Bruedergasse 4	34560	Fritzlar	180
+Fabricius Klinik Remscheid	Bruederstr 65	42853	Remscheid	115
+Chir Privatklinik	Bruehlstr 33	32423	Minden	40
+Stadtkrankenhaus	Brunnenallee 15	34537	Bad Wildungen	207
+Kreiskrankenhaus Salzwedel	Brunnenstrasse 1	29410	Salzwedel	285
+Augenklinik Stadthagen Gmbh	Brunnenstraße 12	31655	Stadthagen	30
+Staedt Krankenhaus	Brunnenstrasse 20	66538	Neunkirchen	352
+Krankenhaus Dr Lay Gmbh	Brunngasse 1	79235	Vogtsburg	108
+Klinikum der	Brunswiker Straße 10	24105	Kiel	1487
+Evang Krankenhaus	Brusebrinkstr 20	58135	Hagen	265
+Jugenddorf Buchenhoehe	Buchenhoehe 46	83471	Berchtesgaden	20
+Ev Krankenhaus Kalk	Buchforststr 2	51103	Köln	395
+Landesklinik Teupitz	Buchholzer Strasse 21	15755	Teupitz	303
+Franziskus-Krankenhaus	Budapester Straße 15-19	10787	Berlin	248
+St Josef-Hospital	Buerer Str 47	45899	Gelsenkirchen	344
+Kreiskrankenhaus Freital	Buergerstrasse 7	01705	Freital	312
+Klinikum Bamberg	Buger Strasse 80	96049	Bamberg	793
+Diabetiker-Hospital	Bundesallee 33	10717	Berlin	148
+Kreiskrankenhaus Boeblingen	Bunsenstr 120	71032	Böblingen	486
+Krankenhaus Hedwigshoehe	Buntzelstrasse 36	12526	Berlin	125
+Vereinskrankenhaus	Burckhardstraße 26	34346	Hannoversch Münden	205
+Klinikum Remscheid Gmbh	Burger Str 211	42859	Remscheid	726
+Fehmarnsches Krankenhaus	Bürgermeister-Lafrenz-Straße 4	23769	Burg	65
+Kreiskrankenhaus	Bürgerstraße 27	27321	Thedinghausen	43
+Stiftung Paracelsus	Burghaldenweg	75378	Bad Liebenzell	72
+Krankenhaus	Burgstall 9	72160	Horb	110
+Klinik am Glammsee	Burgstraße 23	19417	Warin	103
+St.-Agnes-Hospital	Burloer Weg 125	46397	Bocholt	506
+St.-Reginen-Stift	Buten-Porten 10	49584	Fürstenau	36
+Herz-Jesu-Krankenhaus	Buttlarstr 74	36039	Fulda	262
+Sana-Krankenhaus Bergen	Calandtstrasse 7-8	18528	Bergen	497
+Landeswohlfahrtsverband	Cappeler-Str 98	35039	Marburg	88
+Landeswohlfahrtsverband	Cappeler Strasse 98	35039	Marburg	475
+Staedt  Krankenhaus	Carl-Roth-Strasse 1	97877	Wertheim	220
+Ohlsche Privatklinik Gmbh	Carl-von-Ossietzky-Strasse 19	04600	Altenburg	20
+Kliniken St. Antonius	Carnaper Straße 48	42283	Wuppertal	735
+St Carolus-Krankenhaus	Carolusstrasse 212	02827	Görlitz	239
+DRK-Rittberg-Krankenhaus	Carstennstr 58	12205	Berlin	285
+Kreiskrankenhaus Gernsbach	Casimir-Katz-Str 22	76593	Gernsbach	90
+Martin-Luther-Krankenhaus	Caspar-Theyss-Str 27	14193	Berlin	400
+Klinik Veerssen Gmbh	Celler Straße 26	29525	Uelzen	50
+Klinikum Ernst von Bergmann	Charlottenstr. 72	14467	Potsdam	1128
+Kreiskrankenhaus Wolgast	Chausseestrasse 46	17438	Wolgast	289
+Kreiskrankenhaus Chemnitz	Chemnitzer Strasse 24 A	09212	Limbach-Oberfrohna	159
+Städtisches Krankenhaus	Chemnitzer Strasse 50	04289	Leipzig	496
+Städtisches Krankenhaus	Chemnitzstraße 33	24114	Kiel	769
+Psychotherapeutische Klinik	Christian-Belser-Str 79	70597	Stuttgart	102
+Kreiskrankenhaus Torgau	Christianistrasse 1	04860	Torgau	288
+Fachkrankenhaus Marienstift	Clara-Zetkin-Strasse 72	08340	Schwarzenberg	68
+Oskar-Helene-Heim	Clayallee 229	14195	Berlin	267
+St.-Anna-Hospital	Clemens-August-Straße 12	49413	Dinklage	75
+St.-Clemens-Hospital	Clemensstr. 1	47608	Geldern	330
+Kreiskrankenhaus	Coburger Str 207	96106	Ebern	115
+Kreiskrankenhaus Leisnig	Colditzer Strasse 48	04703	Leisnig	263
+Kreiskrankenhaus St. Marien	Conringstraße 30	38350	Helmstedt	404
+Vinzentius-Krankenhaus	Cornichonstr 4-6	76829	Landau	399
+Nervenkrankenhaus	Cottenbacherstr.23	95445	Bayreuth	834
+Kreiskrankenhaus	Crailsheimer Str 6	91550	Dinkelsbühl	190
+Elisabeth-Krankenhaus Gmbh	Cranger Strasse 226	45894	Gelsenkirchen	210
+Kreiskrankenhaus Traunstein	Cuno-Niggl-Strasse 3	83278	Traunstein	490
+Eduardus Krankenhaus	Custodisstr 3-17	50679	Köln	383
+Kreiskrankenhaus	Dachauer Strasse 33	82256	Fürstenfeldbruck	380
+Diana-Klinik	Dahlenburger Straße	29549	Bad Bevensen	46
+Krankenhaus Maria Hilf	Dahlienweg 3	53474	Bad Neuenahr-Ahrweiler	361
+Fachklinik Freudenholm-	Daldorfer Straße 2	24635	Rickling	35
+Kreiskrankenhaus Ellwangen	Dalkinger Str          12	73479	Ellwangen	253
+St.-Elisabeth-Krankenhaus	Dannenberger Straße 37	29439	Lüchow	35
+Kreiskrankenhaus	Dannenfelser Str 36	67292	Kirchheimbolanden	120
+St Vincenz-Hospital	Danziger-Str 17	33034	Brakel	170
+Kreiskrankenhaus	Danziger-Strasse 25	76887	Bad Bergzabern	175
+Christliches Krankenhaus	Danziger Straße	49610	Quakenbrück	450
+Landesnervenklinik	Dautenheimer Landstr 66	55232	Alzey	435
+Taunusklinik Falkenstein	Debusweg 2	61462	Königstein	153
+St Antonius-Hospital	Dechant-Decker-Strasse 8	52249	Eschweiler	477
+Kreiskrankenhaus	Dechant-Wiser-Str 18	93128	Regenstauf	55
+Paracelsus-	Degerstrasse 8	40235	Düsseldorf	48
+Deister-Süntel-Klinik	Deisterallee 36	31848	Bad Münder	90
+Kreiskrankenhaus	Delbrueckstraße 2	25541	Brunsbüttel	165
+Städtisches Krankenhaus	Delitzscher Straße 141	04129	Leipzig	895
+Klinik Haus Vogt Gmbh	Dennenbergstrasse 5	79822	Titisee-Neustadt	40
+Chirurgische Privatklinik	Denninger Strasse 44	81679	München	185
+Klinikum Leverkusen Ggmbh	Dhuennberg 60	51375	Leverkusen	775
+Diakonie-Krankenhaus	Diakoniestr	74523	Schwäbisch Hall	593
+Evang Diakonissenanstalt	Diakonissenstr 28	76199	Karlsruhe	430
+Alice-Hospital	Dieburger Str 31	64287	Darmstadt	241
+Krankenhaus Am Urban	Dieffenbachstr 1	10967	Berlin	1286
+August-Bier-Klinik	Diekseepromenade 9-11	23714	Malente	80
+Sophien-Klinik Gmbh	Dieterichsstraße 33	30159	Hannover	130
+Tagesklinik	Dimbeck 6	45470	Mülheim	0
+St.-Josefs-Krankenhaus	Dingelstädter Strasse 1	37356	Küllstedt	60
+Kreiskrankenhaus	Dingolshaeuser Str 5	97447	Gerolzhofen	140
+Kreiskrankenhaus	Ditfurter Weg 24	06484	Quedlinburg	590
+Städtisches Krankenhaus	Dobberkaustraße 5	29378	Wittingen	71
+Evang-Meth Diakoniewerk Ev	Dobenaustrasse 130	08523	Plauen	55
+Kreiskrankenhaus	Dohuser Weg 10	26409	Wittmund	175
+Klinik Dr. H.J. Knees	Doktorstieg 10	22869	Schenefeld	14
+Theresienklinik	Domerschulstr.1/3	97070	Würzburg	85
+Kreiskrankenhaus	Domherrnstrasse 10	39539	Havelberg	130
+Privat- Heil- und Pflege-	Dorfstraße	24860	Ülsby	51
+Kreiskrankenhaus	Dorfstrasse 1	39387	Neindorf	298
+Krankenhaus Fuer Koerper-	Dorfstrasse 18	17168	Matgendorf	50
+Fachklinik Hornheide	Dornbaumstr 300	48143	Münster	194
+Knappschaftskrankenhaus	Dorstener Strasse 151	45657	Recklinghausen	492
+Kreiskrankenhaus	Dr- Adam-Voll-Strasse 1	93437	Furth	70
+Klinik Feldafing	Dr-Appelhans-Weg 6	82340	Feldafing	92
+Naemi-Wilke-Stift	Dr-Ayrer-Strasse 1-4	03172	Guben	244
+Therapie-Zentrum Burgau	Dr-Friedl-Strasse 1	89331	Burgau	40
+Kreiskrankenhaus	Dr-Kiefl-Str 12	94447	Plattling	202
+Suedharz-Krankenhaus	Dr-Robert-Koch-Strasse 39	99734	Nordhausen	830
+Krankenhaus Ebersteinburg	Dr-Rumpf-Weg 7	76530	Baden-Baden	94
+Klinikum Neubrandenburg	Dr-Salv-Allende-Strasse 30	17033	Neubrandenburg	1000
+Kreiskrankenhaus	Dr-Sauerbruch-Str 1	93133	Burglengenfeld	189
+Frauenklinik Prien Gmbh	Dr-Siebert-Str 5	83209	Prien	27
+Krankenhaus Und Kurklinik	Dr-Wilhelm-Knarr-Weg 1-3	83043	Bad Aibling	36
+Evang Krankenhaus d	Dr Kaufmann Str 2	67098	Bad Dürkheim	230
+Kreiskrankenhaus Buchen	Dr Konrad Adenauer Str 37	74722	Buchen	224
+St Josefs-Krankenhaus Ggmbh	Dr Krismann Str 12	33154	Salzkotten	199
+Krankenhauszweckverband	Dr Moeller Str 15	58332	Schwelm	433
+Ev Krankenhaus Kredenbach	Dr Stelbrinkstrasse 47	57223	Kreuztal	128
+Krankenanstalt Kreuth	Dr Wilhelm-May-Str 12	83708	Kreuth	80
+Kreiskrankenhaus Dormagen	Dr.-Geldmacher-Straße	41539	Dormagen	364
+Kreiskrankenhaus	Dr.-Goldenbogen-Strasse	51545	Waldbröl	461
+Krankenhaus-Zweckverband	Dr.-Gutermann-Straße 2	87600	Kaufbeuren	434
+Knappschaftskrankenhaus	Dr.-Hans-Böckler-Platz 1	52146	Würselen	402
+Kreiskrankenhaus Osterode	Dr.-Hermannes-Weg 1	37412	Herzberg	236
+Gesundheitseinrichtungen	Dr.-Kremser-Straße 41	99755	Sülzhayn	66
+St.-Vincenz-Hospital GmbH	Dr.-Otto-Seidel-Straße 31-33	46535	Dinslaken	442
+Martin-Luther-Krankenhaus	Dr.-Otto-Straße 2	27404	Zeven	150
+Marien-Krankenhaus	Dr.-Robert-Koch-Straße 18	51427	Bergisch Gladbach	356
+Kath Krankenhaus Hagen	Dreieckstrasse 17	58097	Hagen	490
+St Elisabeth-Krankenhaus	Dreisamstr.15-17	79098	Freiburg	43
+Kinder- und Nervenklinik	Dresdner Straße 178	09131	Chemnitz	406
+DRK-Krh. Mark Brandenburg	Drontheimer Str 39/40	13359	Berlin	359
+Frauenklinik Rosenheim	Droste-Huelshoff-Strasse 4	83024	Rosenheim	70
+Kreiskrankenhaus	Dudenhoefer Str 9	63500	Seligenstadt	160
+Diabetes-Nachtklinik	Dudenstrasse 6	10965	Berlin	0
+Kreiskrankenhaus	Duebener Strasse 3 - 9	04509	Delitzsch	185
+Clemenshospital Gmbh	Dueesbergweg 124	48153	Münster	500
+Krankenhaus Neuwerk	Duenner Str 214-216	41066	Mönchengladbach	373
+Hufeland Kliniken	E-Rosenthal-Strasse 30	99423	Weimar	483
+Kreiskrankenhaus Wertingen	Ebersberg 36	86637	Wertingen	190
+Kreiskrankenhaus  Offenburg	Ebertplatz 12	77654	Offenburg	450
+St Marien-Krankenhaus	Edgar-von-Gierke-Str 2	76135	Karlsruhe	100
+Kreiskrankenhaus Calw	Eduard-Conz-Str 6	75365	Calw	240
+Kreiskrankenhaus	Egerer Strasse 30	95652	Waldsassen	125
+Krankenhaus St Josef	Eibinger Strasse 9	65385	Rüdesheim am Rhein	168
+Kreiskrankenhaus	Eichelbach 9	98574	Schmalkalden	336
+Psychiatrische Tagesklinik	Eichenstrasse 105-109	42659	Solingen	0
+Klinik Am Eichert	Eichertstr 3          660	73035	Göppingen	994
+Westf Landeskrankenhaus	Eickelbornstr 19	59556	Lippstadt	597
+Sophienkrankenhaus	Eisenacher Strasse 7	36452	Kaltennordheim	45
+Itertalklinik	Eisenhuette 21-23	52076	Aachen	23
+Städtisches Krankenhaus	Eisfelder Strasse 3	98553	Schleusingen	84
+Landesfachkrankenhaus Fuer	Eisfelder Strasse 41	98646	Hildburghausen	417
+Kreiskrankenhaus	Eislebener Strasse 7 A	06449	Aschersleben	445
+Kreiskrankenhaus Querfurt	Eislebener Strasse 9	06268	Querfurt	236
+Allgemeines Krankenhaus	Eißendorfer Pferdeweg 52	21075	Hamburg	856
+Kreiskrankenhaus Springe	Eldagsnerstraße 34	31832	Springe	150
+St Elisabeth-Hospital	Elisabeth-Str 10	59269	Beckum	311
+Charlottenklinik F	Elisabethenstr 15	70176	Stuttgart	62
+St Elisabethen-Krankenhaus	Elisabethenstrasse 15	88212	Ravensburg	627
+Elisabeth-Krankenhaus Gmbh	Elisabethstr 23	94315	Straubing	553
+St Elisabeth-Krankenhaus	Elisabethstrasse	66687	Wadern	148
+St.-Elisabeth-Krankenhaus	Elisabethstrasse 61	37334	Worbis	130
+Ev.-Luth. Diakonissen-	Elise-Averdieck-Straße 17	27356	Rotenburg	860
+St.-Josef Hospital	Elmarstr 38	33004	Bad Driburg	308
+Evang.-Luth. Wichernstift	Elmeloh 2	27777	Ganderkesee	57
+Staedtisches Krankenhaus	Elsa-Brandstroem-Strasse 1	67227	Frankenthal	325
+Kreiskrankenhaus Eschwege	Elsa-Brandström-Straße 1	37269	Eschwege	370
+Kreiskrankenhaus	Elsterstrasse 37	04910	Elsterwerda	190
+Kreiskrankenhaus St Ingbert	Elversbergerstr	66386	St Ingbert	227
+Bodenseekreis-Krankenhaus	Emil-Muench-Strasse 16	88069	Tettnang	200
+Krankenhs Rheingau-Taunus-	Emser-Str 29	65307	Bad Schwalbach	150
+Krankenhaus Heidenau	Ende Dohnaer Strasse	01809	Heidenau	180
+Die Brücke	Engelsgrube 47	23552	Lübeck	0
+Kreiskrankenhaus Rastatt	Engelstr 39	76437	Rastatt	317
+Hessenklinik	Enserstr. 19	34497	Korbach	292
+St Josef-Krankenhaus	Entengasse 4-6	56170	Bendorf	180
+Klinikum Hof	Eppenreuther Strasse 9	95032	Hof	496
+Medizinische Klinik	Erathstrasse 7	65189	Wiesbaden	110
+Kreiskrankenhaus Dorfen	Erdinger Str 17	84405	Dorfen	90
+Kreiskrankenhaus Gotha	Erfurter Landstrasse 35	99867	Gotha	404
+Kreiskrankenhaus Husum	Erichsenweg 16	25813	Husum	297
+Stiftsklinik Augustinum	Erkenbrecht Allee 45	91438	Bad Windsheim	194
+Privatklinik Dr Wangemann	Erlenbrucker Strasse 14	79856	Hinterzarten	15
+Maximilians-Augenklinik Ev	Erlenstegenstrasse 30	90491	Nürnberg	50
+Städtisches Krankenhaus	Ernst-Haeckel-Strasse 1	98544	Zella-Mehlis	118
+Staedt Krankenhaus	Ernst-Leitz-Weg 4	79295	Sulzburg	45
+Ev.Krankenhaus	Ernst-Moritz-Arndt-Str 17	58840	Plettenberg	183
+Kreiskrankenhaus	Ernst-Putz-Str 4	97769	Bad Brückenau	76
+Kreiskrankenhaus	Ernst-von-Bergmann-Str 22	39638	Gardelegen	310
+Meininger Kliniken Ggmbh	Ernststr. 7-9	98617	Meiningen	570
+Paulinenkrankenhaus	Eschenallee 28 30	14050	Berlin	160
+Kreiskrankenhaus	Eschfeldstraße 17	49356	Diepholz	190
+Kreiskrankenhaus Heide	Esmarchstraße 50	25746	Heide	457
+St Elisabeth Krankenhs	Essener Str 31	45529	Hattingen	148
+Privatklinik Dr. Wix	Euckenallee 23	26603	Aurich	20
+Krankenhaus Bethesda	Euelsbruchstrasse	57258	Freudenberg	210
+Kreiskrankenhaus Laupheim	Eugen-Bolz-Str 1	88471	Laupheim	161
+Kreiskrankenhaus Beeskow	Eugen-Richter-Strasse 1-3	15848	Beeskow	164
+Kreiskrankenhaus	Eugenstrasse 3	73230	Kirchheim	301
+Kreiskrankenhaus Geislingen	Eybstr 16	73312	Geislingen	312
+Krankenanst Krs Miltenberg	Fabrikstrasse 10	63897	Miltenberg	253
+Kinderklinik	Faehrstrasse 4	06114	Halle	120
+Orthopädische Klinik	Fahltskamp 73	25421	Pinneberg	30
+Kreiskrankenhaus Pinneberg	Fahltskamp 74	25421	Pinneberg	333
+Evang-U Johanniter-Kranken-	Fahrnerstr 135	47169	Duisburg	883
+Krankenhaus Lichtenberg	Fanningerstrasse 32	10365	Berlin	471
+Kirchlicher Verein für	Farmsener Landstraße 73-75	22359	Hamburg	56
+Staedt Krankenhaus	Farnweg 7	77728	Oppenau	46
+Christophsbad Goeppingen	Faurndauer Strasse 16	73035	Göppingen	335
+Ruppiner Klinikum	Fehrbelliner Strasse 38	16816	Neuruppin	483
+Landesnervenklinik	Fehrbelliner Strasse 38	16816	Neuruppin	390
+St Elisabethen-Krankenhaus	Feldbergstr.15	79539	Lörrach	215
+Heinrich Lanz Krankenhaus	Feldbergstrasse 68-70	68163	Mannheim	321
+Privatklinik	Feldbrunnenstraße 64	20148	Hamburg	22
+St Agatha-Krankenhaus	Feldgaertenstrasse 97	50735	Köln	190
+Krankenhaus	Feldstetterstr.64	89150	Laichingen	47
+Krankenanstalt Mutterhaus	Feldstrasse 16	54290	Trier	595
+Frauenklinik Martha-Haus	Felix-Dahn-Str 7 A	97072	Würzburg	30
+Kreiskrankenhaus	Felixallee 9	92660	Neustadt	170
+Evangelisches Krankenhaus	Ferrenbergstraße 24	51465	Bergisch Gladbach	300
+Schwesternkrankenhaus	Ferstlstr 40	84066	Mallersdorf-Pfaffenberg	20
+Medizinische Akademie	Fetscherstrasse 74	01307	Dresden	1376
+Staedt Krankenhaus	Fette Henn 50	47839	Krefeld	212
+Bezirkskrankenhaus	Feuchtwanger Str.38	91522	Ansbach	449
+Psychiatr Landeskrankenhaus	Feuersteinstr 55	78462	Konstanz	330
+Klinik Fraenkische Schweiz	Feuersteinstrasse 2	91320	Ebermannstadt	104
+Privatklinik Dr. Szalay	Finkenhofstr 15	60322	Frankfurt	0
+Bundesknappschaft	Fischbacer Str 100	66287	Quierschied	215
+Krankenhaus St Elisabeth	Fischergasse 14	88131	Lindau	38
+Ernst-Moritz-Arndt-Universit	Fleischmannstrasse	17489	Greifswald	1184
+Städtische Kliniken Chemnitz	Flemmingstraße 2-4	09116	Chemnitz	1237
+Ev Fliedner Krankenhaus	Fliednerstr 12	66538	Neunkirchen	189
+Städtische Krankenanstalten	Flurstr 17	90419	Nürnberg	2492
+Bezirksklinik Rehau	Fohrenreuther Strasse 48	95111	Rehau	52
+Evangelisches Krankenhaus	Forsterweg 34	37603	Holzminden	240
+Kreis-und Stadtkrankenhaus	Forsthausstr 1	35578	Wetzlar	686
+Heilanstalt Paulinenhilfe	Forststr 14	70174	Stuttgart	150
+Kreiskrankenhaus	Forststrasse 9	35066	Frankenberg	292
+Landesversicherungsanstalt	Frahmsallee 1-7	23714	Malente	20
+Mathias-Spital	Frankenburgstr 31	48431	Rheine	436
+Johanniter Tagesklinik Fuer	Frankfurter Str 229	40595	Düsseldorf	0
+Kinderkrankenhaus	Frankfurter Str.167	34117	Kassel	152
+Krankenhaus Bad Orb	Frankfurterstrasse 2	63619	Bad Orb	45
+Lindenberg-Klinik	Franz-Gleim-Str 15	34212	Melsungen	70
+Westf. Landeskrankenhaus	Franz-Hegemann-Str 34	59581	Warstein	110
+Westfälische Klinik für	Franz-Hegemann-Strasse 23	59581	Warstein	866
+Klinikum Der Universitaet	Franz-Josef-Strauss-Allee11	93053	Regensburg	494
+Klinik Vincentinum	Franziskanergasse 12	86152	Augsburg	248
+St Franziskus-Hospital	Franziskusstrasse 2-4	59955	Winterberg	118
+St.-Franziskus-Hospital	Franziskusstraße 6	49393	Lohne	180
+Martin-Luther-Universitaet	Franzosenweg 1A	06112	Halle	1551
+Kinderklinik Fuer Lungen-	Freie Feldlage 9	06493	Harzgerode	91
+St.-Vinzenz-Krankenhaus	Freiheitstr 31	58762	Altena	179
+Stadt Braunschweig	Freisestraße 10	38118	Braunschweig	1599
+Kreiskrankenhaus Sulz	Freudenstaedter Str 13	72172	Sulz	45
+Bezirkskrankenhaus	Freudental 1	87435	Kempten	76
+Landhaus Streithof	Freundhofweg 5	45479	Mülheim	40
+Berufsgenossensch Unfall	Friedberger Landstr 430	60316	Frankfurt	348
+Kreiskrankenhaus Bahrendorf	Friedensstrasse 18	39171	Bahrendorf	135
+Klinik Hohe Mark	Friedlaender Str 2	61440	Oberursel	260
+Westf Landeskrankenhaus	Friedr-Wilh-Weber-Str 30	48147	Münster	691
+Fachklinik Für Psychiatrie,	Friedrich-Ebert-Straße 100	23774	Heiligenhafen	405
+Klinik Dardenne	Friedrich-Ebert-Straße 23-25	53173	Bonn	6
+Klinikum Der Universitaets-	Friedrich-Engels-Str 25	67655	Kaiserslautern	1217
+Städtisches Krankenhaus	Friedrich-Engels-Strasse 39	15890	Eisenhüttenstadt	488
+Klinik Golzheim	Friedrich-Lau-Str 11	40474	Düsseldorf	120
+Kreiskrankenhaus	Friedrich-Lichtenauer-Allee 1	21423	Winsen	334
+Kreiskrankenhaus	Friedrich-Ludwig-Jahn-Str 2	06749	Bitterfeld	340
+Kreiskrankenhaus Zerbst	Friedrich-Naumann-Str 53	39261	Zerbst	209
+Stadt Wilhelmshaven	Friedrich-Paffrath-Straße 100	26389	Wilhelmshaven	575
+Herz-Jesu-Krankenhaus	Friedrich-Wilhelm-Str.29	54290	Trier	213
+St Elisabeth-Krankenhaus	Friedrich Ebert Str 59	56564	Neuwied	528
+Friedrich-Husemann-Klinik	Friedrich Husemann Weg 8	79256	Buchenbach	103
+Allgemeines Krankenhaus	Friedrichsberger Straße 60	22089	Hamburg	700
+Kreiskrankenhaus	Friedrichshafener Str 82	88131	Lindau	174
+Kreiskrankenhaus Albstadt 1	Friedrichstr 39	72458	Albstadt	308
+Staedt.Krankenhaus	Friedrichstr 48	79677	Schönau	34
+Klinikum Minden	Friedrichstrasse 17	32427	Minden	1104
+Kreiskrankenhaus Forbach	Friedrichstrasse 17	76596	Forbach	95
+Krankenhaus Friedrichstadt	Friedrichstrasse 41	01067	Dresden	1076
+Kreiskrankenhaus	Friesener-Str 41	96317	Kronach	536
+Friedrich-Ebert-Krankenhaus	Friesenstrasse 11	24534	Neumünster	637
+Urolog Klinik	Frischstr 34	86161	Augsburg	58
+Paracelsus-Rhoen-Klinik	Fritz-Stamer-Strasse 9	36129	Gersfeld	25
+Krankenhaus Prenzlauer Berg	Froebelstrasse 15	10405	Berlin	432
+Evang Diakonissenanstalt	Froelichstr 17	86150	Augsburg	187
+Diabetes-Klinik - Birkenhof	Frommershaeuser Str 101	34246	Vellmar	30
+Kreiskrankenhaus	Fuchshallerweg 80	37520	Osterode	137
+Privatklinik Hygiea	Fuggerstr 23	10777	Berlin	110
+Kreiskrankenhaus	Fuhrberger Straße 8	30938	Burgwedel	283
+Privatklinik	Gabriel-von-Seidl-Str 77	82031	Grünwald	12
+Stadtkrankenhaus Worms	Gabriel-von-Seidl-Str 81	67550	Worms	556
+Veronika-Klinik	Gaensheidestr 49	70184	Stuttgart	142
+Kreiskrankenhaus Rochlitz	Gaertnerstrasse 2	09306	Rochlitz	201
+Kreiskrankenhaus	Gaisbacherstrasse 7	77704	Oberkirch	106
+Kasse d Univ Kliniken F	Gaisweg 3	72070	Tübingen	1651
+St.-Marien-Krankenhaus	Gallwitzallee 123-143	12249	Berlin	414
+Kreiskrankenhaus Saulgau	Gänsbühl 1	88348	Saulgau	110
+Niedersächsisches Landes-	Gänsewinkel	38154	Königslutter	540
+St Antonius-Krankenhaus	Gartenstr 17	46244	Bottrop	153
+Kreiskrankenhaus Crailsheim	Gartenstr 21	74564	Crailsheim	227
+Kreiskrankenhaus	Gartenstr 40	79312	Emmendingen	302
+St Sixtus-Hospital	Gartenstr.25	45721	Haltern	220
+St.-Georg-Krankenhaus	Gartenstraße 11	78073	Bad Dürrheim	0
+St.-Joseph-Krankenhaus	Gartenstrasse 1-5	10115	Berlin	256
+Kreiskrankenhaus Des Land-	Gartenstrasse 2	08606	Oelsnitz	220
+Städtisches Krankenhaus	Gartenstraße 22	26757	Borkum	20
+Evang Krankenhaus	Gartenstrasse 4-8	40822	Mettmann	222
+Klinikum Aue	Gartenstrasse 6	08280	Aue	743
+Kreiskrankenhaus Niebüll	Gather Landstraße 75	25899	Niebüll	187
+Havelklinik KG	Gatower-Str 191-193	13595	Berlin	96
+Anstalts-Krankenhaus d	Gde Bayersried-Ursberg Nr 7	86513	Ursberg	30
+Rummelsberger Anstalten	Gehfeldstr 24	82467	Garmisch-Partenkirchen	190
+Klinik Fuer Dynamische	Geiselgasteig 203	81545	München	56
+Kreiskrankenhaus	Gemuendener Str 15-17	97753	Karlstadt	101
+Orthopaedisches Kinder-	Georg-Leissner-Strasse 1-4	08645	Bad Elster	64
+Ev-Luth Diakonissenhaus	Georg-Schwarz-Strasse 49	04177	Leipzig	262
+Pius-Hospital Oldenburg	Georgstraße 12	26121	Oldenburg	412
+Krankenhaus	Gerber Weg 6	87541	Hindelang	60
+Krankenhaus Maria-Hilf	Gerbergasse 1	53359	Rheinbach	118
+Christophorus-Krankenhaus	Gerichtsstrasse 15	17373	Ueckermünde	189
+Charlottenhaus	Gerokstr 31	70188	Stuttgart	40
+St Elisabethen-Krankenhaus	Ginnheimer Str 3	60487	Frankfurt	270
+Orthopädische Rheuma-Klinik	Ginsterweg 5	21335	Lüneburg	50
+Klinikum Goerlitz Gmbh Ig	Girbigsdorfer Strasse 1-3	02828	Görlitz	747
+St Martinus-Krankenhaus	Gladbacher Str 26	40219	Düsseldorf	276
+Bezirkskrankenhaus	Gleimstrasse 5	38820	Halberstadt	584
+Evangelisches Krankenhaus	Glindersweg 80	21029	Hamburg	235
+St Rochus-Hospital	Glueckaufstrasse 10	44575	Castrop-Rauxel	280
+Kreiskrankenhaus	Gnarrenburger Straße 117	27432	Bremervörde	177
+Kreiskrankenhaus Zittau	Goerlitzer Str 10	02763	Zittau	445
+Kreiskrankenhaus Teterow	Goetherstrasse 14	17166	Teterow	167
+Marienkrankenhaus	Goethestr 19	58239	Schwerte	312
+Kreiskrankenhaus Giessen -	Goethestr 4	35423	Lich	236
+Parkklinik	Goethestraße 11	24116	Kiel	60
+Bergarbeiterkrankenhaus	Goethestrasse 3	08289	Schneeberg	155
+Krankenhaus Des Kurhess-	Goethestrasse 85	34119	Kassel	266
+St Christophorus-	Goetheweg 34	59368	Werne	285
+Allgemeines Krankenhaus	Gojenbergsweg 30	21029	Hamburg	235
+Niedersächsisches Landes-	Goslarsche Landstraße 60	31135	Hildesheim	485
+Staedt Krankenanstalten	Gotenstr 1	42653	Solingen	848
+Staedtische Kliniken	Gothenstr 6-8	60311	Frankfurt	1120
+Marien-Hospital	Gottfr-Disse-Strasse 40	53879	Euskirchen	465
+St Nikolaus-Hospital	Grabenstr 86-88	47546	Kalkar	102
+Krankenhaus Gerresheim	Graeulinger-Str 120	40625	Düsseldorf	455
+Kreiskrankenhaus	Graf-Siegfried-Str.115	54439	Saarburg	232
+Kreiskrankenhaus	Grafen-von-Rieneck-Str 5	97816	Lohr	200
+Städtische Kliniken	Grafenstrasse 9	64283	Darmstadt	1079
+Krankenhausverein	Grafenweg 15	26345	Bockhorn	50
+Albert-Schweitzer-Kranken-	Grafplatz 5	37170	Uslar	91
+Heilig-Geist Krankenhaus	Graseggerstr 105	50737	Köln	348
+Klinikum Karlsburg-Greifsw.	Greifswalder Strasse 11 A	17495	Karlsburg	225
+Neurologische Spezielklinik	Greitstraße 28	31840	Hessisch Oldendorf	150
+Krankenheim Glückstadt	Grillchaussee 77-79	25348	Glückstadt	25
+Kinderkrankenhaus St Marien	Grillparzerstr 9	84036	Landshut	150
+Evang. Diakonissenanstalt	Gröpelinger Heerstraße 406	28237	Bremen	518
+Krankenhaus Der Anhaltisch.	Gropiusallee 3	06846	Dessau	125
+Wilhelmsburger Krankenhaus	Groß Sand 3	21107	Hamburg	202
+Stadtkrankenhaus	Grosse Allee 50	34454	Arolsen	180
+St.-Hedwig-Krankenhaus	Grosse Hamburger Str 5-11	10115	Berlin	530
+Kreiskrankenhaus	Große Ortsstraße 85	21762	Otterndorf	145
+Klinikum der	Grosse Parower Str 47-53	18435	Stralsund	960
+St.-Elisabeth-Stift	Große Straße 54	49401	Damme	251
+Bg'Liche Unfallklinik	Grossenbaumer Allee 250	47249	Duisburg	278
+Ev Krankenhaus Saarbruecken	Grossherzg-Friedrich-Str 46	66111	Saarbrücken	236
+Landratsamt Nuernberg Land	Grossviehbergstrasse 8	91217	Hersbruck	135
+Weserbergland-Klinik	Gruene Muehle	37671	Höxter	496
+Allgemeines Krankenhaus	Gruenstrasse 35	58095	Hagen	621
+Krankenhaus Olbernhau	Gruenthaler Strasse 46	09526	Olbernhau	107
+Fachklinik Fuerstenwald	Grundweg 2-4	34379	Calden	60
+Ev.Krankenhaus	Grutholzallee 21	44577	Castrop-Rauxel	396
+St Josef-Hospital	Gudrunstrasse 56	44791	Bochum	716
+Krankenhaus Der	Guenzburger Strasse 41	89264	Weißenhorn	100
+Krankenhaus d Ev Gemeinde	Guetersloher Str 64	33378	Rheda-Wiedenbrück	145
+Kreiskrankenhaus Lauingen	Gundelfingerstrasse 4	89415	Lauingen	170
+Krankenhaus Gunzenbachhof	Gunzenbachstrasse 6	76530	Baden-Baden	180
+Leopoldina-Krankenhaus	Gustav-Adolf-Str 8	97422	Schweinfurt	797
+Klinik Zissendorf Gmbh	Gut Zissendorf	53773	Hennef	39
+Privatklinik	Gutenbergstr 11-15	74074	Heilbronn	27
+Privatklinik	Gutenbergstr 51	74074	Heilbronn	31
+Krankenhaus Bruchsal	Gutleutstr 9-14	76646	Bruchsal	430
+Rehabilitationskrankenhaus	Guttmannstrasse 1	76307	Karlsbad	538
+Johanna-Odebrecht-Stiftung	Gützkower Landstrasse 69	17489	Greifswald	101
+Filderklinik	Haberschlaiheide	70794	Filderstadt	216
+Ev Und Johanniter-Krankenhs	Hachenburger Str 16	56269	Dierdorf	186
+Staedt Krankenhaus	Haerlenweg 1	88662	Überlingen	215
+Privatklinik Marne	Hafenstraße 47	25709	Marne	13
+Paracelsus Klinik Neuss	Hafenstrasse 68-76	41460	Neuss	61
+Priv Frauenklinik	Hagelkreuzstr.37	40721	Hilden	60
+Marienhospital Letmathe	Hagener Str 121	58642	Iserlohn	120
+Kreiskrankenhaus	Hagenmoos 2	87634	Obergünzburg	110
+Ev Krankenhaus	Hagenstr 47-49	32130	Enger	126
+St Gerburgis-Hospital	Hagenstrasse 32	48301	Nottuln	110
+Kreiskrankenhs Moeckmuehl	Hahnenaecker	74219	Möckmühl	100
+Sonderkrankenhaus Hahnknüll	Hahnknüll 58	24534	Neumünster	34
+Kreiskrankenhaus Miesbach	Haidmuehlstr 30	83714	Miesbach	67
+Kreiskrankenhaus Mittweida	Hainichener Strasse 4-6	09648	Mittweida	190
+Krankenhaus Bethesda	Hainstr 35	42109	Wuppertal	404
+Drk-Krankenhaus	Hainstrasse 73	35216	Biedenkopf	117
+Kreiskrankenhaus Ilshofen	Haller Str 38	74532	Ilshofen	41
+Cnopf'Sche Kinderklinik	Hallerwiese 18-28	90419	Nürnberg	140
+Klinik Hallerwiese	Hallerwiese 30	90419	Nürnberg	200
+Städtisches Krankenhaus	Haltenhoffstraße 41	30167	Hannover	732
+Westf Landeskrankenhaus	Halterner Str 525	45770	Marl	253
+Klinik Waldwiese	Hamburger Chaussee 77	24114	Kiel	75
+Krankenhaus Reinbek	Hamburger Straße 41	21465	Reinbek	328
+St.-Vinzenz-Hospital	Hammer Straße 9	49740	Haselünne	150
+Kliniken der Hansestadt	Hammersbecker Straße 228	28755	Bremen	569
+Park-Sanatorium Dahlem Gmbh	Hammersteinstr 20	14199	Berlin	60
+Marien-Krankenhaus	Hannoverstraße 5	48529	Nordhorn	260
+Staedt Krankenhaus	Hans-Grohe-Strasse 10	77761	Schiltach	23
+Rotes Kreuz Krankenhaus	Hansteinstr.29	34121	Kassel	371
+Hardtwaldklinik I	Hardtstrasse	34596	Bad Zwesten	47
+Frauenklinik Der	Hariolfstr 2	73479	Ellwangen	55
+Staatliche	Harlachinger Strasse 51	81547	München	230
+Kreiskrankenhaus Prien	Harrasser Str 61-63	83209	Prien	175
+Klinik St Marienstift	Harsdorfer Str 30	39110	Magdeburg	115
+Klinik Dr. Hancken GmbH	Harsefelder Straße 8	21680	Stade	60
+Kreiskrankenh Lichtenstein	Hartensteiner Strasse 42	09350	Lichtenstein	225
+Kreis-Krankenhaus	Harthauser Str 16	83043	Bad Aibling	180
+Evangelisches Amalie-	Haselkamp 33	22359	Hamburg	268
+Johanniter-Krankenhaus	Hasestraße 16-18	49565	Bramsche	135
+Orthopädische Klinik	Hasselbornring 15	35619	Braunfels	120
+Klinik Des Hochtaunuskreis	Hattsteiner Allee 1-5	61250	Usingen	145
+St Josefs-Krankenhaus	Hauensteiner Str.17	66994	Dahn	102
+Marienhospital	Hauptkanal rechts 75	26871	Papenburg	280
+Bezirksklinik Hochstadt	Hauptstr 13	96272	Hochstadt	73
+Krankenhaus Seefeld	Hauptstr 23	82229	Seefeld	85
+Krankenhaus Vinzentinum	Hauptstr 24	83324	Ruhpolding	115
+Lazarettstiftung Beilngries	Hauptstr 24	92339	Beilngries	39
+Kreiskrankenhaus	Hauptstr 30	64342	Seeheim-Jugenheim	128
+St Elisabeth-Hospital	Hauptstr 74	40668	Meerbusch	117
+Heilig-Geist-Hospital	Hauptstr 81-87	64625	Bensheim	220
+psych Landeskrankenhaus	Hauptstr 9	88529	Zwiefalten	240
+Kreiskrankenhaus	Hauptstr 9-11	96138	Burgebrach	125
+Bundesknappschaft	Hauptstrasee 55	82380	Peißenberg	90
+Klinik Hohwald	Hauptstrasse 16	01844	Hohwald	140
+St Elisabethen-Anstalt	Hauptstrasse 18	63920	Großheubach	20
+Krankenhaus Scharnebeck	Hauptstraße 19	21379	Scharnebeck	46
+Hans-Carossa-Klinik	Hauptstrasse 19	79780	Stühlingen	36
+Brueder-Krankenhaus F	Hauptstrasse 33	56648	Saffig	65
+Herz-Jesu-Krankenhaus Gmbh	Hauptstrasse 55	51789	Lindlar	173
+Kreiskrankenhaus	Hauserstrasse 40	93444	Kötzting	150
+Krankenhaus	Hausherrenstr 12	78315	Radolfzell	205
+Verband Schwaebischer	Haussmannstr 103	70188	Stuttgart	63
+Rheuma- U Rehabilitations-	Hebelweg 4	79415	Bad Bellingen	38
+Kreiskrankenhaus Falkeneck-	Hecksbergweg 23-27	35619	Braunfels	182
+Heckscher Klinik d Bez	Heckscher Str 4-9	80804	München	110
+Paracelsus-Krankenhaus Ruit	Hedelfinger Strasse 166	73760	Ostfildern	404
+Neurologische Klinik	Heerstr.54-65-67	56179	Vallendar	64
+Evang Krankenhaus Bethesda	Heerstrasse 219	47053	Duisburg	451
+Krankenhs Rheingau-Taunus-	Heftricher-Str	65510	Idstein	80
+Kreiskrankenhaus	Hegelpromenade 21	02943	Weißwasser	268
+St Josef-Krankenhaus	Heidbergweg 22-24	45239	Essen-Kupferdreh	315
+Psychiatr Landeskrankenhaus	Heidelbergerstr 1 A	69168	Wiesloch	689
+Fachklinik Kamillushaus	Heidhauserstr 273	45239	Essen	101
+Klinikum Bad Salzuflen GmbH	Heidmannstr 45	32108	Bad Salzuflen	146
+Kinderzentrum München	Heiglhofstrasse 63	81377	München	40
+Hospital Zum Heiligen Geist	Heilig-Geist-Str 2	58135	Hagen	230
+Krankenhaus Des Ev-Luth	Heilsbronner Strasse 44	91564	Neuendettelsau	185
+Klinik Aprath	Heilstaette 5	42489	Wülfrath	75
+Krankenhaus Stenum	Heilstättenweg	27777	Ganderkesee	100
+Frauenklinik	Heilwigstraße 103	20249	Hamburg	24
+Annastift e.V.	Heimchenstraße 1-7	30625	Hannover	301
+Frauenklinik Johnsallee	Heimhuder Straße 38	20148	Hamburg	24
+Kreiskrankenhaus	Heinrich-Heine-Strasse 6-7	39326	Wolmirstedt	273
+Evang Krankenhaus	Heinrich-Hildebrand-Str 22	15232	Frankfurt (Oder)	175
+Rheinische Landesklinik	Heinrich-Pesch-Str 39-41	41239	Mönchengladbach	155
+Elisabeth-Klinik	Heinrich-Sommer-Strasse 4	59939	Olsberg	131
+Kreiskrankenhaus Radebeul	Heinrich-Zille-Strasse 13	01445	Radebeul	307
+Klinik Auerbach	Heinrichstr 4	64625	Bensheim	123
+Privatklinik Dr.Schellerer	Heinrichstr.6	96047	Bamberg	32
+Bruder-Klaus-Krankenhaus	Heitere weg 10	79183	Waldkirch	150
+Westf Institut	Heithofer Allee 64	59071	Hamm	130
+Bundeswehrkrankenhaus	Heldmannstr 24	32756	Detmold	14
+Evangelisches Krankenhaus	Hellweg 100	45276	Essen	333
+Krankenhaus der Evang.-Luth	Helmstedter Straße 35 a	38102	Braunschweig	208
+Frauenklinik Helmsweg	Helmsweg 39	21073	Hamburg	26
+Huyssens-Stiftung Gem Gmbh	Henricistrasse 92	45136	Essen	440
+Norddeutsches Epilepsie-	Henry-Dunant-Straße	24223	Raisdorf	24
+Krankenhaus Radeburg	Herbert-Schmidt-Strasse 2	01471	Radeburg	69
+Gollwitzer-Meier-Klinik	Herforder Strasse 43	32545	Bad Oeynhausen	30
+Klinik Fuer Kinder- Und	Herkulesstrasse 111	34119	Kassel	0
+Klinik Fuer Kinder- Und	Herkulesstrasse 111	34119	Kassel	24
+Niedersächsisches Landes-	Hermann-Ehlers-Straße 7	26160	Bad Zwischenahn	538
+St Josefs-Krankenhaus Mit	Hermann-Herder-Strasse 1	79104	Freiburg	262
+Kreiskrankenhaus	Hermann-Löns-Straße	29451	Dannenberg	212
+Kreiskrankenhaus Muehlacker	Hermann Hesse Str 24	75417	Mühlacker	285
+Curt-Von-Knobelsdorff-Haus	Hermannstrasse 17	42477	Radevormwald	44
+St.-Josef-Hospital	Hermannstraße 37	53225	Bonn	261
+Frauenklinik	Hermelsbacher Weg 41	57072	Siegen	35
+Krankenhaus Bethel	Herminen- u. Bergdorfer Straße	31675	Bückeburg	240
+Staedt.Krankenhaus	Herrgottsruhstr 3	86316	Friedberg	120
+Kreiskrankenhaus	Herzbachweg 14	63571	Gelnhausen	408
+Evangelisches Krankenhaus	Herzbergstrasse 79	10365	Berlin	743
+Diakonissenanstalt	Hesstr 22	80331	München	218
+Klinik Bosse	Heubnerstrasse 26	06886	Lutherstadt Wittenberg	80
+Schlosspark-Klinik Kg	Heubnerweg 2	14059	Berlin	381
+Die Kliniken der Stadt	Heusnerstraße 40	42283	Wuppertal	1937
+Staedt Krankenhaus	Hewenstr 19	78234	Engen	91
+St Hildegardis-Krankenhaus	Hildegardstr 2	55131	Mainz	420
+Agnes-Karll-Krankenhaus	Hildesheimer Straße 158	30880	Laatzen	290
+Krankenhaus Der Evang	Hilgardstrasse 26	67346	Speyer	327
+St Maria-Hilf-Hospital	Hiltroper Landwehr 11	44805	Bochum	187
+Universitätsklinikum	Hindenburgdamm 30	12203	Berlin	1342
+Lukas-Krankenhaus Bünde	Hindenburgstr 56	32257	Bünde	398
+Klinikum Wahrendorff Gmbh	Hindenburgstraße 1	31319	Sehnde	329
+St Nikolaus-Stifts-	Hindenburgwall 1	56626	Andernach	316
+Krankenhaus Meisenheim	Hinter D Hofstadt 8	55590	Meisenheim	70
+Klinik Am Warteberg	Hinter den Teichhoefen 2	37213	Witzenhausen	49
+Kreiskrankenhaus Stadthagen	Hinter der Burg 40	31655	Stadthagen	251
+Frauenklinik Dr Geisenhofer	Hirschauerstrasse 6	80538	München	79
+Staedt Krankenanstalten	Hirschlandstr 97	73730	Esslingen	493
+Kreiskrankenhaus	Hirschrodaer Strasse 1	06636	Laucha	130
+Herzzentrum Brandenburg	Hobrechtsfelder Chaussee 96	13125	Berlin-Buch	36
+Kreiskrankenhaus	Hochfeldstr 2	83684	Tegernsee	210
+Bezirkskrankenhaus	Hochstiftstrasse 6	86441	Zusmarshausen	60
+Verbandskrankenhaus	Hochstr 20-22	58285	Gevelsberg	146
+St Elisabeth-Hospital	Hochstr 39	58638	Iserlohn	268
+Privatklinik Dr.Hellge	Hochstr 6	94032	Passau	65
+Herzogin-Elisabeth-Heim	Hochstraße 11	38102	Braunschweig	372
+Krankenhaus	Hochstrasse 20	45731	Waltrop	192
+Staedtisches Krankenhaus	Hochstrasse 29	14770	Brandenburg/Havel	814
+Staedt Krankenhaus	Hochwaldstrasse 50	61231	Bad Nauheim	275
+Bundeswehrkrankenhaus	Hochwiesenhof 5-10	75323	Bad Wildbad	101
+Kreiskrankenhaus	Hoegenauer Weg 5	86529	Schrobenhausen	169
+Frauenklinik Dr Wimmer	Hoeglberg 11	84028	Landshut	9
+Fachklinik Enzensberg	Hoehenstrasse 56	87629	Füssen	160
+Staatsrat Von Fetzer-Klinik	Hoelderlinstrasse 1/D	70174	Stuttgart	85
+Kath Krankenhaus	Hoelkeskampring 40	44625	Herne	694
+Kreiskrankenhaus	Hoerberinger Str 9	84494	Neumarkt-Sankt Veit	40
+Jakobi-Krankenhaus	Hoerstkamp 12	48431	Rheine	214
+Kreiskrankenhaus Muenchberg	Hofer Str 40	95213	Münchberg	230
+Klinik Am Hofgarten	Hofgartenstr.6	63739	Aschaffenburg	150
+Kreiskrankenhaus	Hofheimer Str 69	97437	Haßfurt	149
+Kreiskrankenhaus Eisleben	Hohe-Tor-Strasse 25	06295	Lutherstadt Eisleben	530
+Kreiskrankenhaus Rahden	Hohe Muehle 3	32369	Rahden	140
+Krankenhaus M Reha-Klinik	Hohe Warte 8	95445	Bayreuth	326
+Krankenhaus Elim	Hohe Weide 17	20259	Hamburg	212
+Krankenhaus Bethesda	Hohenheimer Str 21	70184	Stuttgart	165
+Neurologisches Therapie-	Hohensandweg 37	40591	Düsseldorf	0
+St.-Franziskus-Hospital	Hohenzollernring 72	48145	Münster	550
+Kreiskrankenhaus	Hohenzollernstraße 40	72488	Sigmaringen	403
+Kreiskrankenhaus Pößneck	Hohes Gäßchen 8-10	07381	Pößneck	256
+Städtisches Krankenhaus	Hohler Weg 9	57439	Attendorn	322
+Gem Klinikgesellschaft Des	Hohlstr 2-4	66564	Ottweiler	256
+Klinik für Psychogene	Höhmannstr 2	14193	Berlin	54
+Evang Krankenhaus Unna	Holbeinstrasse 10	59423	Unna	431
+Kreiskrankenhaus Wedel	Holmer Straße 55	22880	Wedel	175
+Endo-Klinik	Holstenstraße 2	22767	Hamburg	490
+Klinik Dr. Flechsig	Holtenauer Straße 270	24105	Kiel	34
+Kreiskrankenhaus	Holzbacher-Str 1	55469	Simmern	303
+Diakonissen-Krankenhaus	Holzhausen Str 72-92	60322	Frankfurt	154
+Kreiskrankenhaus	Holzhäuserweg 28	31592	Stolzenau	130
+Diakonissenkrankenhaus	Holzhofgasse 29	01099	Dresden	264
+St Vincentius Krankenhaus	Holzstrasse 4 A	67346	Speyer	265
+Evangelisches Krankenhaus	Hordeler Str 7-9	44651	Herne	218
+Rhein Orthop Landesklinik	Horionstr 2	41749	Viersen	170
+Martin-Ulbrich-Haus	Horkaer Strasse 21	02929	Rothenburg	130
+Allgemeines Krankenhaus	Hoserkirchweg 63	41747	Viersen	439
+Hospital Zum Heiligen Geist	Hospitalgasse 2	56154	Boppard	166
+Hess Diakonieverein E V	Hospitalstr 1	68623	Lampertheim	88
+St Antonius-Hospital	Hospitalstr 16	41366	Schwalmtal	143
+St.- Anna-Hospital	Hospitalstr 19	44649	Herne	363
+Antoniuszentrum GmbH	Hospitalstr 2	47918	Tönisvorst	170
+Marienhospital	Hospitalstr 24	45329	Essen	387
+Krankenhaus Maria-Hilf	Hospitalstr 3-7	59581	Warstein	195
+St Josef-Hospital	Hospitalstr 45	53840	Troisdorf	352
+Kamillus-Klinik	Hospitalstr 6	53567	Asbach	174
+Kreiskrankenhaus Meissen	Hospitalstrasse 1	01662	Meißen	420
+Marienkrankenhaus	Hospitalstrasse 15	65439	Flörsheim	155
+Lukas-Hospital Ggbmh Anklam	Hospitalstrasse 19	17389	Anklam	175
+Kreiskrankenhaus	Hospitalstrasse 4	99706	Sondershausen	268
+St.-Marien-Hospital gem.GmbH	Hospitalstraße 44	52353	Düren	378
+Stadtkrankenhaus Calbe	Hospitalstrasse 5	39240	Calbe	129
+St Nikolaus-Hospital	Hospitalstrasse 5	66798	Wallerfangen	113
+Kath Krankenhaus Gem Gmbh	Hospitalstrasse 6-10	58099	Hagen	395
+Gemeinde-Krankenhaus Eitorf	Hospitalstrasse 7	53783	Eitorf	139
+Diakonie-Krankenhaus	Hospitalweg 1	49124	Georgsmarienhütte	110
+St.-Martinus-Hospital	Hospitalweg 6	57462	Olpe	385
+Elisabeth-Krankenhaus	Hubertusstr 100	41239	Mönchengladbach	503
+Waldburg-Zeil Kliniken	Hubertusstr 40	82487	Oberammergau	100
+Neurologische Klinik Haus	Hubertusstr 6-7	35619	Braunfels	105
+Asklepios-Klinik	Hubertusstraße 12-22	16547	Birkenwerder	130
+Langzeitkrankenhaus	Hubstrasse 66	77833	Ottersweier	50
+Krankenhauszweckverband	Hueffertstr 50	34414	Warburg	301
+Katholisches Krankenhaus	Huelsmannstrasse 17	45355	Essen	390
+Caritas Krankenhaus	Huettenwerkstr 4	66763	Dillingen	264
+Klinik Glueckauf	Hufelandstr 1	34537	Bad Wildungen	4
+Universitätsklinikum der	Hufelandstr 55	45147	Essen	1317
+Bezirkskrankenhaus Fuer	Hufelandstrasse 15	01477	Arnsdorf	377
+Evang Krankenhaus	Hugo-Fuchs-Allee 3	58644	Iserlohn	300
+Fachklinik Dr Stecher	Hugo Roempler Str 11	75328	Schömberg	102
+Albert-Ludwigs-Universitaet	Hugstetter Str 49	79106	Freiburg	1944
+Urologische Klinik	Humboldstr 16	70173	Stuttgart	43
+Krankenhaus Neu-Mariahilf	Humboldtallee 10-12	37073	Göttingen	150
+Krankenhaus Neu-Bethlehem	Humboldtallee 8	37073	Göttingen	120
+Kreiskrankenhaus Naumburg	Humboldtstrasse 31	06618	Naumburg	373
+Friederikenstift	Humboldtstraße 5	30169	Hannover	634
+Berufsgenossensch Kranken-	Hundscheidtstr 1	44787	Bochum	624
+St.-Hubertus-Stift	Hundsgasse-Klosterstraße	50181	Bedburg	151
+Krankenanstalt d. Stadt Köln	Hurster Str 50	51570	Windeck	106
+St.-Josefs-Krankenhaus	Husener Str.46	33098	Paderborn	409
+Haus Immanuel	Hutschdorf 46	95349	Thurnau	35
+Privatfrauenklinik	Hynspergstr 2	60322	Frankfurt	18
+Spezialklinik F	I.Speck 11	83324	Ruhpolding	60
+Kinderhospital Osnabrück	Iburger Straße 87	49074	Osnabrück	129
+Kreiskrankenhaus	Ilsenburger Strasse 15	38855	Wernigerode	424
+Kreiskrankenhaus	Ilsenburger Straße 95	38667	Bad Harzburg	156
+Krankenanst Des Landkreises	Im Bannmueller 8	71672	Marbach	130
+Franz-Alexander-Klinik	Im Dorf 44	77787	Nordrach	0
+Ev.Krankenhaus	Im Flur	66869	Kusel	270
+Bezirkskrankenhaus	Im Freudental 1	87435	Kempten	687
+Bernhard Salzmann-Klinik	Im Fuechtei 150	33334	Gütersloh	159
+Kreiskrankenhaus Creglingen	Im Herrgottstal 19	97993	Creglingen	37
+Werner-Wicker-Klinik	Im Kreuzfeld 4	34537	Bad Wildungen	160
+Werner-Wicker-Klinik	Im Kreuzfeld 4	34537	Bad Wildungen	158
+St Georg Krankenhaus	Im Ohle 31	57392	Schmallenberg	102
+Sächsisches Krankenhaus	Im Park 15A	04678	Zschadraß	259
+Krankenhaus Bethanien Ggmbh	Im Pruefling 21-25	60389	Frankfurt	106
+Zentrum Fuer Psychiatrie	Im Schlosspark	45699	Herten	192
+St Elisabeth-Hospital	Im Schlosspark 12	45699	Herten	405
+Rehabilitationsklinik	Im Spitzfeld 25	69151	Neckargemünd	120
+Kreiskrankenhaus Immenstadt	Im Stillen 1-4	87509	Immenstadt	200
+Staedt Krankenhaus	Im Tal 4	74575	Schrozberg	38
+St Elisabeth-Krankenhaus	Im Vogelsang 5-11	45527	Hattingen	180
+Psychiatrische Klinik	Im Wischfeld 16	21335	Lüneburg	104
+Chirurg Urolog Privatklinik	Implerstrasse 51	81371	München	26
+St.-Josef-Hospital	In der Hees 4	46509	Xanten	150
+Bundesknappschaft	In der Humes	66346	Püttlingen	451
+Therapeutische Gemeinschaft	In der Mordach 3	64367	Mühltal	0
+Knappschafts-Krankenhaus	In der Schornau 23-25	44892	Bochum	528
+Paracelsus-Kurfürsten-Klinik	In der Vahr 65	28329	Bremen	193
+Staedtisches Krankenhaus	Industriestrasse 40	01129	Dresden	817
+Paracelsus Nordseeklinik	Invasorenpfad	27498	Helgoland	42
+Hermann-Strauss-Hospital	Iranische Straße 2-4	13347	Berlin	38
+Jüdisches Krankenhaus	Iranische Straße 2-4	13347	Berlin	448
+Privatklinik Dr h Mueller	Isartalstr 84	81379	München	125
+Ev Krankenhaus Elsey In	Iserlohnerstr 43	58119	Hagen	217
+Dr Otto Gessler-Krankenhaus	Jaegerstr 41	88161	Lindenberg	220
+Kreiskrankenhaus Stollberg	Jahnsdorfer Strasse 2	09366	Stollberg	389
+Kreiskrankenhaus	Jahnstr	92676	Eschenbach	120
+Kreiskrankenhaus	Jahnstr 24	73441	Bopfingen	54
+Diakonie-Krankenhaus	Jahnstrasse 11	55606	Kirn	126
+Klinikum Fuerth	Jakob-Henle-Strasse 1	90766	Fürth	727
+Krankenhaus Der	Jakobstrasse 27-31	50678	Köln	351
+Staedt Krankenhaeuser	James-Loeb-Strasse 2	80804	München	1044
+Staedt Krankenhaeuser	James-Loeb-Strasse 2	80804	München	831
+Staedt Krankenhaeuser	James-Loeb-Strasse 2	80804	München	1553
+Staedt Krankenhaeuser	James-Loeb-Strasse 2	80804	München	235
+Staedt Krankenhaeuser	James-Loeb-Strasse 2	80804	München	904
+Kreiskrankenhaus Eutin	Janusstraße 22	23701	Eutin	286
+Kinderkrankenhaus	Janusz-Korczak-Allee 12	30173	Hannover	351
+Kreiskrankenhaus Rudolstadt	Jenaische Strasse 14	07407	Rudolstadt	425
+Kreiskrankenhs Oettingen	Jennisgasse 5	86609	Donauwörth	138
+Kreiskrankenhaus Rain	Jennisgasse 5	86609	Donauwörth	75
+Kreiskrankenhaus Donauwrth	Jennisgasse 7	86609	Donauwörth	195
+Hamburgisches Krankenhaus	Johann-Ritter-Straße 100	21502	Geesthacht	214
+Fachkrankenhaus für	Johannes-Lange-Strasse 20	39319	Jerichow	223
+Krankenhaus	Johannes Mueller Str 7	56068	Koblenz	455
+Psychiatrisch-Neurologisches	Johannesallee	24848	Kropp	25
+Reha- Kliniken	Johannesstrasse 2	94072	Bad Füssing	30
+Klinik Dr. Bohnen GmbH	Johannesstraße 6-7	38350	Helmstedt	55
+St Johannes-Hospital	Johannesstrasse 9-13	44137	Dortmund	613
+Marienhospital	Johannisfreiheit 2-4	49074	Osnabrück	571
+St Johannes-Stift	Johannisstr 21	47198	Duisburg	287
+Rheinische Landesklinik	Johannisstr 70	41749	Viersen	928
+Hals-Nasen-U Ohrenklinik	Johanniterstr 15	79104	Freiburg	9
+Johanniter-Krankenhaus	Johanniterstraße 1	31028	Gronau	200
+Johanniter-Krankenhaus	Johanniterstraße 3-5	53113	Bonn	392
+Kreiskrankenhaus Parchim	John-Brinkmann-Straße 8-10	19370	Parchim	238
+Marien-Hospital	Josef-Albers-Strasse 70	46236	Bottrop	436
+St.-Antonius-Krankenhaus	Josef-Nawrocki-Str 32-34	12587	Berlin	106
+Universitaetskliniken	Josef-Schneider-Str 2	97080	Würzburg	1616
+Krankenhaeus d Ortenaukrs	Josef-Wurzler-Str 7	77855	Achern	237
+St.-Elisabeth-Krankenhaus	Josefstrasse 3	46045	Oberhausen	305
+Medizinische Einrichtungen	Joseph-Stelzmann-Strasse 9	50937	Köln	1521
+Ida-Wolff-Haus,	Juchaczweg 21	12351	Berlin	477
+Juliusspital Stiftungs	Juliuspromenade 19	97070	Würzburg	380
+Klinik Dr Guth	Jürgensallee 46-50	22609	Hamburg	135
+Johanniter-Krankenhaus	Jüterboger Strasse 68	14929	Treuenbrietzen	302
+Ev.-Luth. Diakonissenanstalt	Jütländer Allee 48	22527	Hamburg	230
+Rheinische Landesklinik	Kaiser-Karl-Ring 20	53111	Bonn	815
+St Marien-Hospital	Kaiserstr 50	45468	Mülheim	458
+Krankenhaus	Kaiserstr 93	79761	Waldshut-Tiengen	320
+Krankenhaus St.Elisabeth	Kaiserstr.14	66482	Zweibrücken	270
+Kreiskrankenhaus	Kaltenecker Str 10	94116	Hutthurm	59
+St Joseph-Krankenhaus	Kalvarienberg	54595	Prüm	158
+Psychiatrische Tagesklinik	Kamenzer Damm 1	12249	Berlin	0
+Asthma-Krankenhaus der	Kamillianerstrasse 40-42	41069	Mönchengladbach	186
+St Brigida-Krankenhaus	Kammerbruchstr 8	52152	Simmerath	224
+St Marien-Krankenhaus	Kampenstr 51	57072	Siegen	460
+St.-Josef-Stift	Kanonenstraße 8-9	29221	Celle	210
+Krankenanstalten	Kantensiek 19	33617	Bielefeld	882
+Klinik Dr Bauer	Kantstr 13	71640	Ludwigsburg	16
+Staedt Krankenhaus	Kanzlerstr.2-6	75175	Pforzheim	637
+Krankenhaeuser d Ortenaukrs	Kanzmattstr 2	77694	Kehl	180
+Josefinum Kinderkrankenhaus	Kapellenstr 30	86154	Augsburg	563
+Josephs-Hospital	Kapellenstr 41	48231	Warendorf	352
+St.-Katharinen-Hospital	Kapellenstraße 1-5	50226	Frechen	455
+Heilig-Geist-Hospital	Kapuziner Str 15-17	55411	Bingen	200
+Klinik Dr Franz Dengler	Kapuzinerstr 1	76530	Baden-Baden	45
+Rotkreuzklinik	Kapuzinerstr 2	97070	Würzburg	100
+St Elisabeth-Klinik	Kapuzinerstrasse 4	66740	Saarlouis	511
+Bruederkrankenhaus	Kardinal-Kremenz-Str.1-5	56068	Koblenz	240
+Kreiskrankenhaus	Karl-Gareis-Strasse 31	94234	Viechtach	150
+Klinik Schildautal	Karl-Herold-Straße 1	38723	Seesen	214
+Heinrich-Braun-Krankenhaus	Karl-Keil-Strasse 35	08056	Zwickau	1043
+Kreiskrankenhaus	Karl-Krische-Str 11	71522	Backnang	353
+Kreiskrankenhaus Spemberg	Karl-Marx- Strasse 80	03130	Spremberg	228
+Lutrina-Klinik	Karl-Marx-Str 33	67655	Kaiserslautern	32
+Krankenhaus Tessin	Karl-Marx-Strasse 16	18195	Tessin	72
+Kreiskrankenhaus	Karl-von-Hahn-Str 120	72250	Freudenstadt	409
+Kreiskrankenhaus	Karl Liebknecht Str.21	15517	Fürstenwalde	177
+Kreiskrankenhaus	Karlstr 45	89129	Langenau	64
+Johanniter-Krankenhaus	Karower Strasse 1-3	39307	Genthin	165
+Fachkrankenhaus für Lungen-	Karower Strasse 11, Haus 205	13125	Berlin	170
+Kath. Krankenhaus	Karthäuserstrasse 64	99012	Erfurt	421
+Venenzentrum Braunschweig	Kastanienallee 18-19	38102	Braunschweig	30
+Kreiskrankenhaus Grimma	Käthe-Kollwitz-Strasse 2	04668	Grimma	249
+Städtische Krankenanstalt	Kattowitzer Straße 191	38226	Salzgitter	347
+Heinrich-Sengelmann-	Kayhuder Straße 65	23863	Bargfeld-Stegen	305
+Privatklinik Dr Pflug	Kellereistrasse 4	73033	Göppingen	17
+Kreiskrankenhaus	Keltenstr 67	97318	Kitzingen	260
+Kreiskrankenhaus Volkach	Keltenstrasse 67	97318	Kitzingen	68
+Landkrankenhaus	Ketschendorfer Str 33	96450	Coburg	648
+Kreiskrankenhaus Nauen	Ketziner Strasse 20	14641	Nauen	511
+Kreiskrankenhaus	Kiefholzstrasse 27	39340	Haldensleben	318
+Landeskrankenhaus	Kiefholzstrasse 4	39340	Haldensleben	240
+Altmuehltalklinik	Kindinger Str 11	85110	Kipfenberg	54
+Fachklinik für Diabetes- und	Kirchberg 21	37431	Bad Lauterberg	140
+Psychiatrisches Fach-	Kirchberger Strasse 2	08121	Wiesenburg	113
+St Elisabeth-Krankenhaus	Kirchbergstr.14	66976	Rodalben	190
+Fachklinik für Psychiatrie	Kirchenstraße 2	25821	Breklum	45
+Krankenhaus St Vinzenz	Kirchenweg 15	87459	Pfronten	90
+Evangelisches Krankenhaus	Kirchfeldstrasse 40	40217	Düsseldorf	580
+Kreiskrankenhaus und	Kirchhaiener Strasse 38 a	03238	Finsterwalde	255
+St Josefs-Krankenhaus	Kirchstr.16	56659	Burgbrohl	75
+Fachklinik St Camillus	Kirchstrasse 12	47178	Duisburg	80
+Borromäus-Hospital	Kirchstraße 61-67	26789	Leer	327
+Frauenklinik	Kiskerstr 13-15	33615	Bielefeld	13
+Franziskus Hospital	Kiskerstrasse 26	33615	Bielefeld	380
+St Elisabeth-Krankenhaus	Kissinger Strasse 150	97688	Bad Kissingen	210
+Altus-Klinik	Klappgarten 31 Postfach 1240	29633	Munster	35
+Waldklinik	Kleckerwaldweg 145	21266	Jesteburg	0
+Franziskus-Hospital	Kleestraße 2	49186	Bad Iburg	29
+Hamburgisches Krankenhaus	Klein-Hesebecker-Straße	29549	Bad Bevensen	292
+Tagesklinik Schwerte	Kleppingstr 4	58239	Schwerte	0
+Paracelsus-Parkhospital	Klingsorstr 5	81927	München	100
+Paracelsus-Elena-Klinik	Klinikstr 16	34128	Kassel	120
+Krankenhaus Oranienbaum	Klinikstrasse 1	06785	Oranienbaum	98
+Kreiskrankenhaus Lahr	Klosten Str 19	77933	Lahr	468
+Marienkrankenhaus	Klosterberg 1	56812	Cochem	150
+Forster-Dorfner'Sche	Klostergasse 15	92242	Hirschau	52
+Staedt Krankenhaus	Klosterhof 1	74348	Lauffen	50
+psych Landeskrankenhaus	Klosterhof 1	88427	Bad Schussenried	304
+Luise-Henrietten-Stift	Klosterkirchplatz 1-19	14797	Lehnin	160
+Waldkrankenhaus Rudolf Elle	Klosterlausnitzer Straße	07607	Eisenberg	405
+St Josefskrankenhaus	Klosterstr 14	66125	Saarbrücken	242
+Bettenstation Poliklinik	Klosterstr 15	17348	Woldegk	18
+Krankenhaus Zur Hl Familie	Klosterstr 2	53332	Bornheim	53
+St Martinus-Krankenhaus	Klosterstr 32	40764	Langenfeld	201
+Klinik Fuer Kinder-Und	Klosterstr 4	65343	Eltville	80
+Psychiatr Krankenhaus	Klosterstr 4	65343	Eltville	560
+Raphaelsklinik	Klosterstr.75	48143	Münster	377
+Krankenhaus Maria Hilf	Klosterstraße 2	50126	Bergheim	265
+Dreifaltigkeits-Hospital	Klosterstrasse 31	59555	Lippstadt	375
+Elisabeth-Krankenhaus	Klosterstraße 4	49832	Thuine	170
+Klinik Klosterstraße Gbr.	Klosterstraße 63-65	24534	Neumünster	23
+Kreiskrankenhaus Worbis	Klosterstraße 7	37355	Reifenstein	205
+DRK-Krankenhaus	Klützer Strasse 6	23932	Grevesmühlen	241
+Fachklinik Haselbach	Kneipp-Str 5	94354	Haselbach	34
+Kinderzentrum Maulbronn	Knittlinger Steige 21	75433	Maulbronn	36
+Kreiskrankenhaus Mosbach	Knopfweg 1	74821	Mosbach	270
+St Josef-Krankenhaus	Koblenzer Str 23	54411	Hermeskeil	245
+St Elisabeth Krankenhaus	Koblenzer Str 91	54516	Wittlich	420
+Krankenhaus d Barmherzigen	Koblenzer Strasse 11-13	56410	Montabaur	189
+Kreiskrankenhaus Gaildorf	Kochstr 19	74405	Gaildorf	85
+Bundeswehrkrankenhaus	Koeferinger Str 1 Posf 830	92224	Amberg	81
+Alexianer-Krankenhaus	Koelner Str 64	51149	Köln	175
+Rhein Landesklinik	Koelner Str 82	40764	Langenfeld	522
+Staatl Rheumakrankenhaus	Koenig-Karl-Str 5	75323	Bad Wildbad	100
+Krankenhaus	Koenigstr 100	42929	Wermelskirchen	203
+Staedt.Krankenhaus	Koenigstr.57	72108	Rottenburg	68
+Immanuel-Krankenhaus	Koenigstrasse 63	14109	Berlin	222
+Kreiskrankenhaus Werdau	Koenigswalder Strasse 18	08412	Werdau	225
+Rotes Kreuz Krankenhaus	Koenigswarterstr 14-26	60316	Frankfurt	251
+Kreiskrankenhaus	Koesinger Str 11	73450	Neresheim	24
+Kreiskrankenhaus	Koethener Strasse 13	39218	Schönebeck	429
+St.-Johannes-Hospital	Kölnstraße 54	53111	Bonn	200
+Königswarter Krankenhaus	Königsberger Str.36 A	12207	Berlin	184
+Anstalt für Chronischkranke	Königstr 25-27	14109	Berlin	78
+Orthopädische Klinik	Königstraße 37	30175	Hannover	36
+St.-Elisabeth-Krankenhaus	Königsweg 8-12	24103	Kiel	100
+St Elisabeth-Hospital	Konrad-Adenauer-Ring	33330	Gütersloh	407
+Frauenklinik Dr Koschade	Konrad-Adenauer-Str 30	85221	Dachau	74
+Medizinische Hochschule	Konstanty-Gutschow-Straße 8	30625	Hannover	1409
+Margarethen-Klinik	Konsul-Lorentzen-Straße 3	24376	Kappeln	42
+Kliniken Dr Erler Gmbh	Kontumazgarten 4-18	90429	Nürnberg	235
+Achenbach-Kreiskrankenhaus	Köpenicker Str 29	15711	Königs Wusterhausen	447
+Bundeswehrkrankenhaus	Kopperpahler Allee 120	24119	Kronshagen	29
+Kreiskrankenhaus Goslar	Kösliner Straße 12	38642	Goslar	397
+Krankenhaus Tabea Gmbh	Kösterbergstraße 32	22587	Hamburg	125
+Max Planck Institut	Kraepelinstr 10	80804	München	120
+Landeswohlfahrtsverband	Kraepelinweg 1-3	61381	Friedrichsdorf	415
+Staedt Krankenanstalten	Krankenhaus-Str 2	55743	Idar-Oberstein	502
+Krankenanst Krs Miltenberg	Krankenhaus Strasse 41	63906	Erlenbach	331
+Kreiskrankenhaus	Krankenhausstr	92249	Vilseck	55
+Gemeindekrankenhaus	Krankenhausstr 1	83413	Fridolfing	46
+Kreiskrankenhaus	Krankenhausstr 1	84453	Mühldorf	307
+Kreiskrankenhaus	Krankenhausstr 1	84489	Burghausen	249
+Kreiskrankenhaus	Krankenhausstr 1	91275	Auerbach	80
+Kreiskrankenhaus	Krankenhausstr 10	67806	Rockenhausen	156
+Kreiskrankenhaus	Krankenhausstr 11	64823	Groß-Umstadt	300
+Kreiskrankenhaus Aichach	Krankenhausstr 11	86551	Aichach	50
+Kreiskrankenhaus Aichach	Krankenhausstr 11	86551	Aichach	146
+Kreiskrankenhaus Aichach	Krankenhausstr 11	86551	Aichach	100
+Kreiskrankenaus	Krankenhausstr 12	93149	Nittenau	70
+Zweckverband Krankenhaus	Krankenhausstr 12	94501	Aidenbach	48
+Anstalten d Landkrs Dachau	Krankenhausstr 15	85221	Dachau	338
+Kreiskrankenhaus	Krankenhausstr 16	92237	Sulzbach-Rosenberg	196
+Gemeindekrankenhaus	Krankenhausstr 16	94130	Obernzell	48
+St Antonius-Krankenhaus	Krankenhausstr 17	48477	Hörstel	50
+Kreiskrankenhaus	Krankenhausstr 2	23795	Bad Segeberg	268
+Kreiskrankenhaus	Krankenhausstr 2	83512	Wasserburg	198
+Kreiskrankenhaus	Krankenhausstr 2	93086	Wörth	105
+Orthop Fachklinik	Krankenhausstr 230	94374	Schwarzach	105
+Kreiskrankenhaus	Krankenhausstr 25	92507	Nabburg	153
+Stiftungs-Krankenhaus	Krankenhausstr 3	92334	Berching	47
+Kreiskrankenhaus	Krankenhausstr 3	93449	Waldmünchen	70
+Kreiskrankenhaus	Krankenhausstr 3 A	92431	Neunburg	70
+Kreiskrankenhaus	Krankenhausstr 4	83527	Haag	140
+Kreiskrankenhaus	Krankenhausstr 6	84066	Mallersdorf-Pfaffenberg	212
+Staedt Krankenhaus	Krankenhausstr 7	52525	Heinsberg	224
+Kreiskrankenhaus	Krankenhausstr 7	83607	Holzkirchen	78
+Kreiskrankenhaus	Krankenhausstr 7	89257	Illertissen	194
+Kreiskrankenhaus	Krankenhausstr 70	85276	Pfaffenhofen	250
+Kreiskrankenhaus	Krankenhausstr 8	74613	Öhringen	180
+Kreiskrankenhaus	Krankenhausstr 8	94474	Vilshofen	135
+Clemens-August-Krankenhaus	Krankenhausstr.1	54634	Bitburg	340
+Kreiskrankenhaus	Krankenhausstraße 1	91781	Weißenburg	202
+St Josefs-Krankenhaus	Krankenhausstrasse 143	66679	Losheim	140
+Krankenhaus Langenberg	Krankenhausstrasse 17	42555	Velbert	91
+Kreiskrankenhaus Koesching	Krankenhausstrasse 19	85092	Kösching	225
+Klinikum Niederlausitz Gmbh	Krankenhausstrasse 2	01998	Klettwitz	206
+Kreiskrankenhaus	Krankenhausstrasse 2	84137	Vilsbiburg	200
+Gemeindekrankenhaus	Krankenhausstrasse 20	83569	Vogtareuth	122
+Krankenhausbetrieb Des	Krankenhausstrasse 27	34613	Schwalmstadt	168
+Krankenhausbetrieb Des	Krankenhausstrasse 27	34613	Schwalmstadt	96
+Krankenhausbetrieb Des	Krankenhausstrasse 27	34613	Schwalmstadt	282
+Kreiskrankenhaus Rottweil	Krankenhausstrasse 30	78628	Rottweil	294
+Sana-Krankenhaus	Krankenhausstrasse 42	50354	Hürth	140
+Kreiskrankenhaus	Krankenhausstrasse 5	92681	Erbendorf	65
+Kreiskrankenhaus Lobenstein	Krankenhausstrasse 7	07368	Ebersdorf	133
+Theresien-Hospital	Krankenhausstraße 8	49219	Glandorf	45
+Spezialklinik Neukirchen	Krankenhausstrasse 9	93453	Neukirchen	190
+Kreiskrankenhaus Moosburg	Krankenhausweg 10	85368	Moosburg	72
+Landratsamt Nuernberg Land	Krankenhausweg 17	91220	Schnaittach	50
+Kreiskrankenhaus	Krankenhausweg 2	37627	Stadtoldendorf	127
+Staedt Krankenhaus	Krankenhausweg 22	55774	Baumholder	53
+Kreiskrankenhaus Ochsenhau-	Krankenhausweg 28	88416	Ochsenhausen	80
+Fachkrankenhaus Nordfries-	Krankenhausweg 3	25821	Bredstedt	39
+Krankenhaus Annaheim	Krankenhausweg 7	48465	Schüttorf	50
+Kath. Krankenhaus Marienheim	Krankenhausweg 8	49762	Lathen	35
+Kreiskrankenhaus	Kratzberg 1	36199	Rotenburg an der Fulda	207
+St.-Rochus-Krankenhaus	Kratzengasse 4	64807	Dieburg	182
+Johanniter-Krankenhaus	Kreuzacker 1-7	47228	Duisburg	380
+Parkinson-Klinik Wolfach	Kreuzbergstrasse 12-16	77709	Wolfach	58
+Krankenanstalt des Diakonie-	Kreuzbergstraße 79	40489	Düsseldorf	624
+Drk-Krankenhaus Alzey-Worms	Kreuznacher Str 7-9	55232	Alzey	168
+Evangelisches Krankenhaus	Kreuzstraße 28	46535	Dinslaken	410
+Stadt Stuttgart	Kriegsbergstr 60	70174	Stuttgart	1035
+Kreiskrankenhaus	Kronacher-Str 26	95346	Stadtsteinach	100
+Kliniken d Main-Taunus-Krs	Kronberger Str 36	65812	Bad Soden	507
+Städtisches Krankenhaus Süd	Kronsforder Allee 71-73	23560	Lübeck	388
+Fachklinik Ichenhausen	Krumbacher Str 45	89335	Ichenhausen	50
+Klinikum Ingolstadt	Krumenauerstr 25	85049	Ingolstadt	1036
+Krankenhaus St Michael	Kuehlweinstr 103	66333	Völklingen	222
+Gertrudis-Hospital	Kuhstr 23	45701	Herten	170
+Klinik Herzoghoehe	Kulmbacher Strasse 103	95445	Bayreuth	20
+St Marien-Hospital	Kunibertkloster 11	50667	Köln	210
+Krankenhaus Teutschenthal	Kurallee 6-9	06179	Teutschenthal	85
+Kreiskrankenhaus - Hessen-	Kurfuerstenstr 17	36381	Schlüchtern	210
+Krankenhaus St Elisabeth	Kurfuerstenstr 22	52428	Jülich	254
+St Josefs Hospital	Kurfuerstenstrasse 69	47829	Krefeld	303
+Mosel-Eifel-Klinik	Kurfürstenstraße	56864	Bad Bertrich	115
+Dominikus-Krankenhaus Gmbh	Kurhausstr.30-34	13467	Berlin	261
+Segeberger Kliniken GmbH	Kurhausstraße 81	23795	Bad Segeberg	30
+St.- Elisabeth-Krankenhaus	Kurler Strasse 130	44319	Dortmund	156
+Karl-Hansen-Klinik	Kurparkstr 6	33175	Bad Lippspringe	292
+Kreiskrankenhaus	Kursdorfer Strasse 50	04435	Schkeuditz	215
+Klinik Markgroeningen	Kurt-Lindemann-Weg 10	71706	Markgröningen	174
+Klinik Endorf	Kurzentrum	83093	Bad Endorf	55
+Kreiskrankenhaus Bernburg	Kustrenaer Strasse 98	06406	Bernburg	455
+Kreiskrankenhaus Wurzen	Kutusowstrasse 70	04808	Wurzen	285
+Kinderkrankenhaus An Der	Lachnerstr 39	80639	München	150
+Kreiskrankenhaus Bernau	Ladeburger Chaussee 3-5	16321	Bernau	223
+Krankenhaus Des	Lafontainestrasse 15	06114	Halle	222
+Fachklinik Holte-Lastrup	Lähdener Straße 8	49774	Lähden	40
+Elisabethenstift Krankenhaus	Landgraf-Georg-Str 100	64287	Darmstadt	355
+Psychiatr Krankenhaus Haina	Landgraf-Phil-Platz	35114	Haina	238
+Rheumaklinik	Landgrafenstr 15	44652	Herne	150
+Klinik Der Offenen Tuer	Landhausstr 2	70182	Stuttgart	101
+St Josefs-Krankenhaus	Landhausstr.25	69115	Heidelberg	261
+Zweckverband Kreis- und	Landrat-Beushausen-Straße 26	31061	Alfeld	290
+Städtisches Krankenhaus	Landsberger Allee 49	10243	Berlin	952
+Krankenhaus St Josef	Landshuter Str 65	93047	Regensburg	398
+Augenklinik Dr. Klier	Landshuter Str.9	93047	Regensburg	45
+Hess Berglandklinik	Landstr 4	35080	Bad Endbach	104
+Vinzenzkrankenhaus	Lange Feldstraße 31	30559	Hannover	405
+Hospital Zum Heiligen Geist	Lange Str 4-6	60311	Frankfurt	340
+Kreiskrankenhaus Ammerland	Lange Straße	26655	Westerstede	436
+Elisabeth-Krankenhaus	Lange Straße	48488	Emsbüren	35
+St.-Elisabeth-Stift	Lange Straße 38	26676	Barßel	70
+Uni Klinik d Joh Gutenberg	Langenbeckstr 1	55131	Mainz	1758
+Kreiskrankenhaus/Krankenhaus	Langenfelder Straße 8	36433	Bad Salzungen	612
+Allgemeines Krankenhaus	Langenhorner Chaussee 560	22335	Hamburg	1261
+Kreiskrankenhaus	Langensalzaer Landstr 1	99974	Mühlhausen	519
+St Josefs-Krankenhaus	Langenstrichstrasse 44	66538	Neunkirchen	187
+Staedt.Krankenhaus	Langer Berg 12	91257	Pegnitz	125
+Kreiskrankenhaus Hoya	Langestraße 139	27318	Hoya	130
+Städtisches Krankenhaus	Lauenthaler Straße 99	38723	Seesen	189
+Kreiskrankenhaus	Laurentiusweg 1	84048	Mainburg	116
+Bundesknappschaft Klinik	Lazarettstrasse 4	66280	Sulzbach	300
+Klinik Am Sonnenberg Gmbh	Leibnizstr 19	65191	Wiesbaden	39
+Aukammklinik	Leibnizstr 21	65191	Wiesbaden	63
+Rheumaklinik Wiesbaden Ii	Leibnizstrasse 23	65191	Wiesbaden	170
+Stadtkrankenhaus	Leimenstr 20	63450	Hanau	653
+Kreiskrankenhaus Altenburg	Leipziger Strasse 1	04600	Altenburg	433
+Universitäts-Klinik	Leipziger Strasse 44	39120	Magdeburg	1393
+Sächsisches Krankenhaus für	Leipziger Strasse 59	04435	Schkeuditz	250
+Kreiskrankenhaus Kirchberg	Lengenfelder Strasse 44	08107	Kirchberg	170
+Klinik Marienheide	Leppestr 65	51709	Marienheide	191
+Klein E Dr med Gmbh	Lerchenstrasse 81	74072	Heilbronn	20
+Bundeswehr-Krankenhaus	Lesserstraße 180	22049	Hamburg	44
+Krankenhaus St Martin	Leutkirchstr 32	77723	Gengenbach	122
+Lukas-Krankenhaus	Leuzbacherweg 21	57610	Altenkirchen	200
+St Liborius-Krankenhaus	Liboriusstr.1	34537	Bad Wildungen	33
+Psychiatrisches Krankenhaus	Licher Str 106	35394	Gießen	470
+Evang Diakonissenhaus	Lichtenfelder Allee 45	14513	Teltow	75
+Ketteler-Krankenhaus	Lichtenplattenweg 85	63071	Offenbach	280
+Kreiskrankenhaus	Liebenauerstrasse 1	34369	Hofgeismar	175
+St.-Elisabeth-Krankenhaus	Liebenhaller Straße 20	38259	Salzgitter	160
+Neurolog Landeskrankenhaus	Liebfrauenbergstr	55590	Meisenheim	105
+St Josefs-Krankenhaus	Liebigstr 24	35390	Gießen	156
+Universität Leipzig	Liebigstrasse 27	04103	Leipzig	1591
+Buehlertal Krankenhaus	Liehenbachstr.12	77830	Bühlertal	25
+Kinderkrankenhaus	Liliencronstraße 130	22149	Hamburg	213
+Deutsches Rotes Kreuz	Lilienmattstr 5	76530	Baden-Baden	83
+Kreiskrankenhaus Rendsburg	Lilienstraße 20-28	24768	Rendsburg	593
+Augenklinik Dr. Uthoff	Lindenallee 21	24105	Kiel	20
+UKRV, Robert-Rössle-Klinik	Lindenberger Weg 80	13125	Berlin	200
+Bayerisches Rotes Kreuz	Lindenlohe 18	92421	Schwandorf	160
+Klinik Dr.Evers	Lindenstr 22	59846	Sundern	54
+Privat-Nerven-Klinik	Lindenstraße 15	38704	Liebenburg	300
+Landeskrankenhaus füer	Lindenstrasse 2	39291	Lostau	230
+Neinstedter Anstalten	Lindenstrasse 22	06502	Neinstedt	40
+Maria-Josef-Hospital	Lindenstrasse 29	48268	Greven	225
+Kreiskrankenhaus	Lindenstrasse 32	39615	Seehausen	255
+Fachklinik für Kinder- und	Lindenstraße 4	53474	Bad Neuenahr-Ahrweiler	28
+Gefaess-Zentrum Dr Bauer	Lindenstrasse 7	53474	Bad Neuenahr-Ahrweiler	50
+Kreiskrankenhaus Neustadt	Lindenstraße 75	31535	Neustadt	399
+Staedt.Krankenhaus	Lindenweg 1	92342	Freystadt	32
+Bayerisches Rotes Kreuz	Lindwurmstr 12	80337	München	20
+Marien-Hospital Ankum	Lingener Straße 11	49577	Ankum	130
+Privatfrauenklinik	Lipper-Hellweg 10-12	33604	Bielefeld	12
+Paracelsus-Klinik	Lipper Weg 11	45770	Marl	478
+Allergie- und Hautklinik	Lippestraße 9-11	26548	Norderney	150
+Lister Krankenhaus	Lister Kirchweg 43	30163	Hannover	90
+Chirurgische Klinik	Listplatz 1	72764	Reutlingen	15
+Vestische Kinderklinik	Lloydstrasse 5	45711	Datteln	280
+Kreiskrankenhaus	Locksteinstr.16	83471	Berchtesgaden	152
+Kreiskrankenhaus Koethen	Lohmannstrasse 87-92	06366	Köthen	446
+Allgemeines Krankenhaus	Lohmühlenstraße 5	20099	Hamburg	1084
+Klinik Dr. med. Fuhrer	Lorentzendamm 19	24103	Kiel	17
+Krankenhaus Loreto	Loretoweg	79780	Stühlingen	82
+Deutsches Herzzentrum	Lothstr 11	80335	München	140
+Fachkrankenhaus	Luckauer Strasse 17	15907	Lübben	254
+Krankenhaus Ludmillenstift	Ludmillenstraße 4	49716	Meppen	375
+Dr Horst-Schmidt-Kliniken	Ludwig-Erhard-Str 100	65199	Wiesbaden	970
+Berufsgenossenschaftliche	Ludwig-Guttmann-Str 13	67071	Ludwigshafen	280
+Kreiskrankenhaus	Ludwig-Heilmeyer-Strasse 1	89312	Günzburg	244
+Bezirkskrankenhaus	Ludwig-Heilmeyer-Strasse 2	89312	Günzburg	753
+Frauenklinik Dr h h Kraus	Ludwig-Trick-Str 23	77694	Kehl	7
+Evang Krankenhaus	Ludwig-Weber-Strasse 15	41061	Mönchengladbach	385
+Krankenhaus St Josef	Ludwigstr 1	97421	Schweinfurt	280
+Psychiatrisches Krankenhaus	Ludwigstr 54	64646	Heppenheim	265
+Tcm-Klinik Koetzting Gmbh	Ludwigstrasse 2	93444	Kötzting	0
+Krankenhaus Donaustauf	Ludwigstrasse 68	93093	Donaustauf	150
+Staedt.Hardterwald-Klinik	Luise-Gueury-Str 400	41169	Mönchengladbach	164
+Staedt Krankenhaus	Luisenstr 17	78120	Furtwangen	116
+Rheinklinik	Luisenstr 3	53604	Bad Honnef	100
+Krankenanstalten	Luisenstr 7	78464	Konstanz	532
+Privatklinik Dr Opitz	Luitpoldstr 11 B	93047	Regensburg	32
+Kreiskrankenhaus	Luitpoldstr 14	76870	Kandel	239
+Kreiskrankenhaus Rosslau	Lukoer Strasse 2	06862	Roßlau	170
+TK-Modellverbund	Lumumbastr 15	04105	Leipzig	0
+Kreiskrankenhaus	Lupburger-Str 11	92331	Parsberg	85
+Staedt Krankenanstalten	Lutherplatz 40	47805	Krefeld	1274
+Martin-Luther-Krankenhaus	Lutherstraße 22	24837	Schleswig	371
+Kreiskrankenhaus	Lutherstrasse 9	01877	Bischofswerda	223
+Drk-Krankenhaus	Lützerodestraße 1	30161	Hannover	255
+Elisabeth-Diakonissen-	Lützowstr.24-26	10785	Berlin	200
+Krankenanstalten Marienborn	Luxemburger Strasse 1	53909	Zülpich	180
+Krankenhaus Spandau	Lynarstrasse 12	13585	Berlin	1555
+Klinikum Hoyerswerda	M-Grollmuss-Strasse 10	02977	Hoyerswerda	739
+Krankenhaus Malteserstift	M-Hornik-Strasse 1	01920	Räckelwitz	152
+Otto-Fricke-Krankenhaus -	M-V-Opel-Weg 34	65307	Bad Schwalbach	130
+Privatklinik Dr Frank	M7-14	68161	Mannheim	12
+Franziskus Krankenhaus	Magdalena-Daemen-Strasse 20	53545	Linz	190
+Kurheim Mahlertshof	Mahlertshof	36151	Burghaun	45
+Staedt Kliniken Duisburg	Maiblumenstr 3-7	47229	Duisburg	176
+Kreiskrankenhaus Freising	Mainburgerstr 29	85356	Freising	441
+Bezirkskrankenhaus	Mainkofen	94469	Deggendorf	858
+Klinik Amsee Gmbh	Malchiner Landstrasse	17192	Waren	156
+Humaine Klinik	Malerstrasse 31	01326	Dresden	150
+Kreiskrankenhaus	Mannichswalder Str 67/P 171	08451	Crimmitschau	188
+Kreiskrankenhaus Lehrte	Manskestraße 22	31275	Lehrte	206
+Westfaelische Klinik Fuer	Marbruchstrasse 179	44135	Dortmund	926
+Marien-Krankenhaus	Marburger Str 85	34127	Kassel	209
+Krankenhaus Maria-Hilf	Maria-Hilf-Str.2	54550	Daun	262
+Klinikum St Marien	Mariahilfbergweg 7	92224	Amberg	609
+Kreiskrankenhaus	Marie Eberth Str 6	86956	Schongau	258
+Orthop Univ Klinik	Marienburgstr 2	60528	Frankfurt	300
+Ev.- Luth. Diakonissen-	Marienhölzungsweg 2	24939	Flensburg	390
+Städtische Krankenanstalten	Marienhölzungsweg 4	24939	Flensburg	140
+St Marien-Hospital	Marienstr 2	34431	Marsberg	180
+St Marien Hospital Eickel	Marienstr 2	44651	Herne	175
+Marienkrankenhaus	Marienstr 20	66606	St Wendel	240
+Marienhospital	Marienstr.45	48282	Emsdetten	210
+Krankenhaus Nienburg	Marienstraße 2	31582	Nienburg	234
+Kreiskrankenhaus Herrenberg	Marienstrasse 25	71083	Herrenberg	202
+Kreiskrankenhaus Lübz/Plau	Marienstraße 32	19386	Lübz	130
+Privatklinik Dr. Lehmann	Marienstraße 51	24534	Neumünster	25
+St.-Marien-Hospital	Marienstraße 6	49377	Vechta	286
+Henriettenstiftung	Marienstraße 80-90	30171	Hannover	638
+Bundeswehrkrankenhaus	Marker Allee 76	59065	Hamm	20
+Krankenhaus Gunzenbachhof	Markgraf-Bernhard-Str 2	77883	Ottenhöfen	90
+Kreiskrankenhaus	Marktstr 50	94110	Wegscheid	90
+Stadtkrankenhaus Neuwied	Marktstrasse 74	56564	Neuwied	389
+Krankenhaus Rotes Kreuz	Marlistraße 10	23566	Lübeck	70
+Anstalten d Landkrs Dachau	Maroldstr	85229	Markt Indersdorf	80
+St Elisabeth Krankenhaus	Martin-Heyden-Str 32	52511	Geilenkirchen	266
+Evang Krankenahus	Martin-Luther-Str 49	49525	Lengerich	226
+Krankenhaus Bethanien	Martinistraße 44	20251	Hamburg	170
+Universitäts-Krankenhaus	Martinistraße 52	20251	Hamburg	1794
+Marienhospital	Martinspfad 72	64285	Darmstadt	127
+Kreiskrankenhaus	Marwitzer Strasse 91	16761	Hennigsdorf	346
+Kreiskrankenhaus Neuenbuerg	Marxeller Str 46	75305	Neuenbürg	140
+Kreiskrankenhaus	Mauerfeldchen 25	52146	Würselen	401
+St-Elisabeth-Krankenhaus	Mauerstrasse 5-10	06110	Halle	395
+Bathildis-Krankenhaus	Maulbeerallee 4	31812	Bad Pyrmont	290
+Kinderheilstätte	Mauritiusplatz 6	59394	Nordkirchen	45
+Marienhospital Borghorst	Mauritiusstr 6	48565	Steinfurt	321
+Kreiskrankenhaus	Max-Heine-Strasse 10	08228	Rodewisch	416
+Bezirkskrankenhaus	Max-Otten-Strasse 11-15	39104	Magdeburg	635
+St Elisabeth	Max Reger Str 5-7	69121	Heidelberg	84
+Zentrale Klinikverwaltung	Maximilianplatz 2	91052	Erlangen	1584
+Theresien-Krankenhaus	Maxstr.13	97688	Bad Kissingen	85
+Rheinische Landesklinik	Meckerstr 15	52353	Düren	491
+Städtisches Krankenhaus	Mecklenburger Landstraße 41-59	23552	Lübeck	131
+Kreiskrankenhaus	Meisenhartweg 14	79713	Bad Säckingen	198
+Kreiskrankenhaus	Memminger Str 31	87724	Ottobeuren	138
+Ev Krankenhaus	Mengeder Schulstr 51	44359	Dortmund	160
+Krankenhaus	Menzinger Str 44	80638	München	505
+Loretto-Krankenhaus	Mercystr.6-14	79100	Freiburg	205
+St Vincenz-Hospital	Merheimer-Str 217	50733	Köln	324
+Stadtkrankenhaus Halle	Merseburger Str. 165	06108	Halle	304
+Krankenhaus GRANSEE GGmbH	Meseberger Weg 12-13	16775	Gransee	223
+Evang. Stiftung Krankenhaus	Metzendorfer Weg 21	21224	Rosengarten	130
+Klinik Michelsberg	Michelsberg 1	97702	Münnerstadt	114
+DRK-Krankenhaus Middelburg	Middelburg	23701	Süsel	38
+Nachsorgeklinik Bergstrasse	Mierendorffstrasse 2	64625	Bensheim	53
+Marianne Strauss Klinik	Milchberg 21	82335	Berg	100
+Kreiskrankenhaus Krumbach	Mindelheimer Strasse 69	86381	Krumbach	240
+St.-Martinus-Stift	Mittelstraße 1-3	49733	Haren	70
+St Antonius-Hospital	Moellenweg 22	48599	Gronau	304
+Landeswohlfahrtsverband	Moenchberg 8	65589	Hadamar	402
+Kreiskrankenhaus Muellheim	Moltkestr 16	79379	Müllheim	209
+Elisabeth-Krankenhaus	Moltkestr 61	45138	Essen	610
+DRK-Tagesklinik	Moltkestraße	24534	Neumünster	0
+Staedt Krankenanstalten	Moltkestrasse 14	76133	Karlsruhe	1573
+Theresienkrankenhaus	Mommsenstr 24	90491	Nürnberg	353
+Stadtkrankenhaus Kassel	Mönchebergstrasse 41-43	34125	Kassel	1259
+med Einrichtungen Heinrich-	Moorenstrasse 5	40225	Düsseldorf	1540
+Evang. Hospital Lilienthal	Moorhauser Landstraße 3	28865	Lilienthal	100
+Krankenhaus Jerusalem	Moorkamp 2	20357	Hamburg	105
+Kreiskrankenhaus	Moosbauer Weg 5-7	82515	Wolfratshausen	238
+St.-Franziskus-Krankenhaus	Morillenhang 27	52064	Aachen	194
+Orthopaedische Klinik	Mosbacher Str 10	65187	Wiesbaden	125
+Privatklinik Dr.Spreng	Mozartstr 21	80336	München	82
+Chirurg U Orthop Klinik	Mozartstr.2	89075	Ulm	52
+Privatfrauenklinik	Mozartstrasse 14 A - 16	80336	München	75
+Klinik St Blasien	Muchenlaender Str 4	79837	St Blasien	95
+Ev Krankenhaus	Muehlenstr 15	33824	Werther	104
+Krankenhaus	Muehlenstr 39	55543	Bad Kreuznach	300
+Cs Verwaltungsgesellschaft	Muehlenstrasse 60	83098	Brannenburg	86
+Kreiskrankenhaus Eisenach	Muehlhaeuserstrasse 94	99817	Eisenach	625
+Psorisol Therapiezentrum	Muehlstrasse 31	91217	Hersbruck	50
+Kliniken St Elisabeth	Mueller-Gnadenegg-Weg 4	86633	Neuburg	358
+Priv Klinik Dr Reiser	Muenchener Str 135	85051	Ingolstadt	54
+Interne Klinik Dr Argirov	Muenchener Str 23-29	82335	Berg	85
+Marien-Hospital	Muenchweg 8	50374	Erftstadt	124
+Kreiskrankenhaus Oldenburg/	Mühlenkamp 5	23758	Oldenburg	213
+St.-Marien-Hospital	Mühlenstr 5-9	45894	Gelsenkirchen	349
+Städtisches Krankenhaus	Mühlenstraße 1	26548	Norderney	45
+Kreiskrankenhaus	Mühlenstraße 17	49751	Sögel	162
+Prosper-Hospital	Mühlenstraße 27	45659	Recklinghausen	572
+St Josef-Krankenhaus Adenau	Mühlenstrasse 31-35	53518	Adenau	150
+St.- Josef-Hospital	Mülheimer Strasse 83	46045	Oberhausen	343
+Klinikum Frankfurt (Oder)	Müllroser Chaussee 7	15236	Frankfurt/Oder-Markendf.	974
+Evangelisches Krankenhaus	Munkelstr 27	45879	Gelsenkirchen	500
+Privatklinik F.	Murgtalstr 656	72270	Baiersbronn	167
+Förde-Klinik	Mürwiker Straße 115	24943	Flensburg	28
+Privatklinik	Mürwiker Straße 162	24943	Flensburg	17
+Kreiskrankenhaus	Mussinanstr 8	94327	Bogen	160
+Marienhospital Brühl GmbH	Muühlenstraße 21-25	50321	Brühl	270
+Krankenhaus Kaulsdorf	Myslowitzer Strasse 45	12621	Berlin	434
+St Johannis-Krankenhaus	Nardinistr. 30	66849	Landstuhl	400
+Marienhospital Hamm	Nassauer Strasse 13-19	59065	Hamm	786
+Kreiskrankenhaus	Naumburger Strasse 76	06667	Weißenfels	425
+Neanderklinik Harzwald	Neanderplatz 4	99768	Ilfeld	128
+Johannes-Anstalten Mosbach	Neckarburkener Str 2-4	74821	Mosbach	88
+Psychiatr Landeskrankenhaus	Neubronnstrasse 25	79312	Emmendingen	613
+Bezirkskrankenhaus Fuer	Neucoswiger Strasse 21	01640	Coswig	250
+St Marienkrankenhaus	Neue Schulstr 12	68623	Lampertheim	120
+Krankenhaus Rheiderland	Neue Straße 22	26826	Weener	80
+Städt. Krankenhaus Holweide	Neufelder Str 32	51067	Köln	558
+Landratsamt Nuernberg Land	Neumarkter Strasse 6	90518	Altdorf	115
+Johanniter-Tagesklinik	Neumarktstrasse 36	42103	Wuppertal	0
+Kreiskrankenhaus	Neustädter Strasse 61	96515	Sonneberg	330
+Kreiskrankenhaus Sebnitz	Neustaedter Strasse 25	01855	Sebnitz	235
+Privatklinik Dr Wied	Neustr 81	52159	Roetgen	4
+St.-Marien-Hospital Lüding-	Neustraße 1	59348	Lüdinghausen	236
+Privat-Frauenklinik	Neutorstr.9-11	97421	Schweinfurt	32
+Marienkrankenhaus Nassau	Neuzebachweg 2	56377	Nassau	90
+Fachklinik Fuer Stoff-	Nibelungenstrasse 101	64678	Lindenfels	43
+Buergerhospital	Niebelungenallee 37-41	60311	Frankfurt	345
+Klinik Schloss Falkenhof	Niebelungenstr 109	64625	Bensheim	74
+Roland-Klinik	Niedersachsendamm 72/74	28201	Bremen	200
+St Elisabeth-Krankenhaus	Niedertor 4	36088	Hünfeld	195
+St.-Rochus-Krankenhaus	Nieheimer Strasse 34	32839	Steinheim	170
+Kreiskrankenhaus Belzig	Niemegker Strasse 45	14806	Belzig	191
+Robert-Koch-Klinik Leipzig	Nikolai-Rumjanzew-Strasse 100	04207	Leipzig	370
+St.-Nikolaus-Hospital	Nikolausstr.25	33142	Büren	177
+St Anna-Krankenhaus	Nonnengasse 19	65589	Hadamar	100
+Krankenhaus d Barmherzigen	Nordallee 1	54292	Trier	575
+Nordseeklinik Westerland	Norderstraße 81	25980	Westerland	122
+Medizinische Akademie	Nordhäuser Str 74	99089	Erfurt	2058
+Seehospital Sahlenburg	Nordheimstraße	27476	Cuxhaven	200
+Städtisches Krankenhaus	Nordring 37-41	59821	Arnsberg	264
+Psychiatrische Tagesklinik	Nordring 4	76829	Landau	0
+Klinik für Radiologie	Nordstraße 26	09113	Chemnitz	79
+Städtische Helmig-Kranken-	Nordstraße 34	59174	Kamen	221
+Fachkrankenhaus Robert Koch	Notstrasse 11 / 184	98574	Schmalkalden	196
+Kreiskrankenhaus	Nuernberger Str 12	92318	Neumarkt	463
+St.-Marien-Hospital	Nürnberger Strasse 10	46117	Oberhausen	250
+St Vincenz-Krankenhaus	Nussallee 28	63450	Hanau	297
+Klinik Phoenix mit Tag- und	Nussbaumallee 14	14050	Berlin	25
+Krankenanstalt Rotes Kreuz	Nymphenburger Str 163	80335	München	543
+Augenklinik	Nymphenburger Str 43	80335	München	60
+Krankenhaus Maria-Hilf	Oberdiessemer Str. 94	47805	Krefeld	291
+Alexianer-Krankenhaus	Oberdiessemerstr 136	47805	Krefeld	148
+Evangelisches Krankenhaus	Obere Himmelsbergstr 38	66482	Zweibrücken	294
+Katharinen-Hospital	Obere Husemannstrasse 2	59423	Unna	331
+Landeshauptstadt Stuttgart	Obere Strasse 2	70190	Stuttgart	120
+St Anna-Klinik	Obere Waiblinger Str 101	70374	Stuttgart	130
+Privatklinik Inzell-Eck	Obereck 20	83334	Inzell	18
+Kreiskrankenhaus	Oberend 29	96110	Scheßlitz	150
+Bundeswehrkrankenhaus Ulm	Oberer Eselsberg 40	89081	Ulm	247
+Rehabilitationskrankenhaus	Oberer Eselsberg 45	89081	Ulm	232
+Heinr-Landerer-Krankenhaus	Oberlinstrasse 16	72762	Reutlingen	34
+Kreiskrankenhaus Wolfach	Oberwolfacher Str 10	77709	Wolfach	120
+Kreiskrankenhaus Buerger-	Ockstaedter Strasse 3-5	61169	Friedberg	250
+Bezirksnervenklinik	Oderberger Strasse 8	16225	Eberswalde-Finow	408
+Kreiskrankenhaus Ilmenau	Oehrenstöcker Strasse 32	98693	Ilmenau	319
+Kreiskrankenhaus Soltau	Oeninger Weg 30	29614	Soltau	305
+Reha-Zentrum Soltau	Oeninger Weg 59	29614	Soltau	100
+Haus Niedersachsen Gem. GmbH	Oerrel 60	29386	Dedelstorf	67
+Paracelsus-Klinik am	Oertzeweg 24	30851	Langenhagen	180
+Priv.Klinik Dr.Maul	Oestl.Ringstr.4	85049	Ingolstadt	58
+Carl-Von-Hess-Krankenhaus	Ofenthalerweg 20	97762	Hammelburg	151
+Landeskrankenhaus Bernburg	Olga-Benario-Strasse 16-18	06406	Bernburg	455
+Sana-Krankenhaus	Olgastr 39	75323	Bad Wildbad	70
+Sophien-Klinik Vahrenwald	Omptedastraße 10	30165	Hannover	40
+Karl-Bonhoeffer-Nerven-	Oranienburger Strasse 285	13437	Berlin	600
+Israelitisches Krankenhaus	Orchideenstieg 14	22297	Hamburg	219
+Rheuma-Klinik Gmbh	Oskar-Alexander-Straße	24576	Bad Bramstedt	220
+Praxisklinik	Oskar-Schlemmer-Straße 9-17	22115	Hamburg	82
+Sued-Klinik Gmbh & Co	Oskar-von-Miller-Str 6	94315	Straubing	60
+Chirurgische Klinik	Oslebshauser Heerstraße 77	28239	Bremen	26
+Kreiskrankenhaus	Osswaldstr 1	82319	Starnberg	280
+St Elisabeth-Krankenhaus	Ostallee 3	56112	Lahnstein	220
+Klinik für Manuelle	Ostenallee 83	59071	Hamm	100
+Kreiskrankenhaus	Ostenstrasse 31	85072	Eichstätt	181
+Knappschafts-Krankenhaus	Osterfelder Strasse 157	46242	Bottrop	403
+Klinik St Irmingard	Osternacher Str 103	83209	Prien	53
+Kreiskrankenhaus Norden	Osterstraße 103-113	26506	Norden	346
+Städt. Krankenhaus Merheim	Ostmerheimer Str 200	51109	Köln	834
+Klinik Am Baerenbrunnen	Otto-Kraft-Platz 2	59063	Hamm	40
+Bergische Diakonie Aprath	Otto-Ohl-Weg 10	42489	Wülfrath	12
+Staedtisches Klinikum Fulda	Pacelliallee 4	36043	Fulda	899
+Kardiologisches Fachkranken-	Panoramastrasse 100	36199	Rotenburg	124
+Kard Fachkrankenhaus Gmbh	Panoramastrasse 100	36199	Rotenburg	66
+Krankenhaus An Der Lieth	Pappelweg 5	37120	Bovenden	102
+Kreiskrankenhaus	Paracelsusstr 30-34	91413	Neustadt	216
+Städtisches Krankenhaus	Paracelsusstraße 1-9	38259	Salzgitter	302
+Paracelsus-Krankenhaus	Paracelsusstrasse 3	14712	Rathenow	379
+Zusamklinik	Paracelsusstrasse 3	86441	Zusmarshausen	151
+Kreiskrankenhaus Neustadt	Paracelsusstrasse 30	91413	Neustadt	80
+Marienkrankenhaus	Parade 3	23552	Lübeck	135
+St.-Gertrauden-Krankenhaus	Paretzer Str 12	10713	Berlin	510
+Krankenhaus Borstel	Parkallee 1	23845	Borstel	115
+Westf Landeskrankenhaus	Parkallee 10	49525	Lengerich	448
+St Marien-Hospital	Parkstr 15	44866	Bochum	249
+Kinderlandklinik Regen	Parkstr 4	94209	Regen	20
+Klinik Kessler-Handorn	Parkstr.58	67655	Kaiserslautern	51
+Kreiskrankenhaus Oschatz	Parkstrasse 1	04758	Oschatz	200
+Kreiskrankenhaus Hagenow	Parkstraße 12	19230	Hagenow	220
+Krankenhausgesellschaft Des	Parktorweg 10	78713	Schramberg	208
+Kreiskrankenhaus	Passauer Str 31	94081	Fürstenzell	85
+Marien-Hospital Ggmbh	Pastor-Janssen-Str 8-38	46483	Wesel	446
+Evang Krankenhaus	Pattbergstrasse 1-3	45239	Essen	253
+Allgemeines Krankenhaus	Paul-Ehrlich-Straße 1	22763	Hamburg	1119
+Paul-Gerhardt-Stift	Paul-Gerhardt-Strasse 42	06886	Lutherstadt Wittenberg	632
+Tropenheim	Paul-Lechler-Str 24	72076	Tübingen	101
+Evangelisches Krankenhaus	Paul-Zipp-Strasse 171	35398	Gießen	202
+Paulinenkrankenhaus	Paulinenweg 1	48455	Bad Bentheim	50
+Krankenhaus F Sport-	Paulmannhoeher Str 17	58507	Lüdenscheid	306
+Krank Haeuser d Maerk Krs	Paulmannshoeher Str 21	58515	Lüdenscheid	1139
+Medizinische Einrichtungen	Pauwelsstraße 30	52074	Aachen	1415
+Fachkrankenhaus Fuer	Peniger Strasse 10	08396	Waldenburg	100
+Kreiskrankenhaus Deggendorf	Perlasberger Str 41	94469	Deggendorf	440
+Stadtkrankenhaus	Perleberger Strasse 31A	16866	Kyritz	195
+Ost-Prignitz-Klinik gGmbH	Perleberger Tor 2	16928	Pritzwalk	240
+Parkklinik Dr Hagmaier	Pestalozzistr 12	79618	Rheinfelden	30
+Gloeckner Rudolf Dr med	Pestalozzistr 19-21	74076	Heilbronn	12
+Kreiskrankenhaus	Pestalozzistrasse 9	04442	Zwenkau	203
+Krankenhaus St. Josef	Peter-Dörfler-Straße 7	86807	Buchloe	120
+Staedt Krankenhaus	Pettenkoferstr 10	66955	Pirmasens	395
+Staedt Krankenhaus	Pettenkoferstr 10	83022	Rosenheim	660
+Landesfachkrankenhaus Fuer	Pfafferode 102	99974	Mühlhausen	1195
+Kreiskrankenhaus	Pfarrer-Guggetzer-Strasse 3	85560	Ebersberg	335
+St.-Elisabeth-Hospital	Pfarrer-Wilhelm-Schmitz-Straße 1	46282	Dorsten	370
+Kreiskrankenhaus	Pfarrgasse 21	92648	Vohenstrauß	80
+Frauenklinik Dr.Koch	Pfarrstr 19	34123	Kassel	95
+Pfeiffersche Stiftungen	Pfeifferstrasse 10	39114	Magdeburg	275
+Evang Krankenhaus	Pferdebachstr 27	58455	Witten	428
+Humaine-Klinikum Bad-Saarow	Pieskower Strasse 33	15526	Bad Saarow-Pieskow	666
+Malteser-Krankenhaus	Pillkaller Allee 1	14055	Berlin	161
+Johanniter Tagesklinik	Pionierstr 19	50735	Köln	0
+Albert-Schweitzer-	Pipping 5	37603	Holzminden	21
+Augenklinik Dr.Huck	Pirckheimerstr 30	90408	Nürnberg	6
+Pius-Hospital	Piusstrasse 5 Pstf 1263	48607	Ochtrup	130
+Kreiskrankenhaus	Plattlinger Str 29	94486	Osterhofen	90
+Kreiskrankenhaus	Plauensche Str 37	08468	Reichenbach	249
+Kreiskrankenhaus Guestrow	Plauer Strasse 81	18273	Güstrow	496
+Kreiskrankenhaus	Plinganserstr 10	84359	Simbach	200
+Sana-Klinik	Plinganserstrasse 122	81369	München	95
+St.-Elisabeth-Krankenhaus	Plönerstraße 42	23701	Eutin	106
+Städt. Krankenhaus Oststadt	Podbielskistraße 380	30659	Hannover	498
+Krankenanstalt Des	Posilipostrasse 49	71640	Ludwigsburg	1061
+Privatklinik Dr.Gaertner	Possartstr 29	81679	München	30
+Frauenklinik Starnberg	Possenhofener Str 49 A	82319	Starnberg	45
+Zentralkrankenhaus	Postbrookstraße	27574	Bremerhaven	750
+Landratsamt Freyung-	Postschliessfach 1320	94078	Freyung	236
+Landratsamt Freyung-	Postschliessfach 1320	94078	Freyung	160
+Landratsamt Freyung-	Postschliessfach 1320	94078	Freyung	70
+Kliniken im Theodor-Wenzel-	Potsdamer Chaussee 70	14129	Berlin	472
+Kreiskrankenhaus Pasewalk	Prenzlauer Chaussee 30	17309	Pasewalk	486
+Klinikum Bayreuth	Preuschwitzer Strasse 101	95445	Bayreuth	558
+Städtische Kliniken Neuss	Preussenstrasse 84	41464	Neuss	666
+Privatklinik Dr Rudschies	Preysingstrasse 3	85049	Ingolstadt	81
+Landeshauptstadt	Priessnitzweg 24	70374	Stuttgart	446
+St.-Elisabeth-Krankenhaus	Prinz-Albert-Straße 40	53113	Bonn	182
+Krankenhaus Bethanien	Prinz-Eugen-Strasse 13	04277	Leipzig	65
+Stadtkrankenhaus	Prinz Luitpoldstr 1	87527	Sonthofen	105
+Privatklinik Dr.Zimmermann	Prinzenweg 11	82319	Starnberg	41
+Kreiskrankenhaus	Prof-Arneth-Str 2	96215	Lichtenfels	404
+Berufsgenossenschaftliche	Professor-Küntscher-Straße 8	82418	Murnau	0
+Krankenhaus Bethel	Promenadenstrasse 3-5	12207	Berlin	304
+Kath Krankenhaus St Josef	Propsteistrasse 2	45239	Essen	204
+Kreiskrankenhaus Strausberg	Prötzeler Chaussee 5	15344	Strausberg	254
+Krankenhaus	Pruefeningerstr.86	93049	Regensburg	726
+Stadtkrankenhaus	Pulsnitzer Strasse 60	01454	Radeberg	133
+Kreiskrankenhaus	Querstrasse 2	18311	Ribnitz-Damgarten	187
+Kreiskrankenhaus	Rabnauer Strasse 9	01744	Dippoldiswalde	170
+Paracelsus-Klinik	Raiherwiesenstr 15-17	76227	Karlsruhe	187
+Thueringen-Klinik	Rainweg 68	07318	Saalfeld	690
+Kreiskrankenhaus	Rathausstr.8	68766	Hockenheim	41
+Klinik Dr Niebel	Rathenaustr 2	79618	Rheinfelden	24
+Waldkrankenhaus St.Marien	Rathsbergerstr 57	91054	Erlangen	380
+Klinikum der med. Universi-	Ratzeburger Allee 160	23564	Lübeck	1183
+Staedtisches Krankenhaus	Ravensburger Str 39	88250	Weingarten	155
+Landeskrankenhaus	Ravensteinstrasse 23	17373	Ueckermünde	529
+Kreiskrankenhaus	Rebbelstieg	25938	Wyk	42
+Staedt Krankenhaus	Reckenberger-Str 19	33332	Gütersloh	436
+Krankenhaus Zu Kappeln	Reeperbahn 4	24376	Kappeln	22
+Priv.Kl.Dr.Dunckelmann	Reepschlägerbahn 34	24937	Flensburg	23
+Stadtkrankenhaus	Regelsbacher Str.7	91126	Schwabach	200
+Riedberg-Klinik	Rehhagweg 40	79100	Freiburg	26
+Vogtland-Klinikum Plauen	Reichenbacher Strasse 42	08527	Plauen	713
+Waldkrankenhaus	Reinharzer Strasse 22	04849	Bad Düben Waldkrankenh	180
+Evangelisches Geriatrie-	Reinickendorfer Straße 61	13347	Berlin	0
+Stiftung Tannenhof	Remscheider Str. 76	42899	Remscheid	474
+Krankenhaus Neuwittelsbach	Renatastrasse 71 A	80634	München	160
+St Augustinus-Krankenhaus	Renkerstr 45	52355	Düren	294
+Remigius-Krankenhaus	Rennbaumstrasse 26	51379	Leverkusen	230
+Mathilden-Hospital	Renntormauer 1	32052	Herford	236
+St. Johannisstift	Reumontstr 28	33102	Paderborn	210
+Marienhospital Orsoy Gmbh	Rheinberger Str 375	47495	Rheinberg	160
+med Klinik Roemerbad	Rheingauer Str	65388	Schlangenbad	40
+Krankenhaus	Rheingauer Str 64	65343	Eltville	98
+Herz-Jesu-Krankenhaus	Rheinstr 9	56428	Dernbach	290
+Orthop.Klinik	Rheinstr.9	65307	Bad Schwalbach	29
+Caritasklinik	Rheinstrasse 2	66113	Saarbrücken	460
+Grunewaldklinik	Richard-Strauss-Str 1-3	14193	Berlin	100
+St Marien Krankenhaus	Richard-Wagner-Str 14	60318	Frankfurt	370
+Klinik Dr Haas	Richard-Wagner-Strasse 19	80333	München	82
+Kreiskrankenhaus	Richardstr 5-9	66333	Völklingen	306
+Landeshauptstadt Hannover	Ricklinger Straße 5	30449	Hannover	140
+Staedt Krankenhaus	Riedelstr. 5	83435	Bad Reichenhall	343
+Staedt Krankenhaus	Riedstr 12	74321	Bietigheim-Bissingen	465
+Klinik für Rehabilitation	Riedstraße 32	09117	Chemnitz	40
+Evang. Krankenhaus	Riemsloher Straße 5	49324	Melle	173
+Olympiapark-Klinik Gmbh	Riesstrasse 65	80992	München	44
+Privatklinik	Ringbergstr 53          340	83707	Bad Wiessee	20
+Diakonie-Krankenhaus	Ringstr 58-60	55543	Bad Kreuznach	380
+Krankenhaus Siegburg Gmbh	Ringstrasse 49	53721	Siegburg	405
+Neue Privatklinik	Ringstrasse 68-70	66953	Pirmasens	32
+Kreiskrankenhaus	Ringstrasse 96	91555	Feuchtwangen	80
+Kreiskrankenhaus Lippe-Lemgo	Rintelner Str 85	32657	Lemgo	587
+Burghof-Klinik	Ritterstraße 19	31737	Rinteln	104
+Zentralklinik Bad Berka	Robert-Koch-Allee 9	99438	Bad Berka	553
+St Josefs Krankenhaus	Robert-Koch-Str 16	42781	Haan	315
+Klinikum Niederberg	Robert-Koch-Str 2	42549	Velbert	584
+Kreiskrankenhaus	Robert-Koch-Str 2-12	16515	Oranienburg	211
+Fachklin F Lungenerkrankung	Robert-Koch-Str 3	34376	Immenhausen	115
+St Franziskus-Hospital	Robert-Koch-Str 55	59227	Ahlen	349
+Kreiskrankenhaus Buehl	Robert-Koch-Str 70	77815	Bühl	221
+Albertinenkrankenhaus	Robert-Koch-Straße 1	49201	Dissen	200
+St.-Marien-Hospital	Robert-Koch-Straße 1	53115	Bonn	383
+Klinikum Landshut	Robert-Koch-Strasse 1	84034	Landshut	594
+Klinik Schloss Pulsnitz	Robert-Koch-Strasse 10	01896	Pulsnitz	97
+Zweckverband Krankenhaus	Robert-Koch-Straße 2	25524	Itzehoe	713
+Kreiskrankenhaus Hofheim	Robert-Koch-Strasse 2	97461	Hofheim	50
+Kreiskrankenhaus Templin	Robert-Koch-Strasse 24	17268	Templin	252
+Klinik Fuer Lungenkrank-	Robert-Koch-Strasse 27	06493	Ballenstedt	147
+Kreiskrankenhaus Forst	Robert-Koch-Strasse 35	03149	Forst	365
+Kreiskrankenhaus Wolfen	Robert-Koch-Strasse 4	06766	Wolfen	360
+Kreiskrankenhaus	Robert-Koch-Straße 4	29664	Walsrode	290
+Zahlstelle der Kliniken der	Robert-Koch-Straße 40	37075	Göttingen	1465
+Kreiskrankenhaus Apolda	Robert-Koch-Strasse 6-8	99510	Apolda	335
+Kreiskrankenhaus Schmölln	Robert-Koch-Strasse 95	04621	Schmölln	135
+Krankenhauszweckverband	Robert-Weixler-Strasse 50	87439	Kempten	740
+Kreiskrankenhaus Ettenheim	Robert Koch Str 15	77955	Ettenheim	115
+Fachklinik Zollernalb	Robert Koch Str 28	72461	Albstadt	113
+Marienhospital	Rochusstr 2	40479	Düsseldorf	482
+Klinik Dr Heines	Rockwinkeler Landstraße 110	28355	Bremen	115
+Krankenhaus-Halle Doelau	Roentgenstr 12	06120	Halle	720
+Privat-Frauenklinik	Roentgenstr 15	81679	München	41
+Krankenhaus Weilheim Des	Roentgenstr 2	82362	Weilheim	171
+Kreiskrankenhaus Nagold	Roentgenstr 20	72202	Nagold	263
+Kreiskrankenhaus Loebau	Roentgenstr. 15	02730	Ebersbach	382
+Elisabeth-Krankenhaus Gmbh	Roentgenstrasse 10	45661	Recklinghausen	305
+Haus Edelberg-Zankoffklinik	Roentgenstrasse 5	76133	Karlsruhe	37
+Städtisches Krankenhaus	Roesebeckstraße 15	30449	Hannover	510
+Krankenhaus	Romanstr 93	80639	München	448
+Herz-Kreislauf-Klinik	Römstedter Straße 25	29549	Bad Bevensen	130
+Klinikum Lippe-Detmold GmbH	Röntgenstr 18	32756	Detmold	826
+Kreiskrankenhaus-Poliklinik	Röntgenstr. 1	06712	Zeitz	340
+Dreieich-Krankenhaus	Röntgenstrasse 20	63225	Langen	405
+Krankenanstalten Düren	Roonstraße 30	52351	Düren	528
+Wilhelm-Augusta-Krankenhaus	Röpersberg 2	23909	Ratzeburg	210
+Niedersächsisches Landes-	Rosdorfer Weg 70	37081	Göttingen	439
+Diakonissenkrankenhaus	Rosenbergstr 38	70174	Stuttgart	357
+Ev Fachkrankenhaus Ggmbh	Rosenstrasse 2	40882	Ratingen	156
+Dill-Kliniken	Rotebergstrasse 2	35683	Dillenburg	391
+Staatl Rheuma-Krankenhaus	Rotenbachtalstrasse 5	76530	Baden-Baden	228
+St.-Vincenz-Krankenhaus	Rottstrasse 11	45711	Datteln	371
+Allgemeines Krankenhaus	Rübenkamp  148	22305	Hamburg	1095
+Auguste-Viktoria-	Rubensstr 125	12157	Berlin	1184
+Werner-Forßmann-Krankenhaus	Rudolf-Breitscheid-Str 100	16225	Eberswalde-Finow	437
+Kreiskrankenhaus	Rudolf-Breitscheid-Str 37/39	16278	Angermünde	162
+Orthopädische Klinik	Rudolf-Breitscheid-Str. 24	14482	Potsdam	150
+Inselklinik Heringsdorf	Rudolf-Breitscheid-Strasse 5-6	17424	Heringsdorf	102
+Justus-Liebig-Universität	Rudolf-Buchheim-Str 6	35392	Gießen	1380
+Justus-Liebig-Universitaet	Rudolf-Buchheim-Str 6	35392	Gießen	0
+Krankenhaus Marienhof	Rudolf-Virchow-Str 7	56073	Koblenz	340
+Kreiskrankenhaus Borna	Rudolf-Virchow-Strasse 2	04552	Borna	593
+Kreiskrankenhaus	Rudolph-Weiss-Straße 5	99947	Bad Langensalza	233
+Krankenhaus Neukölln	Rudower Str.56	12351	Berlin	2011
+St Josef-Krankenhaus	Rurdorferstr.49	52441	Linnich	225
+Kreiskrankenhaus Leonberg	Rutesheimer-Strasse 50	71229	Leonberg	401
+Kreiskrankenhaus	Saarstrasse 1	14943	Luckenwalde	255
+St.-Josefs-Hospital	Sachsenecke 21	59939	Olsberg	173
+Klinik Wittgenstein	Saehlingstrasse 60	57319	Bad Berleburg	245
+Deutsches Rotes Kreuz	Salinenstrasse 135	55543	Bad Kreuznach	0
+Kreiskrankenhaus	Saliterstr 60	87616	Marktoberdorf	158
+DRK-Krankenhaus	Salvador-Allende-Str 2-8	12489	Berlin	587
+Missionsaerztliche Klinik	Salvatorstr 7	97074	Würzburg	276
+St Marien-Krankenhaus	Salzburger-Str 15	67067	Ludwigshafen	529
+Rhoen-Klinikum Ag	Salzburger Leite 1	97616	Bad Neustadt	180
+Klinik Fuer Handchirurgie	Salzburger Leite 1	97616	Bad Neustadt	40
+Herz- U Gefaessklinik Gmbh	Salzburger Leite 1	97616	Bad Neustadt	231
+Krankenhaus Waging Am See	Salzburger Str 29	83329	Waging	63
+Krankenhaus F	Sanatoriumspl 2	81545	München	110
+Klinikum Neustadt	Sandberger Weg 90	23730	Neustadt/OH	176
+Krankenhaus Maria Hilf Gmbh	Sandradstr 43	41061	Mönchengladbach	643
+Kreiskrankenhaus Neu-Ulm	Sandstr 1	89231	Neu-Ulm	225
+Stadtkrankenhaus	Sanktustorstr 2	90579	Langenzenn	30
+Krankenhaus Mara GGmbH	Saronweg 69	33617	Bielefeld	0
+Staedt Krankenhaus	Sassenfelder Kirchweg 1	41334	Nettetal	250
+Stadtkrankenhaus Wolfsburg	Sauerbruchstraße 7	38440	Wolfsburg	780
+St Marien-Hospital	Sauerlandstr.10	58802	Balve	110
+Curschmann-Klinik	Saunaring 6	23669	Timmendorfer Strand	30
+Kreiskrankenhaus Pirna	Schandauerstrasse 12	01796	Pirna	422
+Krankenhaus der Bundeswehr	Scharnhorststrasse 13	10115	Berlin	181
+Landratsamt Hof	Schaumbergstrasse 14	95032	Hof	130
+St.-Walburga-Krankenhaus	Schederweg 12	59872	Meschede	282
+Krankenhaus Maingau	Scheffelstr 2-16	60318	Frankfurt	237
+Privatklinik	Scheffelstr 83	63071	Offenbach	36
+Klinikum Stadtpark	Scheffelstraße 110	09120	Chemnitz	218
+Kliniken	Scheinerstr 3	81679	München	180
+Kreiskrankenhaus Abt	Schemelingstraße 47	27232	Sulingen	170
+Evangelisches Krankenhaus	Schermbecker Landstr 88	46485	Wesel	342
+Knappschafts-Krankenhaus	Schernerweg 4	45894	Gelsenkirchen	300
+Deutsches Rotes Kreuz	Schiffdorfer Chaussee 29	27574	Bremerhaven	311
+Deutsches Rotes Kreuz	Schiffdorfer Straße 29	27568	Bremerhaven	411
+Krankenhaus Sachsenhausen	Schifferstrasse 78-80	60594	Frankfurt	260
+Evang Johannes-Krankenhaus	Schildescher Strasse 99	33611	Bielefeld	602
+Klinik Schillerhoehe	Schillerhoehe	70839	Gerlingen	202
+Asklepios Diabetes-Klinik	Schillerpromenade 2-3	16540	Hohen Neuendorf	70
+St Antonius-Krankenhaus	Schillerstr 23	50968	Köln	260
+Spreewald-Klinik Lübben	Schillerstrasse 29	15901	Lübben	366
+Christliches Krankenhaus	Schillerstraße 8	99817	Eisenach	226
+Universität Rostock	Schillingallee 35	18057	Rostock	2115
+Kreiskrankenhaus	Schleswiger Str. 114-116	24340	Eckernförde	245
+Ev. Krankenhaus Gottesfriede	Schleusenstrasse 50	15569	Woltersdorf	103
+Kreiskrankenhaus	Schleusinger Str 17	98646	Hildburghausen	364
+Kreiskrankenhaus	Schlichtener Str 101	73614	Schorndorf	370
+Stiftung Orthop Uniklinik	Schlierbacher Landstr 200	69118	Heidelberg	314
+Luisen-Krankenhaus	Schlierbacher Weg	64678	Lindenfels	162
+Psychosomatische Klinik	Schlodderdicher Weg 23	51469	Bergisch Gladbach	36
+Zweckverband Krankenhaus	Schloss-Str 28	87534	Oberstaufen	40
+St Vincenz-Krankenhaus	Schloss-Str 85	40477	Düsseldorf	353
+Fachkrh. für Suchtkranke	Schloss Reelsen	33014	Bad Driburg	22
+Psychiatr Landeskrankenhaus	Schloss Str  50	71364	Winnenden	471
+Kreiskrankenhaus	Schloss Strasse 1	84056	Rottenburg	66
+Staedt Krankenhaus	Schlossbichl 7	82377	Penzberg	152
+Kreiskrankenhaus	Schlossfreiheit 7	39590	Tangermünde	122
+Landratsamt Aschaffenburg	Schlosshof 1	63755	Alzenau	148
+Fachkrankenhaus F.Kinder-	Schlossparkstrasse 5	06268	Vitzenburg	50
+Schlossberg Sanatorium	Schlosstr 40	57334	Bad Laasphe	100
+Samariterstiftung	Schlossweg 1	72622	Nürtingen	0
+Rheinische Landesklinik	Schmelenheide 1	47551	Bedburg-Hau	515
+Frauenklinik	Schmidwegerl 2-6	80331	München	75
+Berufsgenossenschaftliche	Schnarrenbergstrasse 95	72076	Tübingen	325
+Staedt Krankenhaus	Schoenblickstrasse 45	78112	St Georgen	85
+Rotes Kreuz Krankenhaus	Schoene Aussicht 41	65193	Wiesbaden	104
+Privatklinik Josefinum	Schoenfeldstr 16	80539	München	90
+Augenklinik Dr Schad	Schoenleinstr 11	70184	Stuttgart	24
+St Franziskus-Hospital	Schoensteinstr 63	50825	Köln	404
+Krankenhaus Weißensee	Schoenstrasse 87/90	13086	Berlin	410
+Evangelisches Johannesstift	Schoenwalder Allee 26	13587	Berlin	380
+Kreiskrankenhaus Neuhaus	Schöne Aussicht 39	98724	Neuhaus	257
+Staedtisches Krankenhaus	Schopfheimer Str 55	79669	Zell	45
+Diakoniewerk Bethel	Schorndorfer Strasse 81	73642	Welzheim	70
+Laubacher Stift	Schottener Str 2	35321	Laubach	41
+Ev Krankenhaus	Schottstr 66	56841	Traben-Trarbach	80
+Verwaltung Des Bundeswehr-	Schubertstrasse 60	35392	Gießen	49
+Psychosomatische Klinik	Schuetzenstr 16	86949	Windach	136
+Urolog Priv Klinik	Schuetzenstr 18	76530	Baden-Baden	10
+Staedtisches Krankenhaus	Schuetzenstrasse 15	83646	Bad Tölz	305
+Katholisches Krankenhaus	Schülgenstraße 15	53604	Bad Honnef	277
+Von Bodelschwingh-	Schulstr 11	49477	Ibbenbüren	200
+Krank Haeuser d Maerk Krs	Schulstr 25	58791	Werdohl	151
+Krankenhaus für Innere	Schulstraße 12	98701	Großbreitenbach	65
+Charité - Medizinische	Schumannstrasse 20-21	10115	Berlin	1350
+Krankenhaus St. Matthäus	Schürenkamp 6	49324	Melle	184
+Evangelisches Krankenhaus	Schützenstr 9	58239	Schwerte	188
+Kreiskrankenhaus Stormarn	Schützenstraße 55	23843	Bad Oldesloe	286
+Kreiskrankenhaus Alsfeld	Schwabenröder Straße 81	36304	Alsfeld	202
+Krankenhaus St.-Joseph-Stift	Schwachhauser Heerstraße 54	28203	Bremen	500
+St Lukas-Klinik	Schwanenstr 132	42697	Solingen	353
+Karl-Olga-Krankenhaus Gmbh	Schwarenbergstr 7	70190	Stuttgart	307
+Sana-Herzchirurgische	Schwarenbergstrasse 7	70190	Stuttgart	20
+Kreiskrankenhaus Herford	Schwarzenmoorstr 70	32049	Herford	685
+Kreiskrankenhaus Schopfheim	Schwarzwaldstr 40	79650	Schopfheim	150
+Fachkrankenhaus Fuer	Schwarzwaldstrasse 40	77740	Bad Peterstal-Griesbach	139
+West-Klinik-Dahlem	Schweinfurth-Str 43-47	14195	Berlin	44
+Krankenhaus Rottenmuenster	Schwenninger Str 55	78628	Rottweil	455
+Elisabeth-Klinik	Schwerter Str 240	44289	Dortmund	35
+Krankenhaus Bad Schandau	Sebnitzer Strasse 23	01814	Bad Schandau	50
+St Katharinen Krankenhaus	Seckbacher Landstr 65	60389	Frankfurt	455
+Städtisches Krankenhaus	Sedanstraße 1	27283	Verden	180
+St Josefs-Krankenhaus	Seegartenstr 4	68519	Viernheim	106
+Privatklinik Dr Decker	Seestr 12	80802	München	75
+Krankenhaus Neustadt	Seilersgruendchen 8	96465	Neustadt	80
+Kreiskrankenhaus Bad	Seilerweg 29	36251	Bad Hersfeld	568
+Psychiatrisches Krankenhaus	Seilerweg 29	36251	Bad Hersfeld	24
+Kreiskrankenhaus	Selkstraße 13	25832	Tönning	50
+Albertinen-Haus für	Sellhopsweg 18-22	22459	Hamburg	118
+Kreiskrankenhaus Weida	Semmelweispark	07570	Weida	106
+Krankenhaus Z Guten Hirten	Semmelweiss-Strasse 7	67059	Ludwigshafen	170
+Kreiskrankenhaus	Semmelweisstrasse 1-10	17235	Neustrelitz	230
+Stadtkrankenhaus Soest	Senator-Schwarz-Ring 8	59494	Soest	318
+Zentralkrankenhaus	Senator-Wessling-Straße 1	28277	Bremen	534
+GHS-Krankenhaus für	Senftenberger Ring 51	13435	Berlin	155
+Kreiskrankenhaus	Siegertshoehe 1	83308	Trostberg	209
+Kreiskrankenh-Kasse Mayen F	Siegfriedstr 20	56727	Mayen	303
+Park-Klinik Manhagen	Sieker Landstraße 19	22927	Großhansdorf	20
+Allgemeines Krankenhaus	Siemensplatz 4	29223	Celle	760
+Johanniter-Krankenhaus	Siepenstr 33	42477	Radevormwald	130
+Sauerlandklinik Hachen	Siepenstr 44	59846	Sundern	141
+Medizinische Einrichtungen	Sigmund-Freud-Straße 25	53127	Bonn	1521
+Kreiskrankenhaus	Simbacher Str 35	94094	Rotthalmünster	234
+Landratsamt Nuernberg Land	Simonshoferstrasse 55	91207	Lauf	168
+Kreiskrankenhaus	Simonsoeder Allee	84307	Eggenfelden	310
+Staedtisches Krankenhaus	Soellner Str 16	92637	Weiden	647
+Krankenhaus Doebeln	Soermitzer Strasse 10	04720	Döbeln	132
+St Josefs-Hospital	Solmstr 15	65183	Wiesbaden	479
+Kreiskrankenhaus	Sonnaldenstr 2	78166	Donaueschingen	310
+Stadt- und Kreiskrankenhaus	Sonnenburger Weg 11	16269	Wrietzen	196
+Klinik Sonnenwende	Sonnenwendstrasse 86	67098	Bad Dürkheim	66
+Max-Bürger-Krankenhaus	Sophie-Charlotten-Str 115	14059	Berlin	614
+Deutsches Rotes Kreuz	Sophie-Henschel-Weg 2	34260	Kaufungen	100
+Kreiskrankenhaus	Sophienstraße 1	26441	Jever	87
+Anstalt für Chronischkranke	Spandauer-Strasse 22-25	13591	Berlin	126
+DRK-Kliniken Westend	Spandauer Damm 130	14050	Berlin	315
+Ev. Krankenhaus Hubertus	Spanische Allee 10-14	14129	Berlin	307
+Marienhospital	Spellerstrasse 16	59302	Oelde	235
+Diakonissenkrankenhaus	Speyerer Str 93-95	68199	Mannheim	300
+Krankenhaus Speyererhof	Speyererhofweg 1	69115	Heidelberg	141
+Kreiskrankenhaus Hessen-	Spielmannstr 12	35781	Weilburg	232
+Kurheim Spielwigge Fach-	Spielwigge 65	58515	Lüdenscheid	45
+Stiftungskrankenhaus	Spitalgasse 1	67346	Speyer	110
+Staedt.Krankenhaus	Spitalplatz 8	78199	Bräunlingen	34
+Kreiskrankenhaus Zell A h	Spitalstr 11	77736	Zell	65
+Kreiskrankenhaus Hoechstadt	Spitalstr 5	91315	Höchstadt	98
+St Josef-Krankenhaus	Spitalstr.11	88677	Markdorf	60
+Kreiskrankenhaus	Spitalstr.29	89584	Ehingen	198
+Kreiskrankenhaus	Spitalstrasse 10	76855	Annweiler	80
+Kreiskrankenhaus Lörrach	Spitalstraße 25	79539	Lörrach	402
+Staedt Krankenhaus	Spitalstrasse 4	91301	Forchheim	293
+Landratsamt Rhoen/Grabfeld	Spoerleinstr	97616	Bad Neustadt	116
+Landratsamt Rhoen/Grabfeld	Spoerleinstr	97616	Bad Neustadt	166
+Landratsamt Rhoen/Grabfeld	Spoerleinstr	97616	Bad Neustadt	120
+St.- Johannes Hospital	Springufer 7	59755	Arnsberg	255
+Kreiskrankenhaus Hettstedt	St-Jacobi-Strasse 6	06333	Hettstedt	336
+Kreiskrankenhaus	St-Peter-Strasse 31	95643	Tirschenreuth	208
+Nervenklinik Bamberg	St Getreustr 14-18	96047	Bamberg	359
+St Vincenz-Hospital	St Vinzenz-Str 1-21	33378	Rheda-Wiedenbrück	204
+St.-Antonius-Stift	St.-Antonius-Straße	49685	Emstek	102
+Zentralkrankenhaus	St.-Jürgen-Straße	28195	Bremen	1432
+Rotes-Kreuz-Krankenhaus	St.-Pauli-Deich 24	28195	Bremen	365
+Krankenhaus Martha-Maria	Stadenstr 60	90491	Nürnberg	370
+Krankenhaus Mariahilf	Stader Straße 203 C	21075	Hamburg	298
+Kreiskrankenhaus	Stadtbleiche 1	87629	Füssen	238
+Martin-Luther-Krankenhaus	Stadtgarten 8	17207	Röbel	106
+Ev Waldkrankenhaus Spandau	Stadtrandstr. 555-561	13589	Berlin	729
+GHS-Krankenhaus für	Stargardtstr 12-14	13407	Berlin	96
+Städtische Kliniken	Starkenburgring 66	63069	Offenbach	1059
+St.-Josef-Krankenhaus	Stationsweg 7	37327	Leinefelde	42
+Klinik Dr Becker	Staufener Strasse 18	79189	Bad Krozingen	54
+Gemeindekrankenhaus	Staufenstr 10	83334	Inzell	23
+Lubinus-Klinik	Steenbeker Weg 25	24106	Kiel	182
+Kaiserin-Auguste-	Stegwiese 27	35630	Ehringshausen	100
+Krankenhaus Nordwest	Steinbacher Hohl 2-26	60488	Frankfurt	605
+Guttempler-Sozialwerk E V	Steinbacher Hohl 31	60488	Frankfurt	41
+Kreiskrankenhaus	Steinbecker Straße 44	21244	Buchholz	385
+St Barbara-Krankenhaus	Steinberger Str 24	92421	Schwandorf	286
+Paracelsus-Klinik	Steinburgstraße  17	25348	Glückstadt	90
+Kreiskrankenhaus Reutlingen	Steinenbergstrasse 31	72764	Reutlingen	715
+Kreiskrankenhaus	Steinerweg 5	81241	München	451
+Kreiskrankenhaus	Steinerweg 5	81241	München	180
+Bethlehem-Krankenhaus	Steinfeldstr 5	52222	Stolberg	405
+Privat-Nervenklinik	Steingasse 11	89073	Ulm	26
+Universitaet Ulm	Steinhoevelstr.9	89075	Ulm	1026
+Klinik St Hedwig	Steinmetz-Strasse 1-3	93049	Regensburg	240
+Kreis-und Stadtkrankenhaus	Steinstrasse 18-20	37213	Witzenhausen	201
+Evang. Krankenhaus Oldenburg	Steinweg 13-17	26122	Oldenburg	407
+St Marien-Krankenhaus	Stendaler Strasse 24-26	01109	Dresden	70
+Waldhaus-Klinik	Steppacher Str 47	86391	Stadtbergen	42
+Psychosoziale Klinik	Sternenstr 1	53881	Euskirchen	40
+Kreiskrankenhaus	Stettenstrasse 32	74653	Künzelsau	180
+Kreiskrankenhaus Prenzlau	Stettiner Straße 135	17291	Prenzlau	330
+Krankenhaus Hetzelstift	Stiftstr 10	67434	Neustadt	400
+Kreiskrankenhaus	Stiftsweg 18	53894	Mechernich	449
+Krankenhaus d Vereinigt	Stoffelsberg 4	86720	Nördlingen	169
+Karolinen-Hospital	Stolte Ley 5	59759	Arnsberg	279
+St.-Josefs-Krankenhaus	Strasse der Demokratie 20	37339	Breitenworbis	51
+Erzgebirgskrankenhaus	Strasse der Freundschaft 11	09456	Annaberg-Buchholz	419
+Krankenhaus Ronneburg	Straße der Opfer des Faschismus 15	07576	Ronneburg	100
+Klinikum Der Stadt Gera	Strasse des Friedens 122	07548	Gera	1486
+Kreiskrankenhaus	Strasse des Friedens 21	18225	Kühlungsborn	200
+Fachklinik für	Straße nach Fichtenwalde 16	14547	Beelitz	234
+Vital-Klinik Gmbh	Streuweg 100	63755	Alzenau	42
+Rangau-Fachklinik	Strueth 24	91522	Ansbach	110
+Stadt Und Kreiskrankenhaus	Struether Berg 7	91522	Ansbach	486
+Albert-Schweitzer-Kranken-	Sturmbäume 8-10	37154	Northeim	410
+Kreiskrankenhaus Urach	Stuttgarter Strasse 100	72574	Bad Urach	190
+St.-Vincenz-Hospital	Südring 41	48653	Coesfeld	360
+Klinikum Südstadt	Südring 81	18059	Rostock	461
+Niedersächsisches Landes-	Südstraße 25	31515	Wunstorf	518
+Benedikt Kreutz	Suedring 15	79189	Bad Krozingen	264
+Ev Krankenhaus Ggmbh	Suedstrasse 12	42489	Wülfrath	137
+Kreiskrankenhaus Bassum	Sulinger Straße 20	27211	Bassum	165
+Privatklinik Herrsching	Summerstr 3	82211	Herrsching	112
+St.-Barbara-Klinik Heessen	Sundern 19	59073	Hamm	483
+Albertinen-Krankenhaus	SüntelstraßE 11 A	22457	Hamburg	452
+St Valentinus-Haus	Suttonstr.24	65399	Kiedrich	262
+Deutsches Rotes Kreuz- und	Suurheid 20	22559	Hamburg	398
+Klinik am Reinhardsberg	Tabarzer Straße 2	99894	Friedrichroda	289
+Tagesklinik Netphen Der	Talstr 28	57250	Netphen	0
+Privatklinik Dr.Geiges	Talstr.62	79102	Freiburg	20
+Allgemeines Krankenhaus	Tangstedter Landstraße 400	22415	Hamburg	641
+Neurolog Klinik	Tannenwaldallee 50	61348	Bad Homburg	112
+Sportklinik Stuttgart	Taubenheimstr 8	70372	Stuttgart	100
+Krankenhaus Gmbh	Tecklenburger Str 34 A	48565	Steinfurt	140
+St Joseph-Krankenhaus	Teichstrasse 66	06844	Dessau	105
+Kreiskrankenhaus	Teisbacher Strasse 1	84130	Dingolfing	190
+Ev. Krankenhaus Schönow	Teltower Damm 189-203	14167	Berlin	379
+Hermann-Josef-Krankenhaus	Tenholterstr.43	41812	Erkelenz	343
+Kreiskrankenhaus	Tennstedt 1	06526	Sangerhausen	485
+Kreiskrankenhaus	Teunzerstr 15	92526	Oberviechtach	110
+Staedt Krankenanstalten	Teutoburger Strasse 50	33604	Bielefeld	678
+Lungenklinik Hemer	Theo-Funccius-Strasse 1	58675	Hemer	240
+Clementine Kinderhospital	Theobald Christ Str 16	60316	Frankfurt	55
+Ev.Elisabeth-Krankenhaus	Theobaldstrasse 12	54292	Trier	202
+Tagesklinik Siegburg	Theodor-Heuss-Strasse 6	53721	Siegburg	0
+Diabetes-Klinik	Theodor-Klotzbuecher Str 12	97980	Bad Mergentheim	65
+Klinikum	Theodor-Stern-Kai 7	60596	Frankfurt	1467
+Klinikum Der Stadt Mannheim	Theodor Kutzer Ufer	68167	Mannheim	1673
+Carl-Thiem-Klinikum Cottbus	Thiemstrasse 111	03048	Cottbus	1392
+Herzzentrum Cottbus	Thiemstraße 111	03048	Cottbus	21
+Kreiskrankenhaus	Thiestrasse 7-10	38889	Blankenburg	300
+Fliedner-Krankenhaus	Thunesweg 58	40885	Ratingen	235
+St.-Hildegard-Krankenhaus	Thüringer Allee 12	14052	Berlin	161
+Stift Tilbeck	Tilbeck 2	48329	Havixbeck	140
+Fachklin. Kiel-Elmschenhagen	Tiroler Ring 621-623	24147	Kiel	54
+St Irmgardis-Krankenhaus	Toenisvorster Str 26	41749	Viersen	150
+Staedt.Krankenhaus	Torstr.1	72275	Alpirsbach	22
+Kreiskrankenhaus Merzig	Torstrasse 28	66663	Merzig	277
+Kreiskrankenhaus	Traubenweg	93309	Kelheim	80
+Kreiskrankenhaus	Traubenweg 3	93309	Kelheim	300
+Kreiskrankenhaus	Trebrastrasse 11	09496	Marienberg	201
+St.-Bernward-Krankenhaus	Treibestraße 9	31134	Hildesheim	678
+Krankenhaus Oberstdorf	Trettachstr 16	87561	Oberstdorf	130
+Landeskrankenhaus Merzig	Trierer Allee 148	66663	Merzig	335
+Elisabeth-Stiftung Des Drk	Trierer Str 18-20	55765	Birkenfeld	123
+Sophienhaus Weimar	Trierer Str. 2	99423	Weimar	300
+Klinik für Kinder- und	Triftstraße 139-143	23554	Lübeck	32
+Neurolog Krankenhaus	Tristanstr 20	80804	München	108
+Kreiskrankenhaus Balingen	Tuebinger Str 30	72336	Balingen	227
+Lva Rheinprovinz	Tueschener Weg 40	45239	Essen	272
+Haus Hall	Tungerloh-Capellen 4	48712	Gescher	120
+Buergerhospital	Tunzhofer-Str 14-16	70191	Stuttgart	10
+Buergerhospital	Tunzhofer-Str 14-16	70191	Stuttgart	806
+Krankenhaus Moabit	Turmstr 21	10559	Berlin	804
+Staedt Krankenhaus	Turnerstr 23	55218	Ingelheim	96
+St Benno Krankenhaus	Tzschirner Strasse 12	02625	Bautzen	75
+St.-Josefs-Hospital	Uferstraße 7	57368	Lennestadt	233
+Staedt Krankenhaus	Uhlandstr 2	78727	Oberndorf	129
+Bezirksklinik	Uhlandstr 4	80336	München	26
+Caritaskrankenhaus	Uhlandstrasse 7	97980	Bad Mergentheim	646
+Schüchtermann-Klinik	Ulmenallee 1	49214	Bad Rothenfelde	52
+Kreiskrankenhaus	Ulmer Str 26	89143	Blaubeuren	121
+Bezirkskrankenhaus	Universitaetsstrasse 84	93053	Regensburg	791
+Mariannenhospital	Unnaer Str.15	59457	Werl	171
+DRK-Krankenhaus Rabenstein	Unritzstraße 21	09117	Chemnitz	215
+Diakonie-Krankenhaus	Unter den Birken 1	38875	Elbingerode	72
+Kreiskrankenhaus Muensingen	Unter der Bleiche 18	72525	Münsingen	148
+Zentralkrankenhaus Gauting	Unterbrunnerstrasse 85	82131	Gauting	595
+St Vincentius-Krankenhaus	Untere Laube 2	78462	Konstanz	100
+St Vincentius-Krankenhaus	Untere Neckar Str 1-5	69117	Heidelberg	84
+Bruederkrankenhaus	Unterer Atzemer 7	60316	Frankfurt	106
+St Joseph-Krankenhaus	Unterhof 153	37308	Ershausen	19
+Kreiskrankenhaus Freiberg	Unterhofstrasse 2	09599	Freiberg	520
+Krankenhaus Porz Am Rhein	Urbacher Weg 19	51149	Köln	502
+Krankenhaus Benrath	Urdenbacher Allee 83	40593	Düsseldorf	360
+Kliniken	Urseler Strasse 33	61348	Bad Homburg	451
+Krankenhaus Saarlouis	Vaubanstr 25	66740	Saarlouis	276
+Kreiskrankenhaus	Verlaengerte Bahnhofstr 6	06679	Hohenmölsen	217
+Staedtisches Krankenhaus	Verw Stadtkaemmerei Rathaus	89073	Ulm	52
+Kreiskrankenhaus	Viernheimer Str 2	64646	Heppenheim	373
+Kreiskrankenhaus	Vinzentiusstrasse 56	83395	Freilassing	141
+Vinzenz-Pallotti-Hospital	Vinzenz-Pallotti-Straße 20-24	51429	Bergisch Gladbach	259
+Kreiskrankenhaus	Vinzenz-von-Paul-Str 10	84503	Altötting	404
+St Vincenz-Hospital	Vinzenzstr 6	46414	Rhede	130
+Kreiskrankenhaus Bretten	Virchow Str 15	75015	Bretten	296
+Staedt Krankenhaus	Virchowstr 10	78224	Singen	415
+Marienhospital	Virchowstr 135	45886	Gelsenkirchen	594
+Evangelisches Krankenhaus	Virchowstr 20	46047	Oberhausen	608
+Klinik Rotes Kreuz	Virchowstr 7 A	66119	Saarbrücken	120
+Rheinische Landes- und	Virchowstraße 174	45147	Essen	220
+Kreiskrankenhaus	Virchowstrasse 18	08371	Glauchau	404
+Evang Krankenhaus Gmbh	Virchowstrasse 4	44263	Dortmund	237
+Kreiskrankenhaus Rinteln	Virchowstraße 5	31737	Rinteln	285
+Kreiskrankenhaus Luebbecke	Virchowstrasse 65	32312	Lübbecke	505
+Krankenhaus des Land-	Virchowstraße 8 h	31226	Peine	510
+Krankenhaus Johanneum	Visbecker Straße 5	27793	Wildeshausen	162
+Bezirkskrankenhaus Haar	Vockestr 72	85540	Haar	2205
+Martin Luther Krankenhaus	Voedestr 79	44866	Bochum	263
+Evang Krankenhaus Gmbh	Volksgartenstrasse 40	44388	Dortmund	298
+Franz-Hospital	Vollenstraße 10	48249	Dülmen	226
+Fachkrankenhaus Moorpension	Von-Bodelschwingh-Straße 19	27259	Freistatt	52
+Marienhospital	von-Droste-Str.14	59597	Erwitte	200
+Neurologische Klinik Gmbh	Von-Guttenberg-Strasse 10	97616	Bad Neustadt	49
+Robert-Koch-Krankenhaus	Von-Reden-Straße 1	30989	Gehrden	400
+St Vincenz-Krankenhaus	Von Bergmann Str 2	45141	Essen	234
+Hospital Zum Hl Geist	Von Broichhausen Allee 1	47906	Kempen	251
+Malteser-Krankenhaus	Von Hompesch Str 1	53123	Bonn	425
+Kreiskrankenanstalten	Von Werth Str 5	41515	Grevenbroich	342
+Johanniter-Krankenhaus	Vor dem Mühlentor 3	19258	Boizenburg	115
+Ruprecht-Karls-Universitaet	Voss-Str 2	69115	Heidelberg	1874
+Wilhelm-Anton-Krankenhaus	Vossheider Strasse 214	47574	Goch	255
+Krankenhaus Mariahilf	Vredener Strasse 58	48703	Stadtlohn	158
+Landesnervenklinik	Vulkanstrasse 58	56626	Andernach	444
+Vulpius-Klinik	Vulpiusstr 29	74906	Bad Rappenau	135
+Kreiskrankenhaus	W-V-Siemens-Strasse 7	95478	Kemnath	159
+Epilepsiezentrum	Wachauer Strasse 30	01465	Liegau-Augustusbad	30
+St Rochus-Stift	Wachbacher Str 60	97980	Bad Mergentheim	102
+Marienstift Arnstadt	Wachsenburgallee 12	99310	Arnstadt	125
+Diakoniewerk Bethel	Wagner Strasse 5	78647	Trossingen	56
+Hainberg-Klinik	Wagnerstraße 3	37085	Göttingen	30
+St Josefs-Krankenhaus	Walderstr 34-38	40724	Hilden	255
+Sächsisches Krankenhaus für	Waldhofstraße	08209	Bad Reiboldsgrün	68
+Klinik Fuer Geburtshilfe	Waldhornstr 27	68199	Mannheim	10
+Kreiskrankenhaus	Waldschmidtweg 40	94227	Zwiesel	196
+Lippische Nervenklinik	Waldstr 2	32105	Bad Salzuflen	125
+Privatklinik	Waldstr.7	82166	Gräfelfing	291
+Ev.-Freikirchliches Krankenh	Waldstrasse	15562	Rüdersdorf	442
+Chirurgisch-Orthopädische	Waldstraße 13	64653	Lorsch	107
+St.-Franziskus-Hospital	Waldstraße 17	24939	Flensburg	337
+Kreiskrankenhaus Uelzen	Waldstraße 2	29525	Uelzen	375
+Evang. Krankenhaus Bad Godes	Waldstraße 73	53177	Bonn	352
+Kreiskrankenhaus Aurich	Wallinghausener Straße 8	26603	Aurich	370
+Dr V Ehrenwallsche Klinik	Walporzheimer Str 2	53474	Bad Neuenahr-Ahrweiler	120
+Landeshauptstadt Hannover	Walsroder Straße 121	30851	Langenhagen	155
+Krankenhaus Zehlendorf	Walterhöferstraße 11	14165	Berlin	831
+Kinderklinik Am Moenchberg	Waltherstr 20	97074	Würzburg	80
+Katholisches Krankenhaus	Wanheimer Str 167 A	47053	Duisburg	320
+St Elisabeth Krankenhaus	Warburger Str 6	34471	Volkmarsen	102
+Kreiskrankenhaus	Warthstrasse 5	99444	Blankenhain	228
+Städtisches Krankenhaus	Wasserkrügerweg 7	23879	Mölln	113
+Kreiskrankenhaus Siegen	Weidenauer Straße 76	57076	Siegen	570
+Staedt.Krankenhaus	Weidenhartstr 35	86830	Schwabmünchen	200
+Fachkrankenhs Weihersmuehle	Weihersmuehle 1-3	90613	Großhabersdorf	48
+Kreiskrankenhaus Hechingen	Weilheimer Str 31	72379	Hechingen	183
+Landeswohlfahrtsverband	Weilstr.10	35789	Weilmünster	680
+Sana-Klinik Nuernberg Gmbh	Weiltinger Strasse 11	90449	Nürnberg	104
+Städtisches Krankenhaus	Weinberg 1	31134	Hildesheim	678
+Elisabeth-Krankenhaus	Weinbergstr.7	34117	Kassel	214
+Evangelisches Krankenhaus	Weinbergstrasse 18-19	14469	Potsdam	88
+Kreiskrankenhaus Waren	Weinbergstrasse 19	17192	Waren	362
+Kreiskrankenhaus Riesa	Weinbergstrasse 8	01589	Riesa	531
+Kreiskrankenhaus	Weinbergweg 34	91154	Roth	38
+Kreiskrankenhaus Roth	Weinbergweg 40	91154	Roth	270
+Kreiskrankenhaus	Weinbrunnenstrasse 15	01558	Großenhain	226
+St Josef-Krankenhaus	Weingartenstr 70	77654	Offenburg	220
+psych.Landeskrankenhaus	Weingartshofener Str 2	88212	Ravensburg	408
+Bezirksverband Pfalz	Weinstr 100	76889	Klingenmünster	790
+Kreiskrankenhaus	Weisse Mauer 52	06217	Merseburg	540
+Kreis- Und Stadtkrankenhaus	Weissenbacher Strasse 62	95100	Selb	189
+Psychiatr.Landeskrankenhaus	Weissenhof	74189	Weinsberg	618
+Margaritenhospital	Weissensteiner Str 33	73525	Schwäbisch Gmünd	130
+Deutsches Rotes Kreuz	Wellersbergstr 60	57072	Siegen	180
+Wenckebach-Krankenhaus	Wenckebachstr 23	12099	Berlin	539
+Kreiskrankenhs Brackenheim	Wendelstr 11	74336	Brackenheim	185
+Johanniter-Krankenhaus	Wendstrasse 31	39576	Stendal	363
+Paracelsusklinik Zwickau	Werdauer Straße 68	08060	Zwickau	241
+St Marienkrankenhaus Gmbh	Werdener Strasse 3	40882	Ratingen	210
+Evangelisches Krankenhaus	Werler Str 110-130	59063	Hamm	508
+Marienkrankenhaus Ev	Werler Str 52	58739	Wickede	204
+Staedt Krankenhaus Versmold	Wersestrasse 12	33775	Versmold	103
+Staedtisches Krankenhaus	Wertachstrasse 55	86399	Bobingen	172
+Stiftung Ev Krankenhaus Und	Wertgasse 30	45468	Mülheim	643
+Krankenhausverband	Wertheimer Strasse 95	74736	Hardheim	80
+St Elisabeth-Krankenhaus	Werthmannstr 1	50935	Köln	528
+Staedt Kinderklinik	Westerholterstr 142	45894	Gelsenkirchen	140
+St.-Josef-Stift	Westerstraße 100	27749	Delmenhorst	200
+Herz-Jesu-Krankenhaus	Westfalenstrasse 109	48165	Münster	442
+Kasse Der Universitaets-	Westring 5	48143	Münster	1614
+Kreiskrankenhaus	Westring 55	67269	Grünstadt	212
+St Josef-Stift	Westtor 7	48324	Sendenhorst	326
+Stadtkrankenhaus	Wettelsheimer Str 9	91757	Treuchtlingen	85
+Stauferklinik	Wetzgauer Strasse 85	73557	Mutlangen	448
+Ev Krankenhaus Koeln	Weyertal 76	50937	Köln	456
+Ev.Krankenhaus	Wichernstr.8	48147	Münster	205
+Evang Jung-Stilling-	Wichernstrasse 40	57074	Siegen	458
+Kreiskrankenhaus Greiz	Wichmannstrasse 12	07973	Greiz	543
+Marienkrankenhaus	Widumgasse 5	59494	Soest	266
+Bundesknappschaft	Wieckesweg 27	44309	Dortmund	531
+Ev.Krankenhaus	Wiedenbrücker Str 33	59555	Lippstadt	380
+Krankenhausbetriebsgesell-	Wielandstr 23	32545	Bad Oeynhausen	428
+Zweckverband	Wielandstr 28	32545	Bad Oeynhausen	386
+Niedersächsisches Landes-	Wienebütteler Weg 1	21335	Lüneburg	547
+St.-Joseph-Hospital e.V.	Wiener Straße 1	27568	Bremerhaven	348
+Evang Krankenhaus	Wiescherstr 24	44623	Herne	384
+Klinik Dr. Muschinsky	Wiesenbek 7-10	37431	Bad Lauterberg	55
+Kinderzentrum Pelzerhaken	Wiesenstraße 30	23730	Neustadt	28
+Burgfeld-Krankenhaus	Wigandstr 6-8	34131	Kassel	165
+Städtische Kliniken	Wildeshauser Straße 92	27753	Delmenhorst	360
+Krankenhaus Siloah	Wilferdinger Str 67	75179	Pforzheim	315
+Kreiskrankenhaus	Wilhelm-Breckow-Allee 20	51643	Gummersbach	582
+St Markus-Krankenhaus	Wilhelm-Epstein-Str 2	60431	Frankfurt	505
+Rheinische Landesklinik	Wilhelm-Griesinger-Str 23	51109	Köln	483
+Kreiskrankenhaus Eilenburg	Wilhelm-Grune-Strasse 5	04838	Eilenburg	207
+St Josefs-Hospital	Wilhelm-Schmidt-Str 4	44263	Dortmund	360
+Kreiskrankenhaus - Hessen-	Wilhelm-Seip-Str 1	64521	Groß-Gerau	276
+St Johannes-Krankenhaus	Wilhelm Busch Str 9	53844	Troisdorf	207
+Orthopaedische Klinik	Wilhelmshoeher Allee 345	34117	Kassel	210
+Hegar Klinik	Wilhelmstr.10	79098	Freiburg	23
+Privat-Klinik Dr. Hasse	Wilhelmstraße 10	25524	Itzehoe	3
+Krankenhaus	Wilhelmstrasse 14	35392	Gießen	71
+St.-Bonifatius-Hospital	Wilhelmstraße 15	49808	Lingen	416
+St Josef-Hospital	Wilhelmstrasse 34	46145	Oberhausen	393
+Krankenhaus des Kreises	Wilhelmstraße 5	31785	Hameln	600
+Psychosom. Klinik Wilkenberg	Wilkenberg 12	58540	Meinerzhagen	54
+St.-Willibrord-Spital	Willibrordstr 9	46446	Emmerich	374
+Paracelsus-Klinik	Wilstedter Straße 34	24558	Henstedt-Ulzburg	219
+UKRV, Franz-Volhard-Klinik	Wiltbergstrasse 50	13125	Berlin	78
+Klinikum Buch	Wiltbergstrasse 50	13125	Berlin	1684
+Privatklinik	Windebyer Weg 39	24340	Eckernförde	30
+St.-Vincenz-Krankenhaus	Windische Gasse 112	37308	Heiligenstadt	310
+Robert-Koch-Krankenhaus	Windmählenstraße 1	38678	Clausthal-Zellerfeld	103
+Winghofer-Klinik	Winghofer Strasse 42	72108	Rottenburg	15
+Krankenhaus Halle	Winnebrockstrasse 1	33790	Halle	193
+Kreiskrankenhaus	Winnender Str 41	71334	Waiblingen	383
+Krankenhaus St Joseph-Stift	Wintergartenstrasse 15-17	01307	Dresden	234
+Evang Diakoniekrankenhaus	Wirthstrasse 11	79110	Freiburg	195
+Nervenklinik Schwerin	Wismarsche Straße 393-395	19053	Schwerin	446
+Klinikum Schwerin	Wismarsche Straße 397	19053	Schwerin	1334
+Westf Heilerzieh-U Heil-U	Wittekindshof 83	32549	Bad Oeynhausen	629
+Kreiskrankenhaus	Wittelsbacher Str 8	93155	Hemau	90
+Sued-Klinik Gmbh & Co	Wittelsbacher Strasse 1	94315	Straubing	55
+Klinik für Lungenkrankheiten	Wittgensdorfer Straße 159	09114	Chemnitz	101
+Gemeindekrankenhaus	Witzenberger Weg 4	87764	Legau	33
+St-Josef-Krankenhaus	Wohlandstr 18	51766	Engelskirchen	251
+Krankenhaus Großhansdorf	Wöhrendamm 80	22927	Großhansdorf	107
+Augenklinik Dr. Hoffmann	Wolfenbütteler Straße 82	38102	Braunschweig	48
+Krankenhaus Martha-Maria	Wolfratshauser Strasse 109	81379	München	150
+Krankenhaus St Trudpert	Wolfsbergallee 50	75177	Pforzheim	180
+Stiftsklinik Augustinum	Wolkenweg 16	80331	München	182
+Kreiskrankenhaus Demmin	Wollweberstrasse 21	17109	Demmin	270
+St Josef-Krankenhaus	Woogtalstrasse 7	61462	Königstein	56
+St Marien-Hospital	Wuellner Str 101	48683	Ahaus	300
+Klinik Fuer Plastische- Und	Zehnthofstr 6	75175	Pforzheim	5
+Marien-Hospital Aachen	Zeise 4          1009	52066	Aachen	342
+Zeisigwaldkliniken	Zeisigwaldstraße 80-101	09130	Chemnitz	388
+Kinderhospital Altenburg	Zeitzer Strasse 28	04600	Altenburg	85
+Krankenhaus Salem	Zeppelinstr 11-33	69121	Heidelberg	252
+Rosmann-Krankenhaus	Zeppelinstr 37	79206	Breisach	105
+Centralklinik Gmbh & Co Kg	Zerrennerstrasse 22-24	75172	Pforzheim	55
+Frauenklinik	Ziegelbergstr.5	63739	Aschaffenburg	37
+Kreiskrankenhaus Biberach	Ziegelhausstr 50	88400	Biberach	315
+Krankenhaus St Elisabeth	Ziegelstrasse 38	89407	Dillingen	244
+Kinderklinik Koenigsborn	Zimmerplatz 1	59425	Unna	90
+Hafenkrankenhaus	Zirkusweg 11	20359	Hamburg	203
+Krankenhaus Bethesda	Zollernring 26	89073	Ulm	90
+Kath Krankenhaus	Zollernstrasse 40	44379	Dortmund	265
+Frauenklinik Rheinfelden	Zollstrasse 2	79618	Rheinfelden	51
+Psychiatrisches Krankenhaus	Zscherbener Strasse 11	06122	Halle	60
+Staedt Kliniken	Zu den Rehwiesen 9	47055	Duisburg	635
+Kliniken der Freien Hanse-	Züricher Straße 40	28325	Bremen	1171
+Kreiskrankenhaus Riedlingen	Zwiefalter Str 62	88499	Riedlingen	172
+Kliniken Hubertusburg		04779	Wermsdorf	385
+Hellmuth-Ulrici-Klinik		16766	Sommerfeld	258
+Kreiskrankenhaus Grimmen		18516	Bartmannshagen	211
+Berufsgenossenschaftliches		21008	Hamburg	425
+Tagesklinik für Psychisch		23730	Neustadt in Holstein	0
+Ostseeklinik Damp GmbH		24351	Damp	357
+Waldhof-Elgershausen Gmbh		35753	Greifenstein	106
+Krankenhaus Rusteberg		37318	Marth (Thüringen)	0
+Landeskrankenhaus		39599	Uchtspringe	562
+St.-Josef-Stift		49774	Lähden	0
+Nuklearmedizinische Klinik		52428	Jülich	18
+Kosmas-Klinik		53474	Bad Neuenahr-Ahrweiler	4
+Klinik Hochstraße 23		53474	Bad Neuenahr-Ahrweiler	42
+Ahrtal-Klinik		53489	Sinzig	30
+Fachklinik Wittichen		72275	Alpirsbach-Reinerzau	0
+Klinik Dr. Wurl/Dr. Rosen-		74076	Heilbronn	27
+Michael-Balint-Klinik		78126	Königsfeld	42
+Klinik Kipfenberg GmbH		85110	Kipfenberg	76
+Bezirkskrankenhaus		86156	Augsburg	80
+Gefäßklinik Dr. Berg		89134	Blaustein	20
+Bezirkskrankenhaus Parsberg		92331	Parsberg	40
+Krankenhaus und Senioren-		92339	Beilngries	21
