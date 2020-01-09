@@ -47,6 +47,7 @@ public class Spooler {
         spooler.clear();
     }
 
+    // Ausgabe soll nach dem QUIT Mode bis zum output index ausgeb. werden und wenn spooler voll ist warnung, und als result. keine speicherung
     public String validateInput(String raw) {
         raw = raw.strip();
         switch (raw) {

@@ -3,7 +3,7 @@ package de.mawiguko.studium.aldastru.Aufgabe_5;
 import javax.xml.crypto.dsig.keyinfo.KeyValue;
 import java.util.HashMap;
 
-public class Programm {
+public class Aufgabe_5 {
     static HashMap<String, String> javaHash = new HashMap<>();
     static HashMap<Integer, String> ownHash = new HashMap<>();
     static String[] namen= new String[32];
@@ -13,6 +13,7 @@ public class Programm {
         namen = namenString.split(", ");
         put(namen);
 
+        System.out.println("");
 
     }
 
