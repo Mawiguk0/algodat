@@ -1,23 +1,22 @@
 package de.mawiguko.util.binarytree;
 
 import java.io.Serializable;
+import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 /**
  *
  * @param <T> Type of the Object which is stored into this Node.
  */
 public class Node<T> implements Serializable, Cloneable {
-    Node left;
     T object;
+    Node left;
+    Node parent;
     Node right;
 
     public Node(T object) {
         this.object = object;
     }
-
 
     public boolean hasRight() {
         return right != null;
@@ -35,8 +34,11 @@ public class Node<T> implements Serializable, Cloneable {
         return left;
     }
 
-    public void setLeft(Node left) {
-        this.left = left;
+    public void setLeft(Node... leftys) {
+        this.left = leftys[0];
+        if(leftys.length > 1) {
+            this.left.setLeft(Arrays.asList(leftys).subList(1,leftys.length).toArray(new Node[leftys.length-1]));
+        }
     }
 
     public T getObject() {
@@ -51,8 +53,16 @@ public class Node<T> implements Serializable, Cloneable {
         return right;
     }
 
-    public void setRight(Node right) {
-        this.right = right;
+    public void setRight(Node... rightys) {
+        this.right = rightys[0];
+        if(rightys.length>1) {
+            this.right.setRight(Arrays.asList(rightys).subList(1, rightys.length).toArray(new Node[rightys.length-1]));
+            this.right.setParent(this);
+        }
+    }
+
+    private void setParent(Node<T> tNode) {
+        this.parent = tNode;
     }
 
     public void appendRightRecursive(Node parent, Node... nodes) {
@@ -68,16 +78,58 @@ public class Node<T> implements Serializable, Cloneable {
 
     public String toString () {
         StringBuilder sb = new StringBuilder();
-        sb.append(object.toString());
+        sb.append("[").append(object.toString()).append("]");
         return sb.toString();
     }
 
     public void recursivePreOrder(Node node){
-        System.out.println(object.toString());
+        if(node!= null) {
+            System.out.print(node.toString());
+        }
+        if(node == null) {
+            return;
+        }
         if(node.hasLeft()) {
             recursivePreOrder(node.getLeft());
         }
         if(node.hasRight())
             recursivePreOrder(node.getRight());
+    }
+
+    public void recursiveInOrder(Node node) {
+        if(node.hasLeft()) {
+            recursiveInOrder(node.getLeft());
+        }
+        if(node!= null) {
+            System.out.print(node.toString());
+        }
+        if(node.hasRight()) {
+            recursiveInOrder(node.getRight());
+        }
+    }
+
+    public void recursivePostOrder(Node node) {
+        if(node.hasLeft()) {
+            recursiveInOrder(node.getLeft());
+        }
+        if(node.hasRight()) {
+            recursiveInOrder(node.getRight());
+        }
+        if(node!= null) {
+            System.out.print(node.toString());
+        }
+    }
+
+    public int getHeight() {
+        int leftHeight = 0;
+        int rightHeight = 0;
+        if(this.isLeaf()) {
+            return 1;
+        }else if (this.hasLeft()) {
+            leftHeight = left.getHeight();
+        } else if (this.hasRight()) {
+            rightHeight = right.getHeight();
+        }
+        return leftHeight++ > rightHeight++ ? leftHeight : rightHeight;
     }
 }

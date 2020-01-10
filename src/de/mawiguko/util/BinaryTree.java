@@ -3,25 +3,18 @@ package de.mawiguko.util;
 import de.mawiguko.util.binarytree.Node;
 import de.mawiguko.util.binarytree.NodeAlreadySetException;
 import de.mawiguko.util.binarytree.TraversalMode;
-import org.junit.platform.commons.support.HierarchyTraversalMode;
 
 import java.io.Serializable;
-import java.util.List;
 
 /**
  *
  */
 public class BinaryTree implements Cloneable, Serializable {
-    private Node root;
-    private int height;
-    private int width;
-
-    public BinaryTree(){
-        height = 0;
-        width = 0;
+    public int getHeight(){
+        return root.getHeight();
     }
 
-
+    private Node root;
     /**
      *
      * @param traversalMode sets the traversal route for adding multple nodes
@@ -48,7 +41,21 @@ public class BinaryTree implements Cloneable, Serializable {
     }
 
     public void traversalPreOrder() {
+        System.out.println("PreOrder Traversal:");
         this.root.recursivePreOrder(root);
+        System.out.println();
+    }
+
+    public void traversalInOrder() {
+        System.out.println("InOrder Traversal:");
+        this.root.recursiveInOrder(root);
+        System.out.println();
+    }
+
+    public void traversalPostOrder() {
+        System.out.println("PostOrder Traversal:");
+        this.root.recursivePostOrder(root);
+        System.out.println();
     }
 
 
