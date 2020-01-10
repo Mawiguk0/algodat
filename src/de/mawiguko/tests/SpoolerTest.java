@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SpoolerTest {
     @Test
     void sizeIntegrity() {
-        //int testSize = (int) (9123 * Math.random());
+        //int testSize = (int) (9123 * AlgoMath.random());
         //int testOutputIndex = (int) testSize/2;
         //Spooler spooler = new Spooler(testSize,(int) testSize/2);
         Spooler spooler = new Spooler(10,5);

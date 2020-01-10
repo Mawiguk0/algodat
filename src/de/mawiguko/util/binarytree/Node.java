@@ -125,11 +125,41 @@ public class Node<T> implements Serializable, Cloneable {
         int rightHeight = 0;
         if(this.isLeaf()) {
             return 1;
-        }else if (this.hasLeft()) {
+        }
+        if (this.hasLeft()) {
             leftHeight = left.getHeight();
-        } else if (this.hasRight()) {
+        }
+        if (this.hasRight()) {
             rightHeight = right.getHeight();
         }
         return leftHeight++ > rightHeight++ ? leftHeight : rightHeight;
+    }
+
+    public int countLeaf() {
+        int rightLeafs =  0;
+        int leftLeafs = 0;
+        if (this.isLeaf()) {
+            return 1;
+        }
+        if (hasRight()){
+            rightLeafs = right.countLeaf();
+        }
+        if (hasLeft()) {
+            leftLeafs = left.countLeaf();
+        }
+        return leftLeafs + rightLeafs;
+
+    }
+
+    public int countNodes() {
+        int leftNodes = 0;
+        int rightNodes = 0;
+        if(hasLeft()) {
+            leftNodes = left.countNodes();
+        }
+        if(hasRight()) {
+            rightNodes = right.countNodes();
+        }
+        return 1+rightNodes+leftNodes;
     }
 }

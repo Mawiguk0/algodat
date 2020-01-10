@@ -109,7 +109,7 @@ public class DoublyLinkedList<T> implements Serializable {
         DoubleLinkedElement le = start;
         Stammdatum obj = (Stammdatum) le.getObject();
 
-        while(le.getNext() != null) {
+        iterations: while(le != null) {
             switch (searchcriteria) {
                 case Vorname: {
                     objectString = obj.getVorname();
@@ -141,8 +141,13 @@ public class DoublyLinkedList<T> implements Serializable {
                 System.out.println(sb.toString());
                 return le;
             }
-            le=le.getNext();
-            obj= (Stammdatum) le.getObject();
+            if(le.getNext() != null) {
+                le=le.getNext();
+                obj= (Stammdatum) le.getObject();
+
+            }else {
+                break iterations;
+            }
         }
         System.out.println(sb.append("\nNothing found...").toString());
         return null;

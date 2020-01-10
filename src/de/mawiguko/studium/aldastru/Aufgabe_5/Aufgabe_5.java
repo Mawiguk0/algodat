@@ -10,37 +10,12 @@ public class Aufgabe_5 {
     public static void main (String[] args) {
         String namenString = "Alexander, David, Felix, Maximilian, Leon, Lukas, Luca, Paul, Jonas, Tim, Anna, Emily, Julia, Maria, Laura, Lea, Lena, Leonie, Marie, Sophie";
 
+        de.mawiguko.util.HashMap myMap = new de.mawiguko.util.HashMap(32);
         namen = namenString.split(", ");
-        put(namen);
+        myMap.put(namen);
+
+        System.out.println(myMap.toString());
 
         System.out.println("");
-
-    }
-
-    private static void put(String... _namen) {
-        System.out.println("Hash : Value : Collisions");
-        // Add All key-values to javaHash
-        int collisionSum = 0;
-        for(String s : _namen) {
-            if(javaHash.containsKey(String.valueOf(s.hashCode()))) {
-                collisionSum++;
-            }
-            javaHash.put(String.valueOf(s.hashCode()),s);
-            ownHash.put(generateKey(s),s);
-        }
-        // check for collision per name and add to over all Collisions:
-        for(String s : _namen) {
-            String tmpCollisions = javaHash.containsKey(String.valueOf(s.hashCode()))?String.valueOf(collisionSum):"";
-            System.out.println(s.hashCode()+" : "+ s+" : "+tmpCollisions);
-            javaHash.containsKey(String.valueOf(s.hashCode()));
-        }
-    }
-
-    public static int generateKey(String surname) {
-        int key = 0;
-        for ( int i = 0; i < surname.length() ; i++ ) {
-            key = key + 10^1* (int) surname.toCharArray()[i];
-        }
-        return key;
     }
 }

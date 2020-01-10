@@ -58,6 +58,14 @@ public class BinaryTree implements Cloneable, Serializable {
         System.out.println();
     }
 
+    public int countLeafs() {
+        return root.countLeaf();
+    }
+
+    public int countNodes() {
+        return root.countNodes();
+    }
+
 
     /**
      *  Save to use if you want to build a tree without datalos trough checking before setting the child

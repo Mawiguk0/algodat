@@ -91,7 +91,7 @@ public class Aufgabe_1 {
         System.out.println("\n\n\n");
         liste.printList();
         liste.delete(liste.find(Searchcriteria.Vorname,"Alan"));
-        liste.delete(liste.find(Searchcriteria.Nachname,"Lee"));
+        liste.delete(liste.find(Searchcriteria.Nachname,"Berners-Lee"));
         liste.delete(liste.find(Searchcriteria.Nachname,"Zuse"));
 
         liste.printList();

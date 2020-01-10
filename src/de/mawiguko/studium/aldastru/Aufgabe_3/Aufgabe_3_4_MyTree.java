@@ -3,8 +3,6 @@ package de.mawiguko.studium.aldastru.Aufgabe_3;
 import de.mawiguko.util.BinaryTree;
 import de.mawiguko.util.binarytree.Node;
 
-import java.util.Arrays;
-
 public class Aufgabe_3_4_MyTree {
     public static void main (String[] args) {
         BinaryTree myTree = new BinaryTree();
@@ -42,6 +40,13 @@ public class Aufgabe_3_4_MyTree {
 
         System.out.println("Height of Root Element:");
         System.out.println(myTree.getRoot().getHeight());
+
+        System.out.println("Leafs of the Root:");
+        System.out.println(myTree.countLeafs());
+
+        System.out.println("Nodes of the Root:");
+        System.out.println(myTree.countNodes());
+        System.out.println("input string was: "+input.length());
     }
 
 }

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Aufgabe_2 {
+public class Aufgabe_2_1 {
 
     public static void main (String[] args) {
         ArrayList<Character> spooler = new ArrayList<>();
